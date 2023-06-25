@@ -1,0 +1,3001 @@
+﻿ID,HSK,FREQ,GENERAL_STANDARD,RADICAL,STROKE_COUNT,CHINESE_CHARACTER,PINYIN,TONE,MEANING
+1,1,1,1155,白 106.3,8,的,de,0,"possessive, adjectival suffix"
+2,1,2,1,一 1.0,1,一,yī,1,"one; a, an; alone"
+3,1,3,1479,日 72.5,9,是,shì,4,"indeed, yes, right; to be; demonstrative pronoun, this, that"
+4,1,4,91,一 1.3,4,不,bù,4,"no, not; un-; negative prefix"
+5,1,5,17,亅 6.1,2,了,le,0,to finish; particle of completed action
+6,1,6,388,土 32.3,6,在,zài,4,"be at, in, on; consist in, rest"
+7,1,7,10,人 9.0,2,人,rén,2,man; people; mankind; someone else
+8,1,8,390,月 74.2,6,有,yǒu,3,"have, own, possess; exist"
+9,1,9,761,戈 62.3,7,我,wǒ,3,"our, us, i, me, my, we"
+10,1,10,277,人 9.3,5,他,tā,1,"other, another; he, she, it"
+11,1,11,837,辵 162.4,7,这,zhè,4,"this, the, here"
+12,1,12,45,丨 2.2,3,个,gè,4,"numerary adjunct, piece; single"
+13,1,13,273,人 9.3,5,们,men,0,adjunct pronoun indicate plural
+14,1,14,113,丨 2.3,4,中,zhōng,1,"central; center, middle; in the midst of; hit (target); attain"
+15,1,15,707,木 75.3,7,来,lái,2,"come, coming; return, returning"
+16,1,16,36,一 1.2,3,上,shàng,4,"top; superior, highest; go up, send up"
+17,1,17,32,大 37.0,3,大,dà,4,"big, great, vast, large, high"
+18,1,19,1131,口 30.5,8,和,hé,2,"harmony, peace; peaceful, calm"
+19,1,20,1081,囗 31.5,8,国,guó,2,"nation, country, nation-state"
+20,1,21,366,土 32.3,6,地,de,0,"earth; soil, ground; region"
+21,1,22,1063,刀 18.6,8,到,dào,4,"go to, arrive, been to"
+22,1,24,1717,言 149.7,9,说,shuō,1,"speak, say, talk; scold, upbraid"
+23,1,25,717,日 72.3,7,时,shí,2,"time, season; era, age, period"
+24,1,26,1441,襾 146.3,9,要,yào,4,"necessary, essential; necessity"
+25,1,27,2728,尢 43.9,12,就,jiù,4,"just, simply; to come, go to; to approach, near"
+26,1,28,330,凵 17.3,5,出,chū,1,"go out, send out; stand; produce"
+27,1,29,486,人 9.4,6,会,huì,4,"assemble, meet together; meeting"
+28,1,31,66,乙 5.2,3,也,yě,3,also; classical final particle of strong affirmation or identity
+29,1,32,782,人 9.5,7,你,nǐ,3,"you, second person pronoun"
+30,1,33,341,寸 41.2,5,对,duì,4,"correct, right; facing, opposed"
+31,1,34,263,生 100.0,5,生,shēng,1,"life, living, lifetime; birth"
+32,1,35,2146,肉 130.6,10,能,néng,2,"to be able; can, permitted to; ability"
+33,1,37,64,子 39.0,3,子,zi,0,"offspring, child; fruit, seed of; 1st terrestrial branch"
+34,1,38,564,邑 163.4,6,那,nà,4,"that, that one, those"
+35,1,39,2341,彳 60.8,11,得,dé,2,"obtain, get, gain, acquire"
+36,1,41,2398,目 109.6,11,着,zhe,0,"make move, take action"
+37,1,42,30,一 1.2,3,下,xià,4,"under, underneath, below; down; inferior; bring down"
+38,1,45,444,干 51.3,6,年,nián,2,year
+39,1,46,379,辵 162.3,6,过,guò,4,"pass, pass through, go across"
+40,1,48,482,口 30.3,6,后,hòu,4,"queen, empress, sovereign; (simp. for後) behind, rear, after"
+41,1,49,777,人 9.5,7,作,zuò,4,"make; work; compose, write; act, perform"
+42,1,50,721,里 166.0,7,里,lǐ,3,unit of distance; village; lane
+43,1,51,283,用 101.0,5,用,yòng,4,"use, employ, apply, operate; use"
+44,1,52,2745,辵 162.9,12,道,dào,4,"path, road, street; method, way"
+45,1,53,483,行 144.0,6,行,xíng,2,"go; walk; move, travel; circulate"
+46,1,56,2099,宀 40.7,10,家,jiā,1,"house, home, residence; family"
+47,1,58,1038,亅 6.7,8,事,shì,4,"affair, matter, business; to serve; accident, incident"
+48,1,60,163,方 70.0,4,方,fāng,1,"a square, rectangle; a region; local"
+49,1,61,507,夕 36.3,6,多,duō,1,"much, many; more than, over"
+50,1,63,48,丿 4.2,3,么,me,0,interrogative particle; repetition of a tune small; tender
+51,1,64,204,厶 28.3,5,去,qù,4,"go away, leave, depart"
+52,1,66,1273,子 39.5,8,学,xué,2,"learning, knowledge; school"
+53,1,68,1801,邑 163.9,10,都,dōu,1,"metropolis, capital; all, the whole; elegant, refined"
+54,1,69,427,口 30.3,6,同,tóng,2,"same, similar; together with"
+55,1,70,949,玉 96.4,8,现,xiàn,4,"appear, manifest, become visible"
+56,1,72,867,水 85.4,7,没,méi,2,"not, have not, none; drown, sink"
+57,1,73,353,力 19.4,6,动,dòng,4,"move, happen; movement, action"
+58,1,74,1455,面 176.0,9,面,miàn,4,"face; surface; plane; side, dimension"
+59,1,75,1789,走 156.3,10,起,qǐ,3,"rise, stand up; go up; begin"
+60,1,76,1539,目 109.4,9,看,kàn,4,"look, see; examine, scrutinize"
+61,1,78,78,大 37.1,4,天,tiān,1,"sky, heaven; god, celestial"
+62,1,79,146,刀 18.2,4,分,fēn,1,divide; small unit of time etc.
+63,1,80,704,辵 162.4,7,还,hái,2,"still, yet, also, besides"
+64,1,81,605,辵 162.4,7,进,jìn,4,"advance, make progress, enter"
+65,1,82,581,女 38.3,6,好,hǎo,3,"good, excellent, fine; well"
+66,1,83,37,小 42.0,3,小,xiǎo,3,"small, tiny, insignificant"
+67,1,86,1069,二 7.5,8,些,xiē,1,"little, few; rather, somewhat"
+68,1,88,1849,木 75.6,10,样,yàng,4,"shape, form, pattern, style"
+69,1,91,582,女 38.3,6,她,tā,1,"she, her"
+70,1,92,210,木 75.1,5,本,běn,3,"root, origin, source; basis"
+71,1,93,1650,刀 18.7,9,前,qián,2,"in front, forward; preceding"
+72,1,94,76,廾 55.1,4,开,kāi,1,"open; initiate, begin, start"
+73,1,98,142,人 9.2,4,从,cóng,2,"from, by, since, whence, through"
+74,1,99,2867,心 61.9,13,想,xiǎng,3,"think, speculate, plan, consider"
+75,1,101,112,日 72.0,4,日,rì,4,sun; day; daytime
+76,1,111,377,木 75.2,6,机,jī,1,desk; machine; moment
+77,1,112,4,十 24.0,2,十,shí,2,"ten, tenth; complete; perfect"
+78,1,114,2322,竹 118.5,11,第,dì,4,"sequence, number; grade, degree"
+79,1,118,26,工 48.0,3,工,gōng,1,"labor, work; worker, laborer"
+80,1,121,1087,日 72.4,8,明,míng,2,"bright, light, brilliant; clear"
+81,1,123,1122,矢 111.3,8,知,zhī,1,"know, perceive, comprehend"
+82,1,125,22,一 1.2,3,三,sān,1,three
+83,1,127,532,八 12.4,6,关,guān,1,frontier pass; close; relation
+84,1,128,1469,火 86.5,9,点,diǎn,3,"dot, speck, spot; point, degree"
+85,1,129,198,止 77.1,5,正,zhèng,4,"right, proper, correct"
+86,1,131,293,夕 36.2,5,外,wài,4,"out, outside, external; foreign"
+87,1,133,697,一 1.6,7,两,liǎng,3,"two, both, pair, couple; ounce"
+88,1,134,2021,高 189.0,10,高,gāo,1,"high, tall; lofty, elevated"
+89,1,135,847,門 169.4,7,间,jiān,1,"midpoint, space; place, locality"
+90,1,137,528,門 169.3,6,问,wèn,4,"ask about, inquire after"
+91,1,138,1584,彳 60.6,9,很,hěn,3,"very, quite, much"
+92,1,139,2614,曰 73.8,12,最,zuì,4,"most, extremely, exceedingly"
+93,1,140,1552,里 166.2,9,重,zhòng,4,"heavy, weighty; double"
+94,1,143,121,手 64.0,4,手,shǒu,3,hand
+95,1,148,161,文 67.0,4,文,wén,2,"literature, culture, writing"
+96,1,149,770,人 9.5,7,体,tǐ,3,"body; group, class, body, unit; inferior"
+97,1,153,118,見 147.0,4,见,jiàn,4,"see, observe, behold; perceive"
+98,1,156,129,人 9.2,4,什,shén,2,"file of ten soldiers; mixed, miscellaneous"
+99,1,157,3,二 7.0,2,二,èr,4,two; twice
+100,1,158,2681,竹 118.6,12,等,děng,3,"class, rank, grade, equal to, same as, to wait for"
+101,1,161,2994,斤 69.9,13,新,xīn,1,"new, recent, fresh, modern"
+102,1,164,786,身 158.0,7,身,shēn,1,"body; trunk, hull; rad. no. 158"
+103,1,165,1079,木 75.4,8,果,guǒ,3,fruit; result
+104,1,167,384,襾 146.0,6,西,xī,1,"west(ern); westward, occident"
+105,1,169,150,月 74.0,4,月,yuè,4,moon; month; KangXi radical 74
+106,1,170,1296,言 149.6,8,话,huà,4,"speech, talk, language; dialect"
+107,1,172,438,囗 31.3,6,回,huí,2,"return, turn around; a time"
+108,1,179,360,老 125.0,6,老,lǎo,3,"old, aged; experienced"
+109,1,180,1758,糸 120.6,9,给,gěi,3,"give; by, for"
+110,1,183,521,欠 76.2,6,次,cì,4,"order, sequence; next"
+111,1,185,55,門 169.0,3,门,mén,2,"gate, door, entrance, opening"
+112,1,187,2257,巾 50.8,11,常,cháng,2,"common, normal, frequent, regular"
+113,1,188,446,儿 10.4,6,先,xiān,1,"first, former, previous"
+114,1,191,2179,攴 66.7,11,教,jiào,4,"teach, class"
+115,1,192,12,儿 10.0,2,儿,ér,2,"son, child; KangXi radical 10"
+116,1,194,225,一 1.4,5,东,dōng,1,"east, eastern, eastward"
+117,1,199,105,比 81.0,4,比,bǐ,3,"to compare, liken; comparison; than"
+118,1,202,117,水 85.0,4,水,shuǐ,3,"water, liquid, lotion, juice"
+119,1,203,505,口 30.3,6,名,míng,2,"name, rank, title, position"
+120,1,204,1832,目 109.5,10,真,zhēn,1,"real, actual, true, genuine"
+121,1,207,625,走 156.0,7,走,zǒu,3,"walk, go on foot; run; leave"
+122,1,211,14,几 16.0,2,几,jǐ,3,small table
+123,1,212,38,口 30.0,3,口,kǒu,3,"mouth; open end; entrance, gate"
+124,1,213,171,言 149.2,4,认,rèn,4,"recognize, know, understand"
+125,1,214,816,木 75.3,7,条,tiáo,2,"clause, condition; string, stripe"
+126,1,216,825,糸 120.1,7,系,xì,4,"system; line, link, connection"
+127,1,217,122,气 84.0,4,气,qì,4,"steam, vapor; KangXi radical 84"
+128,1,222,751,刀 18.5,7,别,bié,2,"separate, other; do not"
+129,1,223,196,手 64.2,5,打,dǎ,3,"strike, hit, beat; fight; attack"
+130,1,224,67,女 38.0,3,女,nǚ,3,"woman, girl; feminine; rad. 38"
+131,1,226,262,囗 31.2,5,四,sì,4,four
+132,1,230,242,曰 73.1,5,电,diàn,4,electricity; electric; lightning
+133,1,233,110,小 42.1,4,少,shǎo,3,"few, less, inadequate"
+134,1,240,93,大 37.1,4,太,tài,4,"very, too, much; big; extreme"
+135,1,242,382,冂 13.4,6,再,zài,4,"again, twice, re-"
+136,1,246,2324,人 9.9,11,做,zuò,4,"work, make; act"
+137,1,249,367,土 32.3,6,场,chǎng,3,"open space, field, market"
+138,1,253,2542,月 74.8,12,期,qī,1,period of time; date; time limit
+139,1,259,39,山 46.0,3,山,shān,1,"mountain, hill, peak"
+140,1,276,72,馬 187.0,3,马,mǎ,3,horse; surname; KangXi radical 187
+141,1,279,88,二 7.2,4,五,wǔ,3,five; surname
+142,1,282,188,丨 2.3,4,书,shū,1,"book, letter, document; writings"
+143,1,283,1064,非 175.0,8,非,fēi,1,"not, negative, non-; oppose"
+144,1,285,739,口 30.4,7,听,tīng,1,"hear; understand; obey, comply"
+145,1,286,275,白 106.0,5,白,bái,2,"white; pure, unblemished; bright"
+146,1,291,1223,攴 66.4,8,放,fàng,4,"put, release, free, liberate"
+147,1,295,2147,又 29.8,10,难,nán,2,"difficult, arduous, hard; unable"
+148,1,305,2918,足 157.6,13,路,lù,4,"road, path, street; journey"
+149,1,306,323,言 149.3,5,记,jì,4,"record; keep in mind, remember"
+150,1,307,1422,十 24.7,9,南,nán,2,south; southern part; southward
+151,1,309,783,人 9.5,7,住,zhù,4,"reside, live at, dwell, lodge; stop"
+152,1,310,760,口 30.4,7,告,gào,4,"tell, announce, inform; accuse"
+153,1,315,227,匕 21.3,5,北,běi,3,north; northern; northward
+154,1,316,337,辵 162.2,5,边,biān,1,"edge, margin, side, border"
+155,1,327,1694,見 147.5,9,觉,jué,2,to wake up from sleep; conscious
+156,1,333,413,巾 50.3,6,师,shī,1,"teacher, master, specialist"
+157,1,336,144,人 9.2,4,今,jīn,1,"now, today, modern era"
+158,1,338,1734,阜 170.7,9,院,yuàn,4,"courtyard, yard, court; school"
+159,1,340,892,言 149.5,7,识,shí,2,"recognize, understand, know"
+160,1,341,1964,人 9.8,10,候,hòu,4,wait; expect; visit; greet
+161,1,346,1952,竹 118.4,10,笑,xiào,4,"smile, laugh, giggle; snicker"
+162,1,347,69,乙 5.2,3,飞,fēi,1,fly; go quickly; dart; high
+163,1,348,154,風 182.0,4,风,fēng,1,"wind; air; manners, atmosphere"
+164,1,353,23,干 51.0,3,干,gàn,4,"oppose, offend; invade; dried"
+165,1,361,100,車 159.0,4,车,chē,1,"cart, vehicle; carry in cart"
+166,1,365,1190,月 74.4,8,服,fú,2,"clothes; wear, dress"
+167,1,366,876,心 61.4,7,快,kuài,4,"rapid, quick, speedy, fast; soon"
+168,1,370,80,儿 10.2,4,元,yuán,2,first; dollar; origin; head
+169,1,379,2024,冫 15.8,10,准,zhǔn,3,"approve, allow, permit; in accord"
+170,1,382,1543,心 61.5,9,怎,zěn,3,what? why? how?
+171,1,383,1102,口 30.5,8,呢,ne,0,interrogative or emphatic final; (Cant.) this
+172,1,386,608,辵 162.4,7,远,yuǎn,3,"distant, remote, far; profound"
+173,1,387,253,口 30.2,5,叫,jiào,4,"cry, shout; hail, greet, call"
+174,1,390,3240,彡 59.12,15,影,yǐng,3,"shadow; image, reflection; photograph"
+175,1,393,548,子 39.3,6,字,zì,4,"letter, character, word"
+176,1,394,1987,爪 87.6,10,爱,ài,4,"love, be fond of, like"
+177,1,397,1200,夂 34.5,8,备,bèi,4,"prepare, ready, perfect"
+178,1,402,2391,口 30.8,11,商,shāng,1,"commerce, business, trade"
+179,1,407,389,白 106.1,6,百,bǎi,3,"one hundred; numerous, many"
+180,1,410,665,艸 140.4,7,花,huā,1,flower; blossoms
+181,1,421,2108,言 149.8,10,请,qǐng,3,"ask, request; invite; please"
+182,1,427,2027,疒 104.5,10,病,bìng,4,"illness, sickness, disease"
+183,1,428,1973,心 61.6,10,息,xī,1,"rest, put stop to, end, cease"
+184,1,433,164,火 86.0,4,火,huǒ,3,"fire, flame; burn; anger, rage"
+185,1,438,1294,見 147.4,8,视,shì,4,"look at, inspect, observe, see"
+186,1,445,15,乙 5.1,2,九,jiǔ,3,nine
+187,1,448,316,冖 14.3,5,写,xiě,3,"write; draw, sketch; compose"
+188,1,451,9,八 12.0,2,八,bā,1,"eight; all around, all sides"
+189,1,453,432,口 30.3,6,吗,ma,0,final interrogative particle
+190,1,454,298,勹 20.3,5,包,bāo,1,"wrap, pack, bundle; package"
+191,1,462,419,日 72.2,6,早,zǎo,3,early; soon; morning
+192,1,466,621,手 64.4,7,找,zhǎo,3,"search, seek, look for; find"
+193,1,470,747,口 30.4,7,吧,ba,0,emphatic final particle
+194,1,475,429,口 30.3,6,吃,chī,1,"eat; drink; suffer, endure, bear"
+195,1,476,1119,囗 31.5,8,图,tú,2,"diagram; chart, map, picture"
+196,1,478,160,八 12.2,4,六,liù,4,number six
+197,1,482,700,匸 23.5,7,医,yī,1,"cure, heal; doctor, medical"
+198,1,487,243,口 30.2,5,号,hào,4,"mark, sign; symbol; number"
+199,1,493,1707,言 149.7,9,语,yǔ,3,"language, words; saying, expression"
+200,1,495,358,老 125.0,6,考,kǎo,3,"examine, test; investigate"
+201,1,512,1290,戶 63.4,8,房,fáng,2,"house, building; room"
+202,1,513,307,十 24.3,5,半,bàn,4,half
+203,1,530,7,一 1.1,2,七,qī,1,seven
+204,1,531,544,八 12.4,6,兴,xìng,4,"thrive, prosper, flourish"
+205,1,533,1730,子 39.6,9,孩,hái,2,"baby, child; children"
+206,1,537,1488,日 72.5,9,星,xīng,1,"a star, planet; any point of light"
+207,1,541,2920,足 157.6,13,跟,gēn,1,"heel; to follow, accompany; with"
+208,1,544,2041,立 117.5,10,站,zhàn,4,"stand up; a stand, station"
+209,1,559,2687,竹 118.6,12,答,dá,2,"answer, reply; return; assent to"
+210,1,566,1205,亠 8.6,8,京,jīng,1,capital city
+211,1,575,533,米 119.0,6,米,mǐ,3,hulled or husked uncooked rice
+212,1,583,1703,宀 40.6,9,客,kè,4,"guest, traveller; customer"
+213,1,594,97,又 29.2,4,友,yǒu,3,"friend, companion; fraternity"
+214,1,595,894,言 149.5,7,诉,sù,4,accuse; sue; inform; narrate
+215,1,602,733,田 102.2,7,男,nán,2,"male, man; son; baron; surname"
+216,1,603,1928,金 167.5,10,钱,qián,2,"money, currency, coins"
+217,1,605,442,网 122.0,6,网,wǎng,3,net; network; KangXi radical 122
+218,1,606,1809,火 86.6,10,热,rè,4,hot; heat; fever; restless; zeal
+219,1,611,797,土 32.4,7,坐,zuò,4,"sit; seat; ride, travel by"
+220,1,623,123,毛 82.0,4,毛,máo,2,"hair, fur, feathers; coarse"
+221,1,628,2155,玉 96.7,11,球,qiú,2,"ball, sphere, globe; round"
+222,1,633,1847,木 75.6,10,校,xiào,4,school; military field officer
+223,1,636,2337,人 9.9,11,假,jiǎ,3,"falsehood, deception; vacation"
+224,1,638,2936,金 167.8,13,错,cuò,4,"error, blunder, mistake; wrong"
+225,1,641,2270,日 72.7,11,晚,wǎn,3,"night, evening; late"
+226,1,643,1286,言 149.6,8,试,shì,4,"test, try, experiment"
+227,1,645,1983,手 64.6,10,拿,ná,2,"take, hold, grasp; bring; with"
+228,1,646,2001,肉 130.6,10,脑,nǎo,3,brain
+229,1,648,2122,言 149.8,10,谁,shuí,2,who? whom? whose? anyone?
+230,1,652,1515,口 30.7,9,哪,nǎ,3,which? where? how?
+231,1,656,1645,辵 162.6,9,送,sòng,4,"see off, send off; dispatch, give"
+232,1,668,2523,口 30.9,12,喜,xǐ,3,"like, love, enjoy; joyful thing"
+233,1,676,70,冫 15.1,3,习,xí,2,practice; flapping wings
+234,1,685,587,欠 76.2,6,欢,huān,1,"happy, pleased, glad; joy; enjoy"
+235,1,697,1439,木 75.5,9,树,shù,4,"tree; plant; set up, establish"
+236,1,700,838,冫 15.5,7,冷,lěng,3,"cold, cool; lonely"
+237,1,711,311,水 85.2,5,汉,hàn,4,Chinese people; Chinese language
+238,1,725,520,衣 145.0,6,衣,yī,1,"clothes, clothing; cover, skin"
+239,1,726,2331,心 61.7,11,您,nín,2,"you (courteous, as opposed to informal 你)"
+240,1,732,1640,工 48.7,9,差,chà,4,"to differ; different, wrong; nearly, almost; an officer"
+241,1,750,583,女 38.3,6,妈,mā,1,"mother, mama"
+242,1,752,2112,言 149.8,10,读,dú,2,"read, study; pronounce"
+243,1,758,588,大 37.3,6,买,mǎi,3,"buy, purchase; bribe, persuade"
+244,1,769,1356,巾 50.7,9,帮,bāng,1,"help, assist; defend; shoe upper"
+245,1,772,436,山 46.3,6,岁,suì,4,year; age; harvest
+246,1,782,214,工 48.2,5,左,zuǒ,3,"left; east; unorthodox, improper"
+247,1,783,217,口 30.2,5,右,yòu,4,right; west; right-wing
+248,1,785,1701,穴 116.4,9,穿,chuān,1,"penetrate, pierce, drill; wear"
+249,1,793,652,土 32.4,7,块,kuài,4,"piece, lump; dollar"
+250,1,804,1852,口 30.7,10,哥,gē,1,elder brother
+251,1,816,854,弓 57.4,7,弟,dì,4,"young brother; junior; i, me"
+252,1,822,3169,心 61.11,14,慢,màn,4,"slow(ly), leisurely, sluggish"
+253,1,827,543,心 61.3,6,忙,máng,2,"busy, pressed for time; hustling"
+254,1,830,1326,女 38.5,8,姐,jiě,3,"elder sister, young lady"
+255,1,831,140,人 9.2,4,介,jiè,4,"forerunner, herald, harbinger; to lie between; sea shell; to wear armor"
+256,1,832,616,土 32.4,7,坏,huài,4,"rotten, spoilt, bad, broken down"
+257,1,864,2631,足 157.5,12,跑,pǎo,3,"run, flee, leave in hurry"
+258,1,873,1495,貝 154.5,9,贵,guì,4,"expensive, costly, valuable"
+259,1,876,2870,木 75.9,13,楼,lóu,2,building of two or more stories
+260,1,882,1185,月 74.4,8,朋,péng,2,"friend, pal, acquaintance"
+261,1,884,1774,玉 96.6,10,班,bān,1,"class, group, grade; squad; job"
+262,1,897,2795,言 149.10,12,谢,xiè,4,thank; decline
+263,1,910,2235,示 113.6,11,票,piào,4,slip of paper or bamboo; ticket
+264,1,928,1041,雨 173.0,8,雨,yǔ,3,rain; rainy; KangXi radical 173
+265,1,935,823,食 184.4,7,饭,fàn,4,"cooked rice; food, meal"
+266,1,964,2900,目 109.8,13,睡,shuì,4,"sleep, doze"
+267,1,981,2045,方 70.6,10,旁,páng,2,"side; by side, close by, near"
+268,1,983,2639,口 30.9,12,喝,hē,1,"drink; shout, call out"
+269,1,1004,119,十 24.2,4,午,wǔ,3,noon; 7th terrestrial branch
+270,1,1007,492,父 88.2,6,爷,yé,2,"father, grandfather"
+271,1,1009,443,肉 130.0,6,肉,ròu,4,flesh; meat; KangXi radical 130
+272,1,1011,2373,食 184.8,11,馆,guǎn,3,public building
+273,1,1018,120,牛 93.0,4,牛,niú,2,"cow, ox, bull; KangXi radical93"
+274,1,1040,3084,欠 76.10,14,歌,gē,1,"song, lyrics; sing, chant; praise"
+275,1,1041,1208,广 53.5,8,店,diàn,4,"shop, store; inn, hotel"
+276,1,1050,1171,父 88.4,8,爸,bà,4,"father, papa"
+277,1,1056,844,心 61.3,7,忘,wàng,4,"forget; neglect; miss, omit"
+278,1,1068,831,广 53.4,7,床,chuáng,2,"bed, couch; framework, chassis"
+279,1,1072,944,玉 96.4,8,玩,wán,2,"play with, joke, enjoy"
+280,1,1082,458,人 9.4,6,休,xiū,1,"rest, stop; retire; do not!"
+281,1,1128,393,頁 181.0,6,页,yè,4,"page, sheet, leaf; rad. no. 181"
+282,1,1185,1324,女 38.5,8,妹,mèi,4,younger sister
+283,1,1193,1881,木 75.6,10,桌,zhuō,1,"table, desk, stand"
+284,1,1200,861,水 85.4,7,汽,qì,4,"steam, vapor, gas"
+285,1,1208,2120,言 149.8,10,课,kè,4,lesson; course; classwork
+286,1,1234,1348,糸 120.5,8,绍,shào,4,"continue, carry on; join"
+287,1,1247,1671,水 85.6,9,洗,xǐ,3,"wash, rinse; clean, purify"
+288,1,1252,2284,口 30.8,11,唱,chàng,4,"sing, chant, call; ditty, song"
+289,1,1266,2207,艸 140.8,11,菜,cài,4,"vegetables; dish, order; food"
+290,1,1272,1411,艸 140.6,9,茶,chá,2,tea
+291,1,1278,332,女 38.2,5,奶,nǎi,3,breast; milk; to breastfeed; mother
+292,1,1323,2282,糸 120.5,11,累,lèi,4,"tired; implicate, involve; bother"
+293,1,1342,2885,雨 173.5,13,零,líng,2,"zero; fragment, fraction"
+294,1,1377,1221,冫 15.6,8,净,jìng,4,"clean, pure; cleanse"
+295,1,1387,2477,虫 142.5,11,蛋,dàn,4,eggs; term of abuse
+296,1,1391,928,鳥 196.2,7,鸡,jī,1,chicken
+297,1,1396,1020,木 75.4,8,杯,bēi,1,"cup, glass"
+298,1,1475,1489,日 72.5,9,昨,zuó,2,"yesterday; in former times, past"
+299,1,1911,2012,食 184.7,10,饿,è,4,hungry; greedy for; hunger
+300,1,1972,2758,水 85.9,12,渴,kě,3,"thirsty, parched; yearn, pine"
+301,2,18,165,丶 3.3,4,为,wèi,4,"do, handle, govern, act; be"
+302,2,23,182,人 9.3,4,以,yǐ,3,"by means of; thereby, therefore; consider as; in order to"
+303,2,30,212,口 30.2,5,可,kě,3,"may, can, -able; possibly"
+304,2,36,392,而 126.0,6,而,ér,2,and; and then; and yet; but
+305,2,40,24,二 7.1,3,于,yú,2,"in, on, at; go to; surname"
+306,2,43,477,自 132.0,6,自,zì,4,"self, private, personal; from"
+307,2,47,339,又 29.3,5,发,fā,1,"issue, dispatch, send out; hair"
+308,2,54,1164,戶 63.4,8,所,suǒ,3,"place, location; numerary adjunct"
+309,2,55,2723,火 86.8,12,然,rán,2,"yes, certainly; pledge, promise"
+310,2,59,401,戈 62.3,6,成,chéng,2,"completed, finished, fixed"
+311,2,62,1350,糸 120.5,8,经,jīng,1,classic works; pass through
+312,2,65,1241,水 85.5,8,法,fǎ,3,"law, rule, regulation, statute; France, French"
+313,2,67,578,女 38.3,6,如,rú,2,"if, supposing; as if; like, as"
+314,2,71,418,小 42.3,6,当,dāng,1,"bear, accept, undertake; just"
+315,2,77,1276,宀 40.5,8,定,dìng,4,"decide, settle, fix"
+316,2,84,2044,邑 163.8,10,部,bù,4,"part, division, section"
+317,2,85,996,八 12.6,8,其,qí,2,"his, her, its, their; that"
+318,2,87,300,丶 3.4,5,主,zhǔ,3,"master, chief owner; host; lord"
+319,2,89,2157,玉 96.7,11,理,lǐ,3,"reason, logic; manage"
+320,2,90,174,心 61.0,4,心,xīn,1,"heart; mind, intelligence; soul"
+321,2,95,774,人 9.5,7,但,dàn,4,"only; but, however, yet, still"
+322,2,96,430,囗 31.3,6,因,yīn,1,"cause, reason; by; because (of)"
+323,2,97,246,口 30.2,5,只,zhǐ,3,"only, just, simply"
+324,2,100,1285,宀 40.5,8,实,shí,2,"real, true; honest, sincere"
+325,2,103,969,老 125.4,8,者,zhě,3,that which; he who; those who
+326,2,104,2996,心 61.9,13,意,yì,4,"thought, idea, opinion; think"
+327,2,106,19,力 19.0,2,力,lì,4,"power, capability, influence"
+328,2,107,314,宀 40.2,5,它,tā,1,it; other
+329,2,109,127,長 168.0,4,长,zhǎng,3,long; length; excel in; leader
+330,2,115,148,八 12.2,4,公,gōng,1,"fair, equitable; public; duke"
+331,2,117,61,己 49.0,3,已,yǐ,3,already; finished; stop
+332,2,119,1139,人 9.6,8,使,shǐ,3,"cause, send on a mission, order; envoy, messenger, ambassador"
+333,2,120,2438,心 61.8,11,情,qíng,2,"feeling, sentiment, emotion"
+334,2,124,485,入 11.4,6,全,quán,2,"maintain, keep whole or intact"
+335,2,126,21,又 29.0,2,又,yòu,4,"and, also, again, in addition"
+336,2,130,231,一 1.4,5,业,yè,4,"profession, business; GB radical 111"
+337,2,136,245,田 102.0,5,由,yóu,2,"cause, reason; from"
+338,2,142,1127,牛 93.4,8,物,wù,4,"thing, substance, creature"
+339,2,144,836,广 53.4,7,应,yīng,1,"should, ought to, must"
+340,2,146,480,口 30.3,6,向,xiàng,4,"toward, direction, trend"
+341,2,147,310,大 37.2,5,头,tóu,2,"head; top; chief, first; boss"
+342,2,152,1430,目 109.4,9,相,xiāng,1,"mutual, reciprocal, each other"
+343,2,155,763,刀 18.5,7,利,lì,4,"gains, advantage, profit, merit"
+344,2,160,1035,戈 62.4,8,或,huò,4,"or, either, else; perhaps, maybe"
+345,2,162,60,己 49.0,3,己,jǐ,3,"self, oneself; personal, private; 6th heavenly stem"
+346,2,166,335,力 19.3,5,加,jiā,1,"add to, increase, augment"
+347,2,171,488,口 30.3,6,合,hé,2,"combine, unite, join; gather"
+348,2,173,1938,牛 93.6,10,特,tè,4,"special, unique, distinguished"
+349,2,176,1570,人 9.7,9,信,xìn,4,"trust, believe; letter"
+350,2,177,951,衣 145.3,8,表,biǎo,3,"show, express, manifest, display"
+351,2,182,784,人 9.5,7,位,wèi,4,"throne; position, post; rank, status; seat"
+352,2,184,1622,广 53.6,9,度,dù,4,"degree, system; manner; to consider"
+353,2,189,2074,水 85.7,10,海,hǎi,3,"sea, ocean; maritime"
+354,2,190,2145,辵 162.7,10,通,tōng,1,"pass through, common, communicate"
+355,2,193,1868,厂 27.8,10,原,yuán,2,"source, origin, beginning"
+356,2,195,654,士 33.4,7,声,shēng,1,"sound, voice, noise; tone; music"
+357,2,196,2520,手 64.9,12,提,tí,2,hold in hand; lift in hand
+358,2,205,556,言 149.4,6,论,lùn,4,debate; discuss; discourse
+359,2,206,294,夂 34.2,5,处,chù,4,"place, locale; department"
+360,2,210,11,入 11.0,2,入,rù,4,"enter, come in(to), join"
+361,2,215,222,干 51.2,5,平,píng,2,"flat, level, even; peaceful"
+362,2,218,3233,頁 181.9,15,题,tí,2,"forehead; title, headline; theme"
+363,2,219,1672,水 85.6,9,活,huó,2,"live, exist, survive; lively"
+364,2,221,693,曰 73.3,7,更,gèng,4,"more, still further, much more"
+365,2,225,1204,又 29.6,8,变,biàn,4,"change, transform, alter; rebel"
+366,2,231,2999,攴 66.9,13,数,shù,4,"number; several, count; fate"
+367,2,232,549,宀 40.3,6,安,ān,1,"peaceful, tranquil, quiet"
+368,2,234,656,手 64.4,7,报,bào,4,"report, tell, announce"
+369,2,235,29,手 64.0,3,才,cái,2,"talent, ability; just, only"
+370,2,236,1754,糸 120.6,9,结,jié,2,"knot, tie; join, connect"
+371,2,238,1174,又 29.6,8,受,shòu,4,"receive, accept, get; bear, stand"
+372,2,239,236,目 109.0,5,目,mù,4,"eye; look, see; division, topic"
+373,2,241,2616,里 166.5,12,量,liàng,4,"measure, quantity, capacity"
+374,2,243,2875,心 61.9,13,感,gǎn,3,"feel, perceive, emotion"
+375,2,245,297,夂 34.2,5,务,wù,4,"affairs, business; must, should"
+376,2,247,2185,手 64.8,11,接,jiē,1,receive; continue; catch; connect
+377,2,248,321,心 61.1,5,必,bì,4,"surely, most certainly; must"
+378,2,250,466,人 9.4,6,件,jiàn,4,numerary adjunct for article; matter
+379,2,251,168,言 149.2,4,计,jì,4,"plan, plot; strategem; scheme"
+380,2,254,301,巾 50.2,5,市,shì,4,"market, fair; city, town; trade"
+381,2,255,1011,目 109.3,8,直,zhí,2,"straight, erect, vertical"
+382,2,262,675,儿 10.5,7,克,kè,4,gram; overcome; transliteration
+383,2,263,554,言 149.4,6,许,xǔ,3,"allow, permit; promise; betroth"
+384,2,268,180,阜 170.2,4,队,duì,4,"team, group; army unit"
+385,2,271,1556,人 9.7,9,便,biàn,4,"convenience, ease; expedient"
+386,2,272,1282,穴 116.3,8,空,kōng,1,"empty, hollow, bare, deserted"
+387,2,277,1551,禾 115.4,9,科,kē,1,"section, department, science"
+388,2,278,325,口 30.2,5,司,sī,1,"take charge of, control, manage; officer"
+389,2,281,2263,目 109.6,11,眼,yǎn,3,"eye; eyelet, hole, opening"
+390,2,294,2961,人 9.12,13,像,xiàng,4,"a picture, image, figure; to resemble"
+391,2,296,237,一 1.4,5,且,qiě,3,"moreover, also (post-subject); about to, will soon (pre-verb)"
+392,2,298,1500,心 61.5,9,思,sī,1,"think, consider, ponder; final particle"
+393,2,299,75,玉 96.0,4,王,wáng,2,"king, ruler; royal; surname"
+394,2,301,877,宀 40.4,7,完,wán,2,"complete, finish, settle; whole"
+395,2,304,509,色 139.0,6,色,sè,4,"color, tint, hue, shade; form, body; beauty, desire for beauty"
+396,2,312,690,水 85.2,7,求,qiú,2,"seek; demand, request; beseech"
+397,2,319,1300,言 149.6,8,该,gāi,1,"should, ought to, need to"
+398,2,320,519,亠 8.4,6,交,jiāo,1,"mix; intersect; exchange, communicate; deliver"
+399,2,322,35,一 1.2,3,万,wàn,4,ten thousand; innumerable
+400,2,323,997,又 29.6,8,取,qǔ,3,"take, receive, obtain; select"
+401,2,324,981,手 64.5,8,拉,lā,1,"pull, drag; seize, hold; lengthen"
+402,2,330,371,八 12.4,6,共,gòng,4,"together with, all, total; to share"
+403,2,331,2591,石 112.7,12,确,què,4,"sure, certain; real, true"
+404,2,334,586,見 147.2,6,观,guān,1,"see, observe, view; appearance"
+405,2,335,2410,水 85.8,11,清,qīng,1,"clear, pure, clean; peaceful"
+406,2,339,317,言 149.3,5,让,ràng,4,"allow, permit, yield, concede"
+407,2,342,1407,巾 50.6,9,带,dài,4,"belt, girdle, band, strap, zone"
+408,2,345,611,辵 162.4,7,运,yùn,4,"run; simplified form of 運 luck, fortune; ship, transport"
+409,2,350,908,攴 66.3,7,改,gǎi,3,"change, alter; improve, remodel"
+410,2,351,573,攴 66.2,6,收,shōu,1,"gather together, collect; harvest"
+411,2,355,826,言 149.0,7,言,yán,2,"words, speech; speak, say"
+412,2,358,1338,糸 120.5,8,组,zǔ,3,"class; section, department"
+413,2,367,181,力 19.2,4,办,bàn,4,"manage, do, handle; deal with"
+414,2,369,1160,彳 60.5,8,往,wǎng,3,"go, depart; past, formerly"
+415,2,371,1006,艸 140.5,8,英,yīng,1,"petal, flower, leaf; brave, a hero; England, English"
+416,2,374,791,辵 162.4,7,近,jìn,4,"near, close; approach; intimate"
+417,2,389,1232,八 12.6,8,单,dān,1,"single, individual, only; lone"
+418,2,396,2080,水 85.6,10,流,liú,2,"flow, circulate, drift; class"
+419,2,403,3121,竹 118.8,14,算,suàn,4,"count, calculate, figure; plan"
+420,2,415,594,糸 120.3,6,级,jí,2,"level, rank, class; grade"
+421,2,418,2035,禸 114.6,10,离,lí,2,rare beast; strange; elegant
+422,2,423,911,阜 170.5,7,际,jì,4,"border, boundary, juncture"
+423,2,425,194,示 113.0,5,示,shì,4,"show, manifest; demonstrate"
+424,2,426,1553,夊 35.6,9,复,fù,4,return; repeat; repeatedly
+425,2,436,3005,水 85.10,13,满,mǎn,3,"fill; full, satisfied"
+426,2,440,2514,走 156.5,12,越,yuè,4,"exceed, go beyond; the more ..."
+427,2,443,2911,火 86.9,13,照,zhào,4,"shine, illumine, reflect"
+428,2,444,1585,彡 59.6,9,须,xū,1,"must, have to, necessary"
+429,2,449,1948,禾 115.5,10,称,chēng,1,"call; name, brand; address; say"
+430,2,455,130,片 91.0,4,片,piàn,4,"slice, splinter, strip; rad. 91"
+431,2,459,1431,木 75.5,9,查,chá,2,"investigate, examine, seek into"
+432,2,460,1463,車 159.5,9,轻,qīng,1,"light; easy, simple; gentle"
+433,2,467,2726,衣 145.6,12,装,zhuāng,1,"dress, clothes, attire; fill"
+434,2,468,53,广 53.0,3,广,guǎng,3,"wide, extensive, broad; rad. 53"
+435,2,490,1192,口 30.5,8,周,zhōu,1,Zhou dynasty; circumference
+436,2,497,947,青 174.0,8,青,qīng,1,"blue, green, black; young"
+437,2,498,2476,阜 170.10,11,随,suí,2,"follow, listen to, submit to"
+438,2,499,1545,辵 162.6,9,选,xuǎn,3,"choose, select; elect; election"
+439,2,502,589,糸 120.3,6,红,hóng,2,"red, vermillion; blush, flush"
+440,2,503,1509,口 30.6,9,响,xiǎng,3,"make sound, make noise; sound"
+441,2,504,1502,虫 142.3,9,虽,suī,1,"although, even if"
+442,2,505,2174,手 64.8,11,推,tuī,1,"push, expel; push forward"
+443,2,507,1334,厶 28.6,8,参,cān,1,"take part in, intervene; ginseng"
+444,2,514,209,艸 140.2,5,节,jié,2,"knot, node, joint; section"
+445,2,519,2655,黑 203.0,12,黑,hēi,1,"black; dark; evil, sinister"
+446,2,522,407,刀 18.4,6,划,huà,4,to row or paddle boat; to scratch
+447,2,528,1052,心 61.4,8,态,tài,4,"manner, bearing, attitude"
+448,2,529,649,手 64.4,7,护,hù,4,"protect, guard, defend, shelter"
+449,2,538,2362,夕 36.8,11,够,gòu,4,"enough, adequate"
+450,2,540,1632,音 180.0,9,音,yīn,1,"sound, tone, pitch, pronunciation"
+451,2,547,1140,人 9.6,8,例,lì,4,"precedent, example; regulation"
+452,2,554,2009,田 102.5,10,留,liú,2,"stop, halt; stay, detain, keep"
+453,2,555,550,言 149.4,6,讲,jiǎng,3,explain; discuss; talk
+454,2,561,2201,黃 201.0,11,黄,huáng,2,yellow; surname
+455,2,567,1555,殳 79.5,9,段,duàn,4,"section, piece, division"
+456,2,572,1418,攴 66.5,9,故,gù,4,"ancient, old; reason, because"
+457,2,574,1244,水 85.5,8,河,hé,2,river; stream; yellow river
+458,2,586,1693,丶 3.8,9,举,jǔ,3,"raise, lift up; recommend"
+459,2,592,781,人 9.5,7,低,dī,1,"low; to lower, hang, bend, bow"
+460,2,598,3094,心 61.10,14,愿,yuàn,4,"sincere, honest, virtuous"
+461,2,599,41,十 24.1,3,千,qiān,1,"thousand; many, numerous; very; (Cant.) a cheater, swindler"
+462,2,607,719,力 19.5,7,助,zhù,4,"help, aid, assist"
+463,2,608,1960,人 9.8,10,倒,dào,4,fall over; lie down; take turns
+464,2,609,1225,肉 130.4,8,育,yù,4,"produce, give birth to; educate"
+465,2,614,2345,舟 137.5,11,船,chuán,2,"ship, boat, vessel"
+466,2,615,2359,肉 130.7,11,脸,liǎn,3,face; cheek; reputation
+467,2,618,1224,刀 18.6,8,刻,kè,4,"carve, engrave; quarter hour"
+468,2,619,287,丿 4.4,5,乐,lè,4,"happy, glad; enjoyable; music"
+469,2,621,441,刀 18.4,6,刚,gāng,1,"hard, tough, rigid, strong"
+470,2,629,1980,舟 137.4,10,般,bān,1,"sort, manner, kind, category"
+471,2,630,2741,日 72.8,12,普,pǔ,3,"universal, general, widespread"
+472,2,631,1269,心 61.5,8,怕,pà,4,"to fear, be afraid of; apprehensive"
+473,2,637,47,丿 4.2,3,久,jiǔ,3,"long time (ago); time passage, grow late"
+474,2,640,285,卩 26.4,5,印,yìn,4,"print, seal, stamp, chop, mark"
+475,2,650,572,阜 170.4,6,阳,yáng,2,positive (electric.); sun; male principle (Taoism)
+476,2,657,1609,心 61.5,9,急,jí,2,"quick, quickly; urgent, pressing"
+477,2,662,1423,艸 140.6,9,药,yào,4,leaf of Dahurian angelica plant; medicine
+478,2,663,1546,辵 162.6,9,适,shì,4,"go, reach; appropriate, suitable"
+479,2,665,1209,夕 36.5,8,夜,yè,4,"night, dark; in night; by night"
+480,2,666,1474,目 109.4,9,省,shěng,3,"province; save, economize"
+481,2,671,1589,食 184.0,9,食,shí,2,eat; meal; food; KangXi radical number 184
+482,2,682,2168,手 64.8,11,排,pái,2,"row, rank, line"
+483,2,692,82,二 7.2,4,云,yún,2,"say, speak; clouds"
+484,2,693,2333,人 9.9,11,停,tíng,2,"stop, suspend, delay; suitable"
+485,2,695,2766,水 85.9,12,游,yóu,2,"to swim; float, drift; wander, roam"
+486,2,699,902,尸 44.4,7,层,céng,2,"storey, layer, floor, stratum"
+487,2,707,288,口 30.2,5,句,jù,4,sentence
+488,2,708,1697,宀 40.6,9,室,shì,4,"room, home, house, chamber"
+489,2,717,226,卜 25.3,5,卡,kǎ,3,"card, punch card; calorie"
+490,2,722,3049,青 174.6,14,静,jìng,4,"quiet, still, motionless; gentle"
+491,2,731,2227,木 75.7,11,检,jiǎn,3,check; examine
+492,2,736,814,角 148.0,7,角,jiǎo,3,"horn; angle, corner; point"
+493,2,737,228,卜 25.3,5,占,zhàn,4,divine; observe; versify
+494,2,753,1915,口 30.8,10,啊,a,0,exclamatory particle
+495,2,754,2517,走 156.5,12,超,chāo,1,"jump over, leap over; surpass"
+496,2,757,2309,金 167.6,11,银,yín,2,"silver; cash, money, wealth"
+497,2,760,1641,八 12.7,9,养,yǎng,3,"raise, rear, bring up; support"
+498,2,779,1932,金 167.5,10,铁,tiě,3,"iron; strong, solid, firm"
+499,2,784,471,人 9.4,6,份,fèn,4,"portion, part; duty"
+500,2,787,1467,肉 130.5,9,背,bèi,4,back; back side; behind; betray
+501,2,789,1408,艸 140.6,9,草,cǎo,3,"grass, straw, thatch, herbs"
+502,2,790,2355,肉 130.7,11,脚,jiǎo,3,"leg, foot; base, leg, foundation"
+503,2,797,2069,酉 164.3,10,酒,jiǔ,3,"wine, spirits, liquor, alcoholic beverage"
+504,2,808,3259,非 175.7,15,靠,kào,4,"lean on, trust, depend on; near"
+505,2,812,2025,广 53.7,10,座,zuò,4,"seat; stand, base"
+506,2,815,1874,頁 181.4,10,顾,gù,4,look back; look at; look after
+507,2,824,1806,手 64.7,10,换,huàn,4,change
+508,2,825,1636,門 169.6,9,闻,wén,2,hear; smell; make known; news
+509,2,833,315,言 149.3,5,讨,tǎo,3,"to discuss; ask for, beg; demand; dun; marry"
+510,2,840,1621,亠 8.7,9,亮,liàng,4,"bright, brilliant, radiant, light"
+511,2,842,324,水 85.1,5,永,yǒng,3,"long, perpetual, eternal, forever"
+512,2,844,1078,口 30.5,8,味,wèi,4,"taste, smell, odor; delicacy"
+513,2,849,2170,手 64.8,11,掉,diào,4,"turn, move; shake, wag; drop down"
+514,2,852,1194,魚 195.0,8,鱼,yú,2,fish; surname; KangXi radical 195
+515,2,859,2864,木 75.9,13,楚,chǔ,3,name of feudal state; clear
+516,2,867,2757,水 85.9,12,温,wēn,1,lukewarm
+517,2,871,1366,寸 41.6,9,封,fēng,1,"letter, envelope; feudal"
+518,2,883,1036,田 102.3,8,画,huà,4,"a painting, picture, drawing; to draw"
+519,2,889,2669,矢 111.7,12,短,duǎn,3,"short; brief; deficient, lacking"
+520,2,900,2385,广 53.8,11,康,kāng,1,"peaceful, quiet; happy, healthy"
+521,2,905,1528,金 167.4,9,钟,zhōng,1,clock; bell
+522,2,912,1197,心 61.4,8,忽,hū,1,"suddenly, abruptly; neglect"
+523,2,918,2751,水 85.9,12,湖,hú,2,"a lake; Hubei, Hunan; bluish-green"
+524,2,921,1355,日 72.5,9,春,chūn,1,spring; wanton
+525,2,926,318,示 113.1,5,礼,lǐ,3,social custom; manners; courtesy
+526,2,930,1025,木 75.4,8,板,bǎn,3,"plank, board; iron or tin plate"
+527,2,931,1624,广 53.7,9,庭,tíng,2,courtyard; spacious hall or yard
+528,2,934,2895,目 109.8,13,睛,jīng,1,eyeball; pupil of eye
+529,2,938,1559,頁 181.3,9,顺,shùn,4,"obey, submit to, go along with"
+530,2,948,1248,水 85.5,8,油,yóu,2,"oil, fat, grease, lard; paints"
+531,2,950,2046,方 70.6,10,旅,lǚ,3,"trip, journey; travel; traveler"
+532,2,956,1951,竹 118.4,10,笔,bǐ,3,writing brush; write; stroke
+533,2,959,897,言 149.5,7,词,cí,2,"words; phrase, expression"
+534,2,974,1042,十 24.6,8,卖,mài,4,sell; betray; show off
+535,2,979,1969,人 9.9,10,健,jiàn,4,"strong, robust, healthy; strength"
+536,2,980,2256,土 32.8,11,堂,táng,2,hall; government office
+537,2,984,1955,人 9.8,10,借,jiè,4,borrow; lend; make pretext of
+538,2,987,575,阜 170.4,6,阴,yīn,1,overcast (weather); cloudy; shady; Yin (the negative principle of Yin and Yang); negative (electric.)
+539,2,988,726,囗 31.4,7,园,yuán,2,"garden; park, orchard"
+540,2,1003,2249,雨 173.3,11,雪,xuě,3,"snow; wipe away shame, avenge"
+541,2,1005,1337,糸 120.5,8,练,liàn,4,"to practice, drill, exercise, train"
+542,2,1008,3268,竹 118.9,15,篇,piān,1,"chapter, section, essay, article"
+543,2,1010,3342,口 30.12,16,嘴,zuǐ,3,"mouth, lips"
+544,2,1012,2788,辵 162.9,12,遍,biàn,4,"everywhere, all over, throughout"
+545,2,1020,938,糸 120.4,7,纸,zhǐ,3,paper
+546,2,1035,3278,火 86.11,15,熟,shú,2,well-cooked; ripe; familiar with
+547,2,1044,1092,八 12.6,8,典,diǎn,3,"law, canon; documentation; classic, scripture"
+548,2,1053,600,廾 55.4,7,弄,nòng,4,"do, play or fiddle with; alley"
+549,2,1057,44,人 9.1,3,亿,yì,4,hundred million; many
+550,2,1069,822,辵 162.4,7,迎,yíng,2,"receive, welcome, greet"
+551,2,1081,924,力 19.5,7,努,nǔ,3,"to exert, strive, make an effort; to pout"
+552,2,1088,2498,糸 120.8,11,绿,lǜ,4,green; chlorine
+553,2,1091,1869,大 37.7,10,套,tào,4,"case, cover, wrapper, envelope"
+554,2,1101,2702,行 144.6,12,街,jiē,1,"street, road, thoroughfare"
+555,2,1115,534,火 86.2,6,灯,dēng,1,"lantern, lamp"
+556,2,1126,1862,夊 35.7,10,夏,xià,4,"summer; great, grand, big"
+557,2,1149,1327,女 38.5,8,姓,xìng,4,"family name, surname; to be surnamed"
+558,2,1151,1550,禾 115.4,9,秋,qiū,1,"autumn, fall; year"
+559,2,1164,193,木 75.1,5,末,mò,4,"final, last, end; insignificant"
+560,2,1183,2623,口 30.9,12,喊,hǎn,3,"shout, call out, yell; howl; cry"
+561,2,1190,2852,艸 140.10,13,蓝,lán,2,blue; indigo plant; surname
+562,2,1210,1907,口 30.7,10,哭,kū,1,"weep, cry, wail"
+563,2,1211,3300,心 61.13,15,懂,dǒng,3,"understand, comprehend"
+564,2,1212,3054,土 32.11,14,墙,qiáng,2,wall
+565,2,1226,2450,心 61.8,11,惯,guàn,4,"habit, custom; habitually, usual"
+566,2,1263,296,鳥 196.0,5,鸟,niǎo,3,bird; KangXi radical 196
+567,2,1265,1508,口 30.6,9,咱,zán,2,"we, us"
+568,2,1281,1198,犬 94.5,8,狗,gǒu,3,"dog, canis familiaris"
+569,2,1290,1278,宀 40.5,8,宜,yí,2,"suitable, right, fitting, proper"
+570,2,1351,2976,肉 130.10,13,腿,tuǐ,3,"legs, thighs"
+571,2,1371,2880,石 112.8,13,碰,pèng,4,"collide, bump into"
+572,2,1375,2251,車 159.7,11,辆,liàng,4,numerary adjunct for vehicles
+573,2,1384,295,冫 15.3,5,冬,dōng,1,"winter, 11th lunar month"
+574,2,1388,2260,日 72.7,11,晨,chén,2,"early morning, daybreak"
+575,2,1390,744,口 30.4,7,吹,chuī,1,"blow; puff; brag, boast"
+576,2,1397,1944,禾 115.5,10,租,zū,1,"rent, lease; rental; tax"
+577,2,1398,2489,馬 187.8,11,骑,qí,2,ride horseback; mount; cavalry
+578,2,1426,1161,爪 87.4,8,爬,pá,2,"crawl, creep; climb; scramble"
+579,2,1459,2707,舌 135.6,12,舒,shū,1,"open up, unfold, stretch out; comfortable, easy"
+580,2,1465,3341,食 184.7,16,餐,cān,1,"eat, dine; meal; food"
+581,2,1467,1382,手 64.7,9,挺,tǐng,3,"to stand upright, straighten; rigid"
+582,2,1545,3285,頁 181.9,15,颜,yán,2,"face, facial appearance"
+583,2,1547,2486,糸 120.8,11,绩,jī,1,spin; achievements
+584,2,1568,3163,水 85.11,14,漂,piào,4,"float, drift; tossed about"
+585,2,1581,2040,冫 15.8,10,凉,liáng,2,"cool, cold; disheartened"
+586,2,1634,1998,肉 130.6,10,脏,zàng,4,"internal organs, viscera; dirty"
+587,2,1638,3207,革 177.6,15,鞋,xié,2,"shoes, footwear in general"
+588,2,1663,2569,木 75.8,12,椅,yǐ,3,"chair, seat"
+589,2,1673,2367,犬 94.9,11,猫,māo,1,cat
+590,2,1703,2051,瓦 98.6,10,瓶,píng,2,"jug, pitcher, vase, jar, bottle"
+591,2,1710,2031,疒 104.5,10,疼,téng,2,"aches, pains; be fond of; love"
+592,2,1866,137,斤 69.0,4,斤,jīn,1,"a catty (approximately 500 g); an axe; keen, shrewd; KangXi radical number 69"
+593,2,1939,2881,石 112.8,13,碗,wǎn,3,"bowl, small dish"
+594,2,1968,2611,日 72.8,12,晴,qíng,2,"clear weather, fine weather"
+595,2,1988,2641,口 30.9,12,喂,wèi,4,interjection to call attention
+596,2,1998,1202,食 184.5,8,饱,bǎo,3,to eat till full; satisfied
+597,2,2357,3357,竹 118.10,16,篮,lán,2,basket
+598,2,2695,3378,水 85.13,16,澡,zǎo,3,"wash, bathe"
+599,2,3110,2955,竹 118.7,13,筷,kuài,4,chopsticks
+600,2,3650,1613,食 184.6,9,饺,jiǎo,3,stuffed dumplings
+601,3,57,1549,禾 115.4,9,种,zhǒng,3,"seed; race, breed; to plant"
+602,3,110,655,手 64.4,7,把,bǎ,3,"hold, take; guard; regard as"
+603,3,113,327,氏 83.1,5,民,mín,2,"people, subjects, citizens"
+604,3,116,411,止 77.2,6,此,cǐ,3,"this, these; in this case, then"
+605,3,122,1268,心 61.5,8,性,xìng,4,"nature, character, sex"
+606,3,132,1617,爿 90.6,9,将,jiāng,1,"will, going to, future; general"
+607,3,141,531,干 51.5,6,并,bìng,4,"and, further, more, also, together with; to combine"
+608,3,151,1642,羊 123.3,9,美,měi,3,"beautiful, pretty; pleasing"
+609,3,154,2118,衣 145.5,10,被,bèi,4,"quilt, by, (indicates passive-voice clauses)"
+610,3,159,522,立 117.1,6,产,chǎn,3,"give birth, bring forth, produce"
+611,3,163,1121,刀 18.6,8,制,zhì,4,system; establish; overpower
+612,3,174,271,人 9.3,5,代,dài,4,"replace, replacement (of person or generation); era, generation"
+613,3,175,116,入 11.2,4,内,nèi,4,inside
+614,3,178,132,匕 21.2,4,化,huà,4,"change, convert, reform; -ize"
+615,3,181,206,一 1.4,5,世,shì,4,generation; world; era
+616,3,186,467,人 9.4,6,任,rèn,4,"trust to, rely on, appoint; to bear, duty, office; allow"
+617,3,197,302,立 117.0,5,立,lì,4,"stand; let stand; establish, set"
+618,3,198,52,又 29.2,3,及,jí,2,extend; reach; come up to; and
+619,3,200,737,口 30.4,7,员,yuán,2,"member; personnel, staff member"
+620,3,201,2981,角 148.6,13,解,jiě,3,"loosen, unfasten, untie; explain"
+621,3,208,57,丿 4.2,3,义,yì,4,"right conduct, righteousness"
+622,3,209,506,口 30.3,6,各,gè,4,"each, individually, every, all"
+623,3,227,1711,示 113.5,9,神,shén,2,"spirit, god, supernatural being"
+624,3,228,1654,八 12.7,9,总,zǒng,3,"collect; overall, altogether"
+625,3,229,771,人 9.5,7,何,hé,2,"what, why, where, which, how"
+626,3,237,139,又 29.2,4,反,fǎn,3,"reverse, opposite, contrary, anti"
+627,3,244,1302,廴 54.6,8,建,jiàn,4,"build, establish, erect, found"
+628,3,252,3123,竹 118.8,14,管,guǎn,3,"pipe, tube, duct; woodwind music"
+629,3,257,2039,貝 154.6,10,资,zī,1,property; wealth; capital
+630,3,258,1168,口 30.5,8,命,mìng,4,"life; destiny, fate, luck; an order, instruction"
+631,3,260,1166,金 167.0,8,金,jīn,1,gold; metals in general; money
+632,3,261,1389,手 64.6,9,指,zhǐ,3,"finger, toe; point, indicate"
+633,3,265,94,匸 23.2,4,区,qū,1,"area, district, region, ward"
+634,3,266,1562,人 9.7,9,保,bǎo,3,"protect, safeguard, defend, care"
+635,3,267,410,至 133.0,6,至,zhì,4,"reach, arrive; extremely, very"
+636,3,269,604,彡 59.4,7,形,xíng,2,"form, shape, appearance"
+637,3,270,890,示 113.3,7,社,shè,4,"god of the soil and altars to him; group of families; company, society"
+638,3,273,523,冫 15.4,6,决,jué,2,"decide, determine, judge"
+639,3,275,2131,尸 44.7,10,展,zhǎn,3,"open, unfold; stretch, extend"
+640,3,280,2193,土 32.8,11,基,jī,1,"foundation, base"
+641,3,288,1496,田 102.4,9,界,jiè,4,"boundary, limit; domain; society; the world"
+642,3,289,398,辵 162.3,6,达,dá,2,"arrive at, reach; intelligent; smooth, slippery"
+643,3,290,417,儿 10.4,6,光,guāng,1,"light, brilliant, shine; only"
+644,3,292,2802,弓 57.9,12,强,qiáng,2,"strong, powerful, energetic"
+645,3,300,2361,豕 152.5,11,象,xiàng,4,"elephant; ivory; figure, image"
+646,3,302,560,言 149.4,6,设,shè,4,build; establish; display
+647,3,303,349,弋 56.3,6,式,shì,4,"style, system, formula, rule"
+648,3,308,1503,口 30.6,9,品,pǐn,3,"article, product, commodity"
+649,3,311,1646,大 37.6,9,类,lèi,4,"class, group, kind, category"
+650,3,313,2189,手 64.8,11,据,jù,4,"to occupy, take possession of; a base, position"
+651,3,314,2677,禾 115.7,12,程,chéng,2,"journey, trip; schedule, agenda"
+652,3,317,400,歹 78.2,6,死,sǐ,3,die; dead; death
+653,3,318,909,弓 57.4,7,张,zhāng,1,"stretch, extend, expand; sheet"
+654,3,321,952,見 147.4,8,规,guī,1,"rules, regulations, customs, law"
+655,3,325,1845,木 75.6,10,格,gé,2,"pattern, standard, form; style"
+656,3,326,2394,月 74.7,11,望,wàng,4,"to look at, look forward; to hope, expect"
+657,3,328,211,木 75.1,5,术,shù,4,"art, skill, special feat; method, technique"
+658,3,329,2354,頁 181.5,11,领,lǐng,3,"neck; collar; lead, guide"
+659,3,332,455,人 9.4,6,传,chuán,2,"summon; propagate, transmit"
+660,3,337,107,刀 18.2,4,切,qiè,4,"cut, mince, slice, carve"
+661,3,343,567,寸 41.3,6,导,dǎo,3,"direct, guide, lead, conduct"
+662,3,344,508,亅 6.5,6,争,zhēng,1,"dispute, fight, contend, strive"
+663,3,349,710,止 77.3,7,步,bù,4,"step, pace; walk, stroll"
+664,3,352,1850,木 75.6,10,根,gēn,1,"root, base(d on); foundation"
+665,3,354,1940,辵 162.7,10,造,zào,4,"construct, build, make, begin; prepare"
+666,3,356,2544,耳 128.6,12,联,lián,2,"connect, join; associate, ally"
+667,3,357,1367,手 64.6,9,持,chí,2,"sustain, support; hold, grasp"
+668,3,359,767,毋 80.3,7,每,měi,3,"every, each"
+669,3,360,1678,水 85.6,9,济,jì,4,"help, aid, relieve; ferry, cross"
+670,3,362,1631,立 117.4,9,亲,qīn,1,"relatives, parents; intimate the hazel nut or filbert tree a thorny tree"
+671,3,363,687,木 75.3,7,极,jí,2,"extreme, utmost, furthest, final"
+672,3,368,320,言 149.3,5,议,yì,4,"consult, talk over, discuss"
+673,3,373,885,言 149.5,7,证,zhèng,4,"prove, confirm, verify; proof"
+674,3,375,265,大 37.2,5,失,shī,1,"lose; make mistake, neglect"
+675,3,376,1059,車 159.4,8,转,zhuǎn,3,"shift, move, turn"
+676,3,377,79,大 37.1,4,夫,fū,1,"man, male adult, husband; those"
+677,3,380,218,巾 50.2,5,布,bù,4,"cotton cloth, textiles, linen"
+678,3,381,1329,女 38.5,8,始,shǐ,3,"begin, start; then, only then"
+679,3,384,391,子 39.3,6,存,cún,2,"exist, live, be; survive; remain"
+680,3,388,342,口 30.2,5,台,tái,2,platform; unit; term of address
+681,3,391,1077,八 12.6,8,具,jù,4,"tool, implement; draw up, write"
+682,3,399,708,辵 162.4,7,连,lián,2,"join, connect; continuous; even"
+683,3,400,2123,言 149.8,10,调,diào,4,"transfer, move, change; tune"
+684,3,401,2432,水 85.8,11,深,shēn,1,"deep; depth; far; very, extreme"
+685,3,405,425,囗 31.3,6,团,tuán,2,"sphere, ball, circle; mass, lump"
+686,3,406,2694,隹 172.4,12,集,jí,2,"assemble, collect together"
+687,3,408,3095,雨 173.6,14,需,xū,1,"need, require, must"
+688,3,409,469,人 9.4,6,价,jià,4,"price, value"
+689,3,412,472,十 24.4,6,华,huá,2,flowery; illustrious; Chinese
+690,3,413,1373,土 32.7,9,城,chéng,2,"castle; city, town; municipality"
+691,3,414,216,石 112.0,5,石,shí,2,"stone, rock, mineral; rad. 112"
+692,3,416,3333,攴 66.11,16,整,zhěng,3,"orderly, neat, tidy; whole"
+693,3,419,830,冫 15.5,7,况,kuàng,4,"condition, situation; furthermore"
+694,3,422,615,手 64.4,7,技,jì,4,"skill, ability, talent, ingenuity"
+695,3,424,593,糸 120.3,6,约,yuē,1,"treaty, agreement, covenant"
+696,3,430,1336,糸 120.5,8,线,xiàn,4,"line, thread, wire; clue"
+697,3,431,481,人 9.5,6,似,shì,4,"resemble, similar to; as if, seem"
+698,3,434,2405,斤 69.7,11,断,duàn,4,"sever, cut off; interrupt"
+699,3,435,3153,米 119.8,14,精,jīng,1,essence; semen; spirit
+700,3,437,89,支 65.0,4,支,zhī,1,"disperse, pay; support; branch"
+701,3,439,2071,水 85.7,10,消,xiāo,1,"vanish, die out; melt away"
+702,3,441,3348,口 30.13,16,器,qì,4,"receptacle, vessel; instrument"
+703,3,442,2105,宀 40.7,10,容,róng,2,"looks, appearance; figure, form"
+704,3,446,3204,土 32.12,15,增,zēng,1,"increase, add to, augment"
+705,3,452,202,力 19.3,5,功,gōng,1,"achievement, merit, good result"
+706,3,461,1088,日 72.4,8,易,yì,4,change; easy
+707,3,463,2747,曰 73.8,12,曾,céng,2,already; sign of past
+708,3,464,1732,阜 170.7,9,除,chú,2,"eliminate, remove, except"
+709,3,465,558,冖 14.4,6,农,nóng,2,"agriculture, farming; farmer"
+710,3,469,1485,日 72.5,9,显,xiǎn,3,"manifest, display; evident, clear"
+711,3,472,688,木 75.3,7,李,lǐ,3,plum; judge; surname
+712,3,473,1424,木 75.5,9,标,biāo,1,"mark, symbol, label, sign; stand the bole of a tree"
+713,3,474,2127,言 149.8,10,谈,tán,2,talk; conversation; surname
+714,3,477,1177,心 61.4,8,念,niàn,4,"think of, recall, study"
+715,3,480,95,厂 27.2,4,历,lì,4,history; calendar
+716,3,481,1651,首 185.0,9,首,shǒu,3,"head; first; leader, chief; a poem"
+717,3,484,1700,穴 116.4,9,突,tū,1,"suddenly, abruptly, unexpectedly"
+718,3,485,83,一 1.3,4,专,zhuān,1,"monopolize, take sole possession"
+719,3,486,1726,貝 154.5,9,费,fèi,4,"expenses, expenditures, fee"
+720,3,488,566,尸 44.3,6,尽,jǐn,3,"exhaust, use up; deplete"
+721,3,489,256,口 30.2,5,另,lìng,4,"another, separate, other"
+722,3,491,1876,車 159.6,10,较,jiào,4,"compare; comparatively, more"
+723,3,492,1252,水 85.5,8,注,zhù,4,"concentrate, focus, direct"
+724,3,494,136,人 9.2,4,仅,jǐn,3,"only, merely, solely, just"
+725,3,496,2557,艸 140.9,12,落,luò,4,"fall, drop; net income, surplus"
+726,3,501,946,止 77.4,8,武,wǔ,3,"military; martial, warlike"
+727,3,506,977,力 19.6,8,势,shì,4,"power, force; tendency"
+728,3,508,796,巾 50.4,7,希,xī,1,"rare; hope, expect, strive for"
+729,3,509,208,口 30.2,5,古,gǔ,3,"old, classic, ancient"
+730,3,510,491,人 9.4,6,众,zhòng,4,"multitude, crowd; masses, public"
+731,3,515,27,土 32.0,3,土,tǔ,3,"soil, earth; items made of earth"
+732,3,517,1399,木 75.5,9,某,mǒu,3,certain thing or person
+733,3,527,731,足 157.0,7,足,zú,2,"foot; attain, satisfy, enough"
+734,3,532,1673,水 85.6,9,派,pài,4,"school of thought, sect, branch"
+735,3,534,2152,馬 187.7,10,验,yàn,4,"test, examine, inspect; verify"
+736,3,535,948,貝 154.4,8,责,zé,2,"duty, responsibility; to reproach, to blame"
+737,3,536,2214,艸 140.8,11,营,yíng,2,"encampment, barracks; manage"
+738,3,539,2389,立 117.6,11,章,zhāng,1,"composition; chapter, section"
+739,3,542,651,心 61.3,7,志,zhì,4,"purpose, will, determination; annals"
+740,3,543,1212,广 53.5,8,底,dǐ,3,"bottom, underneath, underside"
+741,3,548,576,阜 170.4,6,防,fáng,2,defend; prevent; embankment
+742,3,549,2392,方 70.7,11,族,zú,2,"a family clan, ethnic group, tribe"
+743,3,551,2034,攴 66.6,10,效,xiào,4,"result, effect; effectiveness"
+744,3,552,2488,糸 120.8,11,续,xù,4,"continue, carry on; succeed"
+745,3,558,1344,糸 120.5,8,终,zhōng,1,"end; finally, in the end"
+746,3,560,1884,糸 120.4,10,紧,jǐn,3,"tense, tight, taut; firm, secure"
+747,3,562,1762,糸 120.6,9,绝,jué,2,"to cut, sever, break off, terminate"
+748,3,563,1050,大 37.5,8,奇,qí,2,"strange, unusual, uncanny, occult"
+749,3,564,3174,宀 40.11,14,察,chá,2,"examine, investigate; notice"
+750,3,565,345,毋 80.1,5,母,mǔ,3,mother; female elders; female
+751,3,569,622,手 64.4,7,批,pī,1,"comment, criticize; wholesale"
+752,3,570,3035,羊 123.7,13,群,qún,2,"(same as 羣) group, crowd, multitude, mob"
+753,3,573,1395,手 64.6,9,按,àn,4,"put hand on, press down with hand"
+754,3,576,728,囗 31.4,7,围,wéi,2,"surround, encircle, corral"
+755,3,579,2097,宀 40.7,10,害,hài,4,"injure, harm; destroy, kill"
+756,3,581,187,又 29.2,4,双,shuāng,1,"set of two, pair, couple; both"
+757,3,582,3061,土 32.11,14,境,jìng,4,"boundary, frontier; area, region"
+758,3,584,595,糸 120.3,6,纪,jì,4,"record, annal, historical account"
+759,3,585,1172,釆 165.1,8,采,cǎi,3,"collect, gather; pick, pluck"
+760,3,589,141,父 88.0,4,父,fù,4,father; KangXi radical 88
+761,3,593,2559,月 74.8,12,朝,cháo,2,dynasty; morning
+762,3,596,109,止 77.0,4,止,zhǐ,3,"stop, halt, desist; detain"
+763,3,600,1956,人 9.8,10,值,zhí,2,price
+764,3,601,135,人 9.2,4,仍,réng,2,"yet, still, as ever; again; keep -ing, continuing"
+765,3,604,1867,石 112.5,10,破,pò,4,"break, ruin, destroy; rout"
+766,3,610,2800,尸 44.9,12,属,shǔ,3,"class, category, type; belong to"
+767,3,616,2192,耳 128.5,11,职,zhí,2,"duty, profession; office, post"
+768,3,617,1853,辵 162.7,10,速,sù,4,"quick, prompt, speedy"
+769,3,620,703,口 30.4,7,否,fǒu,3,"not, no, negative; final particle"
+770,3,624,828,犬 94.3,7,状,zhuàng,4,form; appearance; shape; official
+771,3,634,999,艸 140.5,8,苦,kǔ,3,"bitter; hardship, suffering"
+772,3,635,494,刀 18.4,6,创,chuàng,4,"establish, create; knife cut"
+773,3,647,2148,頁 181.4,10,预,yù,4,"prepare, arrange; in advance"
+774,3,655,2153,糸 120.7,10,继,jì,4,"continue, maintain, carry on"
+775,3,658,479,血 143.0,6,血,xuè,4,blood; radical number 143
+776,3,660,468,人 9.4,6,伤,shāng,1,"wound, injury; fall ill from"
+777,3,667,889,刀 18.5,7,初,chū,1,"beginning, initial, primary"
+778,3,669,65,乙 5.2,3,卫,wèi,4,"guard, protect, defend"
+779,3,672,1733,阜 170.7,9,险,xiǎn,3,"narrow pass, strategic point"
+780,3,673,1580,彳 60.6,9,待,dài,4,"treat, entertain, receive; wait"
+781,3,681,945,玉 96.4,8,环,huán,2,jade ring or bracelet; ring
+782,3,683,3033,示 113.9,13,福,fú,2,"happiness, good fortune, blessing"
+783,3,687,3453,言 149.13,19,警,jǐng,3,"guard, watch; alert, alarm"
+784,3,690,525,儿 10.4,6,充,chōng,1,"fill, be full, supply"
+785,3,691,503,貝 154.2,6,负,fù,4,"load, burden; carry, bear"
+786,3,694,87,木 75.0,4,木,mù,4,"tree; wood, lumber; wooden"
+787,3,696,221,龍 212.0,5,龙,lóng,2,dragon; symbolic of emperor
+788,3,705,1010,艸 140.5,8,范,fàn,4,surname; bee-like insect
+789,3,712,682,木 75.3,7,村,cūn,1,"village, hamlet; uncouth, vulgar"
+790,3,713,1510,口 30.6,9,哈,hā,1,sound of laughter
+791,3,715,3167,水 85.11,14,演,yǎn,3,"perform, put on; exercise"
+792,3,716,2954,竹 118.7,13,简,jiǎn,3,"simple, terse, succinct, a letter"
+793,3,719,849,刀 18.5,7,判,pàn,4,judge; discriminate; conclude
+794,3,723,1720,辵 162.6,9,退,tuì,4,"step back, retreat, withdraw"
+795,3,728,1945,禾 115.5,10,积,jī,1,"accumulate, store up, amass"
+796,3,730,2734,疒 104.7,12,痛,tòng,4,"pain, ache; sorry, sad; bitter"
+797,3,733,2781,宀 40.9,12,富,fù,4,"abundant, ample; rich, wealthy"
+798,3,738,1858,酉 164.3,10,配,pèi,4,"match, pair; equal; blend"
+799,3,740,1560,人 9.8,9,修,xiū,1,study; repair; cultivate
+800,3,741,336,皮 107.0,5,皮,pí,2,"skin, hide, fur, feather; outer"
+801,3,743,1594,肉 130.5,9,胜,shèng,4,"victory; excel, be better than"
+802,3,748,712,土 32.4,7,坚,jiān,1,"hard, strong, firm; resolute"
+803,3,749,2738,口 30.9,12,善,shàn,4,"good, virtuous, charitable, kind"
+804,3,756,385,厂 27.4,6,压,yā,1,press; oppress; crush; pressure
+805,3,765,762,乙 5.6,7,乱,luàn,4,"confusion, state of chaos, revolt"
+806,3,768,1577,辵 162.6,9,追,zhuī,1,"pursue, chase after; expel"
+807,3,770,1695,宀 40.6,9,宣,xuān,1,"declare, announce, proclaim"
+808,3,774,461,人 9.4,6,优,yōu,1,"superior, excellent; actor"
+809,3,775,1271,心 61.5,8,怪,guài,4,"strange, unusual, peculiar"
+810,3,776,1548,香 186.0,9,香,xiāng,1,"fragrant, sweet smelling, incense"
+811,3,786,86,艸 140.1,4,艺,yì,4,"art; talent, ability; craft"
+812,3,791,2871,木 75.9,13,概,gài,4,"generally, approximately"
+813,3,794,1877,頁 181.4,10,顿,dùn,4,"pause, stop; bow, kowtow; arrange"
+814,3,795,2470,攴 66.8,11,敢,gǎn,3,"to dare, venture; bold, brave"
+815,3,802,1871,火 86.6,10,烈,liè,4,"fiery, violent, vehement, ardent"
+816,3,809,887,言 149.5,7,评,píng,2,"appraise, criticize, evaluate"
+817,3,814,2626,日 72.8,12,景,jǐng,3,"scenery, view; conditions"
+818,3,819,106,二 7.2,4,互,hù,4,"mutually, reciprocally"
+819,3,820,269,人 9.3,5,付,fù,4,"give, deliver, pay, hand over; entrust"
+820,3,826,499,卩 26.4,6,危,wēi,1,"dangerous, precarious; high"
+821,3,834,699,丶 3.7,7,丽,lì,4,"beautiful, magnificent, elegant"
+822,3,837,125,十 24.2,4,升,shēng,1,"arise, go up; hoist; advance"
+823,3,846,1743,木 75.5,9,架,jià,4,"rack, stand, prop; prop up"
+824,3,848,860,水 85.4,7,沙,shā,1,"sand, gravel, pebbles; granulated"
+825,3,853,498,木 75.2,6,杂,zá,2,"mixed, blended; mix, mingle"
+826,3,854,1714,言 149.7,9,误,wù,4,"err, make mistake; interfere"
+827,3,863,1722,尸 44.6,9,屋,wū,1,"house; room; building, shelter"
+828,3,866,2546,攴 66.8,12,散,sàn,4,"scatter, disperse, break up"
+829,3,868,734,囗 31.4,7,困,kùn,4,"to surround, beseige; to be surrounded; difficult"
+830,3,872,2232,攴 66.7,11,救,jiù,4,"save, rescue, relieve; help, aid"
+831,3,875,1935,缶 121.4,10,缺,quē,1,"be short of, lack; gap, deficit"
+832,3,881,2144,女 38.7,10,娘,niáng,2,mother; young girl; woman; wife
+833,3,891,1810,心 61.6,10,恐,kǒng,3,"fear; fearful, apprehensive"
+834,3,902,983,干 51.5,8,幸,xìng,4,"luck(ily), favor, fortunately"
+835,3,908,1788,走 156.3,10,赶,gǎn,3,"pursue, follow; expel, drive away"
+836,3,909,2132,刀 18.8,10,剧,jù,4,"theatrical plays, opera, drama"
+837,3,915,232,日 72.1,5,旧,jiù,4,"old, ancient; former, past"
+838,3,919,1304,彐 58.5,8,录,lù,4,"copy, write down, record"
+839,3,922,73,幺 52.0,3,乡,xiāng,1,country; rural; village
+840,3,939,2890,車 159.9,13,输,shū,1,"transport, carry, haul"
+841,3,942,2481,女 38.8,11,婚,hūn,1,"get married; marriage, wedding"
+842,3,944,888,衣 145.2,7,补,bǔ,3,"mend, patch, fix, repair, restore"
+843,3,952,681,木 75.3,7,材,cái,2,"material, stuff; timber; talent"
+844,3,963,6,厂 27.0,2,厂,chǎng,3,"factory, workshop; radical 27"
+845,3,967,2062,火 86.6,10,烟,yān,1,"smoke, soot; opium; tobacco, cigarettes"
+846,3,992,633,手 64.4,7,抓,zhuā,1,"scratch; clutch, seize, grab"
+847,3,994,1325,女 38.5,8,姑,gū,1,"paternal aunt, husband's sister"
+848,3,998,694,木 75.3,7,束,shù,4,"bind, control, restrain; bale"
+849,3,999,2915,足 157.6,13,跳,tiào,4,"jump, leap, vault, bounce; dance"
+850,3,1014,1866,石 112.5,10,础,chǔ,3,"foundation stone, plinth"
+851,3,1022,319,言 149.3,5,训,xùn,4,"teach, instruct; exegesis"
+852,3,1032,2538,手 64.9,12,握,wò,4,"grasp, hold fast, take by hand"
+853,3,1033,584,戈 62.2,6,戏,xì,4,"theatrical play, show"
+854,3,1037,561,言 149.4,6,访,fǎng,3,"visit; ask, inquire"
+855,3,1063,518,齊 210.0,6,齐,qí,2,"even, uniform, of equal length"
+856,3,1064,3172,宀 40.11,14,赛,sài,4,"compete, contend; contest, race"
+857,3,1067,18,刀 18.0,2,刀,dāo,1,knife; old coin; measure
+858,3,1107,454,人 9.4,6,伟,wěi,3,"great, robust; extraordinary"
+859,3,1108,2379,麻 200.0,11,麻,má,2,"hemp, jute, flax; sesame"
+860,3,1144,3116,舛 136.8,14,舞,wǔ,3,"dance, posture, prance; brandish"
+861,3,1153,1647,辵 162.6,9,迷,mí,2,"bewitch, charm, infatuate"
+862,3,1167,970,手 64.5,8,拍,pāi,1,"clap, tap, beat; beat or rhythm"
+863,3,1176,169,言 149.2,4,订,dìng,4,draw up agreement; arrange
+864,3,1177,2353,彡 59.8,11,彩,cǎi,3,"hue, color; variegated colors"
+865,3,1186,2084,水 85.7,10,浪,làng,4,"wave; wasteful, reckless"
+866,3,1188,134,巾 50.1,4,币,bì,4,"currency, coins, legal tender"
+867,3,1189,74,丨 2.3,4,丰,fēng,1,"abundant, lush, bountiful, plenty"
+868,3,1219,197,工 48.2,5,巧,qiǎo,3,"skillful, ingenious, clever"
+869,3,1222,1486,冂 13.7,9,冒,mào,4,"risk, brave, dare"
+870,3,1232,1365,手 64.6,9,挂,guà,4,"hang, suspend; suspense"
+871,3,1253,2059,火 86.6,10,烦,fán,2,"bother, vex, trouble; troublesome"
+872,3,1261,2692,片 91.8,12,牌,pái,2,"signboard, placard"
+873,3,1269,515,广 53.3,6,庆,qìng,4,"congratulate, celebrate"
+874,3,1275,3199,手 64.12,15,播,bō,1,"sow, spread; broadcast; cast away, reject"
+875,3,1292,1841,木 75.6,10,桥,qiáo,2,"bridge; beam, crosspiece"
+876,3,1337,530,羊 123.0,6,羊,yáng,2,"sheep, goat; KangXi radical 123"
+877,3,1453,3265,竹 118.9,15,箱,xiāng,1,"case, box, chest, trunk"
+878,3,1506,2808,女 38.9,12,媒,méi,2,"go-between, matchmaker; medium"
+879,3,1618,542,水 85.3,6,汤,tāng,1,"hot water; soup, gravy, broth"
+880,3,1651,1712,示 113.5,9,祝,zhù,4,pray for happiness or blessings
+881,3,1652,732,邑 163.5,7,邮,yóu,2,"postal, mail; post office"
+882,3,1745,2906,日 72.9,13,暖,nuǎn,3,"warm, genial"
+883,3,1746,3374,米 119.10,16,糖,táng,2,sugar; candy; sweets
+884,3,1762,2365,犬 94.9,11,猪,zhū,1,"pig, hog, wild boar"
+885,3,1766,2840,手 64.10,13,搬,bān,1,"transfer, move, remove, shift"
+886,3,1836,3427,亠 8.15,17,赢,yíng,2,"win; surplus, gain, profit"
+887,3,1893,1596,肉 130.5,9,胖,pàng,4,"fat, obese; fatty"
+888,3,2020,2311,甘 99.6,11,甜,tián,2,"sweet, sweetness"
+889,3,2040,735,口 30.4,7,吵,chǎo,3,"argue, dispute; disturb, annoy"
+890,3,2090,2791,衣 145.7,12,裤,kù,4,"trousers, pants"
+891,3,2153,1293,衣 145.3,8,衫,shān,1,shirt; robe; gown; jacket
+892,3,2326,2272,口 30.8,11,啡,fēi,1,morphine; coffee
+893,3,2379,1104,口 30.5,8,咖,kā,1,coffee; a phonetic
+894,3,2431,2792,衣 145.7,12,裙,qún,2,"skirt, apron, petticoat"
+895,3,2478,1004,艸 140.5,8,苹,píng,2,artemisia; duckweed; apple
+896,3,2502,1292,衣 145.3,8,衬,chèn,4,underwear; inner garments
+897,3,2540,308,水 85.2,5,汁,zhī,1,"juice, liquor, fluid, sap, gravy, sauce"
+898,3,2607,1257,水 85.5,8,泳,yǒng,3,dive; swim
+899,3,2849,2289,口 30.8,11,啤,pí,2,beer
+900,3,3104,3209,艸 140.12,15,蕉,jiāo,1,banana; plantain
+901,4,44,58,丿 4.3,3,之,zhī,1,"marks preceding phrase as modifier of following phrase; it, him her, them; go to"
+902,4,105,81,无 71.0,4,无,wú,2,"negative, no, not; KangXi radical 71"
+903,4,108,34,一 1.3,3,与,yǔ,3,"and; with; to; for; give, grant"
+904,4,145,1468,戈 62.5,9,战,zhàn,4,"war, fighting, battle"
+905,4,150,1376,攴 66.4,9,政,zhèng,4,"government, political affairs"
+906,4,264,1765,糸 120.6,9,统,tǒng,3,"govern, command, control; unite"
+907,4,274,1264,水 85.5,8,治,zhì,4,"govern, regulate, administer"
+908,4,284,440,刀 18.4,6,则,zé,2,"rule, law, regulation; grades"
+909,4,287,658,卩 26.5,7,却,què,4,"still, but; decline; retreat"
+910,4,293,901,卩 26.5,7,即,jí,2,"promptly, quickly, immediately"
+911,4,297,378,木 75.2,6,权,quán,2,"power, right, authority"
+912,4,364,1018,木 75.4,8,林,lín,2,"forest, grove; surname"
+913,4,372,28,士 33.0,3,士,shì,4,"scholar, gentleman; soldier"
+914,4,385,192,木 75.1,5,未,wèi,4,not yet; 8th terrestrial branch
+915,4,398,768,八 12.5,7,兵,bīng,1,"soldier, troops"
+916,4,404,1157,厂 27.4,8,质,zhì,4,"matter, material, substance"
+917,4,417,1211,广 53.5,8,府,fǔ,3,prefecture; prefect; government
+918,4,420,373,一 1.5,6,亚,yà,4,Asia; second
+919,4,429,881,穴 116.2,7,究,jiū,1,"examine, investigate"
+920,4,432,1281,宀 40.5,8,官,guān,1,"official, public servant"
+921,4,447,1446,石 112.6,9,研,yán,2,"grind, rub; study, research"
+922,4,450,490,人 9.4,6,企,qǐ,3,plan a project; stand on tiptoe
+923,4,456,248,口 30.2,5,史,shǐ,3,"history, chronicle, annals"
+924,4,458,280,丿 4.4,5,乎,hū,1,interrogative or exclamatory final particle
+925,4,471,913,阜 170.5,7,阿,ā,1,"prefix used before monosyllabic names, kinship terms etc to indicate familiarity"
+926,4,479,176,弓 57.1,4,引,yǐn,3,"to pull, draw out, attract; to stretch"
+927,4,483,907,尸 44.4,7,局,jú,2,"bureau, office; circumstance"
+928,4,500,399,刀 18.4,6,列,liè,4,"a line; to arrange in order, classify"
+929,4,511,1029,木 75.4,8,构,gòu,4,"frame, building, structure"
+930,4,516,643,手 64.4,7,投,tóu,2,"throw, cast, fling, pitch; jump"
+931,4,518,2107,木 75.6,10,案,àn,4,"table, bench; legal case"
+932,4,520,2492,糸 120.8,11,维,wéi,2,"maintain, preserve, safeguard"
+933,4,523,1942,舌 135.4,10,敌,dí,2,"enemy, foe, rival; resist"
+934,4,524,1879,至 133.3,10,致,zhì,4,"send, deliver, present; cause"
+935,4,526,1583,彳 60.6,9,律,lǜ,4,"statute, principle, regulation"
+936,4,545,671,一 1.6,7,严,yán,2,"strict, rigorous, rigid; stern"
+937,4,546,178,己 49.1,4,巴,bā,1,"greatly desire, anxiously hope"
+938,4,550,1138,人 9.6,8,供,gōng,1,"supply, provide for; offer in worship"
+939,4,553,1634,方 70.5,9,施,shī,1,"grant, bestow; give; act; name"
+940,4,556,1363,土 32.6,9,型,xíng,2,"pattern, model, type; law; mold"
+941,4,557,2054,斗 68.6,10,料,liào,4,"consider, conjecture; materials, ingredients"
+942,4,568,1153,人 9.6,8,依,yī,1,"rely on, be set in; consent, obey a wish"
+943,4,571,1370,頁 181.3,9,项,xiàng,4,"neck, nape of neck; sum; funds"
+944,4,577,538,水 85.3,6,江,jiāng,1,large river; yangzi; surname
+945,4,580,166,斗 68.0,4,斗,dòu,4,Chinese peck; liquid measure
+946,4,591,2458,宀 40.8,11,密,mì,4,"dense, thick, close; intimate"
+947,4,597,1340,糸 120.5,8,细,xì,4,"fine, tiny; slender, thin"
+948,4,613,1323,阜 170.6,8,限,xiàn,4,"boundary, limit, line"
+949,4,625,2395,玄 95.6,11,率,lǜ,4,to lead; ratio; rate; limit
+950,4,626,1400,甘 99.4,9,甚,shén,2,great extent; considerably
+951,4,627,1602,犬 94.6,9,独,dú,2,"alone, single, solitary, only"
+952,4,639,1315,手 64.4,8,承,chéng,2,"inherit, receive; succeed"
+953,4,649,2055,皿 108.5,10,益,yì,4,"profit, benefit; advantage"
+954,4,653,2965,彳 60.10,13,微,wēi,1,"small, prefix micro-, trifling"
+955,4,659,2445,心 61.8,11,惊,jīng,1,"frighten, surprise, startle"
+956,4,670,3008,水 85.10,13,源,yuán,2,"spring; source, head; surname"
+957,4,674,1032,辵 162.5,8,述,shù,4,"narrate, state, express"
+958,4,675,912,阜 170.5,7,陆,lù,4,"land, continental; army"
+959,4,677,2931,网 122.8,13,置,zhì,4,"place, lay out; set aside"
+960,4,678,1308,尸 44.5,8,居,jū,1,"live, dwell, reside, sit"
+961,4,680,756,貝 154.3,7,财,cái,2,"wealth, valuables, riches"
+962,4,686,2884,雨 173.5,13,雷,léi,2,thunder
+963,4,688,1827,艸 140.7,10,获,huò,4,"obtain, get, receive; seize"
+964,4,689,3078,木 75.11,14,模,mó,2,"model, standard, pattern; copy"
+965,4,698,3136,疋 103.9,14,疑,yí,2,"doubt, question, suspect"
+966,4,702,511,冫 15.4,6,冲,chōng,1,soar; pour boiling water over
+967,4,706,2390,立 117.6,11,竟,jìng,4,"finally, after all, at last"
+968,4,710,3379,水 85.13,16,激,jī,1,"arouse, excite, incite; quickly"
+969,4,720,963,手 64.5,8,担,dān,1,"carry, bear, undertake"
+970,4,724,1721,无 71.5,9,既,jì,4,already; de facto; since; then
+971,4,729,795,人 9.5,7,余,yú,2,"I, my, me; surname; surplus"
+972,4,739,1159,彳 60.5,8,征,zhēng,1,"invade, attack, conquer"
+973,4,742,1396,手 64.6,9,挥,huī,1,direct; wipe away; squander
+974,4,744,1321,阜 170.6,8,降,jiàng,4,"descend, fall, drop; lower, down"
+975,4,745,574,阜 170.4,6,阶,jiē,1,"stairs, steps; rank, degree"
+976,4,747,871,水 85.4,7,沉,chén,2,"sink, submerge; addicted to"
+977,4,755,810,儿 10.5,7,免,miǎn,3,spare; excuse from; evade
+978,4,762,873,心 61.4,7,怀,huái,2,"bosom, breast; carry in bosom"
+979,4,773,1981,舟 137.4,10,航,háng,2,"sail; navigate; ship, boat"
+980,4,777,2198,艸 140.8,11,著,zhe,0,manifest; (Cant.) to wear
+981,4,788,571,阜 170.4,6,阵,zhèn,4,"column, row or file of troops"
+982,4,792,1829,心 61.6,10,恶,è,4,"evil, wicked, bad, foul"
+983,4,796,546,宀 40.3,6,守,shǒu,3,"defend, protect, guard, conserve"
+984,4,801,170,戶 63.0,4,户,hù,4,door; family
+985,4,811,1274,宀 40.5,8,宝,bǎo,3,"treasure, jewel; precious, rare"
+986,4,813,2710,釆 165.5,12,释,shì,4,"interprete, elucidate; release"
+987,4,817,2813,癶 105.7,12,登,dēng,1,"rise, mount, board, climb"
+988,4,818,1151,貝 154.4,8,货,huò,4,"goods, commodities, products"
+989,4,829,2909,日 72.9,13,暗,àn,4,"dark; obscure; in secret, covert"
+990,4,835,884,艮 138.1,7,良,liáng,2,"good, virtuous, respectable"
+991,4,836,840,广 53.4,7,序,xù,4,"series, serial order, sequence"
+992,4,839,1471,丨 2.8,9,临,lín,2,"draw near, approach; descend"
+993,4,843,1099,口 30.5,8,呼,hū,1,"breathe sigh, exhale; call, shout"
+994,4,850,1383,手 64.6,9,括,kuò,4,"include, embrace, enclose"
+995,4,857,2375,冫 15.9,11,减,jiǎn,3,"decrease, subtract, diminish"
+996,4,858,2822,糸 120.9,12,编,biān,1,"knit, weave; arrange; compile"
+997,4,861,1670,水 85.6,9,测,cè,4,"measure, estimate, conjecture"
+998,4,862,1113,貝 154.4,8,败,bài,4,"be defeated, decline, fail"
+999,4,865,2221,木 75.7,11,梦,mèng,4,dream; visionary; wishful
+1000,4,870,2417,水 85.8,11,渐,jiàn,4,gradually
+1001,4,877,720,厶 28.5,7,县,xiàn,4,"county, district, subdivision"
+1002,4,878,1075,小 42.5,8,尚,shàng,4,"still, yet; even; fairly, rather"
+1003,4,879,2376,毛 82.7,11,毫,háo,2,fine hair; measure of length
+1004,4,880,2316,禾 115.6,11,移,yí,2,"change place, shift; move about"
+1005,4,885,2670,日 72.8,12,智,zhì,4,"wisdom, knowledge, intelligence"
+1006,4,887,369,耳 128.0,6,耳,ěr,3,"ear; merely, only; handle"
+1007,4,892,2633,辵 162.9,12,遗,yí,2,lose; articles lost; omit
+1008,4,893,1093,囗 31.5,8,固,gù,4,"to become solid, solidify; strength"
+1009,4,894,2023,巾 50.7,10,席,xí,2,seat; mat; take seat; banquet
+1010,4,895,1026,木 75.4,8,松,sōng,1,pine tree; fir tree
+1011,4,896,1949,禾 115.5,10,秘,mì,4,"secret, mysterious, abstruse"
+1012,4,899,2622,辵 162.9,12,遇,yù,4,"meet, come across, encounter"
+1013,4,901,1882,心 61.6,10,虑,lǜ,4,"be concerned, worry about"
+1014,4,903,640,土 32.4,7,均,jūn,1,"equal, even, fair; all, also"
+1015,4,904,2659,金 167.7,12,销,xiāo,1,"melt, fuse; market, sell"
+1016,4,906,1288,言 149.6,8,诗,shī,1,"poetry; poem, verse, ode"
+1017,4,913,101,工 48.2,4,巨,jù,4,"large, great, enormous; chief"
+1018,4,920,238,口 30.2,5,叶,yè,4,"to harmonize, to rhyme; to unite; (borrowed for) leaf"
+1019,4,923,916,阜 170.5,7,附,fù,4,"adhere to, append; rely on near to"
+1020,4,924,431,口 30.4,6,吸,xī,1,"inhale, suck in; absorb; attract"
+1021,4,929,729,口 30.4,7,呀,ya,0,particle used to express surprise or mild emphasis; (Cant.) slurred form of the number ten
+1022,4,932,579,女 38.3,6,妇,fù,4,married women; woman; wife
+1023,4,933,234,彐 58.2,5,归,guī,1,"return; return to, revert to"
+1024,4,937,800,口 30.4,7,含,hán,2,hold in mouth; cherish; contain
+1025,4,940,2841,手 64.10,13,摇,yáo,2,"wag, swing, wave; shake; scull"
+1026,4,941,988,手 64.5,8,招,zhāo,1,"beckon, summon; recruit, levy"
+1027,4,943,2360,肉 130.7,11,脱,tuō,1,take off
+1028,4,945,2466,言 149.9,11,谓,wèi,4,"say, tell; call, name; be called"
+1029,4,949,834,疒 104.2,7,疗,liáo,2,"be healed, cured, recover"
+1030,4,954,1870,辵 162.7,10,逐,zhú,2,"chase, expel; one by one"
+1031,4,958,3135,魚 195.6,14,鲜,xiān,1,fresh; delicious; attractive
+1032,4,961,992,手 64.5,8,择,zé,2,"select, choose, pick out"
+1033,4,962,563,彐 58.3,6,寻,xún,2,"seek, search, look for; ancient"
+1034,4,968,2177,手 64.8,11,授,shòu,4,"give to, transmit; confer"
+1035,4,977,1787,戈 62.6,10,载,zài,4,"load; carry; transport, convey"
+1036,4,986,2863,示 113.8,13,禁,jìn,4,"restrict, prohibit, forbid"
+1037,4,991,3385,辵 162.13,16,避,bì,4,avoid; turn aside; escape; hide
+1038,4,995,570,子 39.3,6,孙,sūn,1,"grandchild, descendent; surname"
+1039,4,997,102,牙 92.0,4,牙,yá,2,"tooth, molars, teeth; serrated"
+1040,4,1000,971,頁 181.2,8,顶,dǐng,3,"top, summit, peak; to carry on the head"
+1041,4,1001,190,玉 96.0,5,玉,yù,4,"jade, precious stone, gem"
+1042,4,1006,1156,辵 162.5,8,迫,pò,4,"coerce, force, compel; urgent"
+1043,4,1016,1231,卩 26.6,8,卷,juǎn,3,scroll; curl; make a comeback
+1044,4,1019,312,宀 40.2,5,宁,níng,2,"calm, peaceful, serene; healthy"
+1045,4,1027,3445,羽 124.12,18,翻,fān,1,"flip over, upset, capsize"
+1046,4,1029,2567,木 75.8,12,森,sēn,1,forest; luxuriant vegetation
+1047,4,1031,3352,黑 203.4,16,默,mò,4,"silent; quiet, still; dark"
+1048,4,1036,1523,骨 188.0,9,骨,gǔ,3,"bone; skeleton; frame, framework"
+1049,4,1038,2134,弓 57.7,10,弱,ruò,4,"weak; fragile, delicate"
+1050,4,1047,475,人 9.4,6,伙,huǒ,3,"companion, colleague; utensils"
+1051,4,1049,2343,皿 108.6,11,盘,pán,2,"tray, plate, dish; examine"
+1052,4,1051,364,手 64.3,6,扩,kuò,4,"expand, enlarge, stretch"
+1053,4,1052,2400,皿 108.6,11,盖,gài,4,"cover, hide, protect"
+1054,4,1055,3118,禾 115.9,14,稳,wěn,3,"stable, firm, solid, steady"
+1055,4,1058,1039,刀 18.6,8,刺,cì,4,"stab; prick, irritate; prod"
+1056,4,1065,3194,走 156.8,15,趣,qù,4,"interesting, to interest"
+1057,4,1070,513,冫 15.4,6,冰,bīng,1,ice; ice-cold
+1058,4,1074,2786,穴 116.7,12,窗,chuāng,1,window
+1059,4,1075,3336,酉 164.9,16,醒,xǐng,3,wake up; sober up; startle
+1060,4,1076,1056,女 38.5,8,妻,qī,1,wife
+1061,4,1077,1950,辵 162.7,10,透,tòu,4,"penetrate, pass through"
+1062,4,1078,1117,貝 154.4,8,购,gòu,4,"buy, purchase; hire"
+1063,4,1079,2506,曰 73.8,12,替,tì,4,"change, replace, substitute for"
+1064,4,1084,368,手 64.3,6,扬,yáng,2,"scatter, spread; praise"
+1065,4,1085,1982,辵 162.7,10,途,tú,2,"way, road, path, journey; course"
+1066,4,1089,250,儿 10.3,5,兄,xiōng,1,elder brother
+1067,4,1090,565,辵 162.3,6,迅,xùn,4,"quick, hasty, rapid, sudden"
+1068,4,1093,409,比 81.2,6,毕,bì,4,"end, finish, conclude; completed"
+1069,4,1096,1061,車 159.4,8,轮,lún,2,"wheel; revolve, turn; recur"
+1070,4,1102,1563,人 9.7,9,促,cù,4,"urge, press, hurry; close"
+1071,4,1103,464,廴 54.4,6,延,yán,2,"delay, postpone, defer"
+1072,4,1110,240,田 102.0,5,申,shēn,1,"to state to a superior, report; extend; 9th terrestrial branch"
+1073,4,1111,2818,糸 120.9,12,缓,huǎn,3,"slow, leisurely; to postpone, delay"
+1074,4,1113,305,門 169.2,5,闪,shǎn,3,"flash; avoid, dodge, evade"
+1075,4,1114,2332,口 30.8,11,售,shòu,4,sell
+1076,4,1116,757,金 167.2,7,针,zhēn,1,needle; pin; tack; acupuncture
+1077,4,1118,1761,糸 120.6,9,络,luò,4,"enmesh, wrap around; web, net"
+1078,4,1122,978,手 64.5,8,抱,bào,4,"embrace, hold in arms, enfold"
+1079,4,1124,2566,木 75.8,12,植,zhí,2,"plant, trees, plants; grow"
+1080,4,1125,931,糸 120.4,7,纯,chún,2,"pure, clean, simple"
+1081,4,1131,632,手 64.4,7,折,zhé,2,"break off, snap; bend"
+1082,4,1133,114,貝 154.0,4,贝,bèi,4,"sea shell; money, currency"
+1083,4,1136,765,禾 115.2,7,秀,xiù,4,"ear of grain; flowering, luxuriant; refined, elegant, graceful"
+1084,4,1145,1922,囗 31.7,10,圆,yuán,2,"circle; round, circular; complete"
+1085,4,1148,2162,手 64.8,11,措,cuò,4,"place; collect, arrange; employ"
+1086,4,1152,2184,土 32.8,11,培,péi,2,bank up with dirt; cultivate
+1087,4,1154,1291,言 149.6,8,诚,chéng,2,"sincere, honest; true, real"
+1088,4,1155,2098,宀 40.7,10,宽,kuān,1,"broad, wide; spacious, vast"
+1089,4,1158,2838,手 64.10,13,摆,bǎi,3,"put, place; display; swing, sway"
+1090,4,1173,3317,手 64.13,16,操,cāo,1,"conduct, run, control, manage"
+1091,4,1175,915,阜 170.5,7,阻,zǔ,3,"impede, hinder, obstruct; oppose"
+1092,4,1178,966,手 64.5,8,抽,chōu,1,"draw out, pull out; sprout"
+1093,4,1179,3355,貝 154.12,16,赞,zàn,4,"help, support, assist, aid"
+1094,4,1181,937,糸 120.4,7,纷,fēn,1,"in disorder, scattered, tangled"
+1095,4,1187,309,水 85.2,5,汇,huì,4,"concourse; flow together, gather"
+1096,4,1191,1872,歹 78.6,10,殊,shū,1,"different, special, unusual"
+1097,4,1198,898,言 149.5,7,译,yì,4,translate; decode; encode
+1098,4,1201,2060,火 86.6,10,烧,shāo,1,burn; bake; heat; roast
+1099,4,1202,2273,足 157.5,11,距,jù,4,"at a distance of, distance, to be apart"
+1100,4,1205,2321,竹 118.5,11,符,fú,2,"i.d. tag, tally, symbol, charm"
+1101,4,1206,1746,力 19.7,9,勇,yǒng,3,"brave, courageous, fierce"
+1102,4,1214,334,口 30.2,5,召,zhào,4,imperial decree; summon
+1103,4,1228,3388,戈 62.14,17,戴,dài,4,wear on top; support
+1104,4,1229,2735,立 117.7,12,童,tóng,2,"child, boy, servant boy; virgin"
+1105,4,1233,1618,大 37.6,9,奖,jiǎng,3,"prize, reward; give award to"
+1106,4,1235,1449,厂 27.7,9,厚,hòu,4,thick; substantial; greatly
+1107,4,1240,792,彳 60.4,7,彻,chè,4,"penetrate, pervade; penetrating"
+1108,4,1242,33,一 1.2,3,丈,zhàng,4,"unit of length equal 3.3 meters; gentleman, man, husband"
+1109,4,1246,2163,手 64.9,11,描,miáo,2,"copy, trace, sketch; depict"
+1110,4,1251,3354,金 167.11,16,镜,jìng,4,mirror; lens; glass; glasses
+1111,4,1267,527,門 169.3,6,闭,bì,4,"shut, close; obstruct, block up"
+1112,4,1268,1051,大 37.5,8,奋,fèn,4,"strive, exert effort; arouse"
+1113,4,1271,1246,水 85.5,8,泪,lèi,4,"tears; weep, cry"
+1114,4,1279,1132,子 39.5,8,季,jì,4,quarter of year; season; surname
+1115,4,1282,905,尸 44.4,7,尾,wěi,3,"tail, extremity; end, stern"
+1116,4,1287,423,虫 142.0,6,虫,chóng,2,"insects, worms; KangXi radical 142"
+1117,4,1293,2430,水 85.8,11,淡,dàn,4,"weak, watery; insipid, tasteless"
+1118,4,1297,2780,宀 40.9,12,寒,hán,2,"cold, wintry, chilly"
+1119,4,1298,785,人 9.5,7,伴,bàn,4,"companion, comrade, partner; accompany"
+1120,4,1302,3292,水 85.12,15,潮,cháo,2,"tide; moist, wet, damp; flow"
+1121,4,1303,2998,米 119.7,13,粮,liáng,2,"food, grain, provisions"
+1122,4,1304,3188,糸 120.11,14,缩,suō,1,"contract, draw in, reduce"
+1123,4,1306,3065,耳 128.8,14,聚,jù,4,"assemble, meet together, collect"
+1124,4,1309,1387,手 64.6,9,挑,tiāo,1,a load carried on the shoulders; to carry
+1125,4,1310,2325,衣 145.5,11,袋,dài,4,"pocket, bag, sack, pouch"
+1126,4,1316,1487,日 72.5,9,映,yìng,4,project; reflect light
+1127,4,1319,2805,阜 170.10,12,隔,gé,2,"separate, partition"
+1128,4,1336,1228,門 169.5,8,闹,nào,4,quarrel; dispute hotly
+1129,4,1343,882,穴 116.2,7,穷,qióng,2,"poor, destitute, impoverished"
+1130,4,1345,1046,石 112.3,8,码,mǎ,3,"number, numerals; yard; symbol"
+1131,4,1347,2435,女 38.8,11,婆,pó,2,old woman; grandmother
+1132,4,1354,1568,人 9.7,9,俗,sú,2,"social customs; vulgar, unrefined"
+1133,4,1355,3372,辛 160.9,16,辩,biàn,4,"dispute, argue, debate, discuss"
+1134,4,1356,1996,肉 130.6,10,胸,xiōng,1,"breast, bosom, chest; thorax"
+1135,4,1358,926,力 19.5,7,劲,jìn,4,"strong, unyielding, tough, power"
+1136,4,1366,2302,囗 31.8,11,圈,quān,1,to circle; a circle; corral
+1137,4,1367,2833,手 64.11,13,摸,mō,1,gently touch with hand; caress
+1138,4,1374,906,辵 162.4,7,迟,chí,2,"late, tardy; slow; delay"
+1139,4,1385,1045,石 112.3,8,矿,kuàng,4,"mine; mineral, ore"
+1140,4,1392,1967,人 9.8,10,倍,bèi,4,"times, fold, multiple times"
+1141,4,1414,2403,米 119.5,11,粗,cū,1,"rough, thick, course; rude"
+1142,4,1422,1065,又 29.6,8,叔,shū,1,"uncle, father's younger brother; husband's younger brother"
+1143,4,1425,2496,糸 120.8,11,综,zōng,1,arrange threads for weaving
+1144,4,1433,3326,艸 140.13,16,薄,báo,2,"thin, slight, weak; poor, stingy"
+1145,4,1435,365,手 64.3,6,扫,sǎo,3,"sweep, clear away; exterminate"
+1146,4,1450,2609,貝 154.8,12,赏,shǎng,3,"reward, grant, bestow; appreciate"
+1147,4,1454,1521,貝 154.5,9,贴,tiē,1,"paste to, stick on; attached to"
+1148,4,1456,3089,酉 164.7,14,酸,suān,1,"tart, sour; acid; stiff; spoiled"
+1149,4,1457,1287,邑 163.6,8,郎,láng,2,"gentleman, young man; husband"
+1150,4,1458,2969,肉 130.9,13,腰,yāo,1,waist; kidney
+1151,4,1474,175,尸 44.1,4,尺,chǐ,3,"a Chinese foot, one-third of a meter; a ruler"
+1152,4,1486,2516,走 156.5,12,趋,qū,1,"hasten, hurry; be attracted to"
+1153,4,1489,2048,門 169.7,10,阅,yuè,4,"examine, inspect, review, read"
+1154,4,1538,2064,辵 162.7,10,递,dì,4,"hand over, deliver; substitute"
+1155,4,1553,3376,火 86.12,16,燃,rán,2,"burn; light fire, ignite"
+1156,4,1574,1557,人 9.7,9,俩,liǎ,3,"two, pair"
+1157,4,1576,3144,肉 130.8,14,腐,fǔ,3,"rot, decay, spoil; rotten"
+1158,4,1577,346,幺 52.2,5,幼,yòu,4,"infant, young child; immature"
+1159,4,1585,1682,水 85.6,9,浓,nóng,2,"thick, strong, concentrated"
+1160,4,1608,3270,身 158.8,15,躺,tǎng,3,"lie down, recline"
+1161,4,1611,2453,宀 40.8,11,寄,jì,4,"send, transmit, mail; rely on"
+1162,4,1620,1189,肉 130.4,8,肥,féi,2,"fat, plump, obese; fertile"
+1163,4,1641,1572,水 85.5,9,泉,quán,2,"spring, fountain; wealth, money"
+1164,4,1662,1616,弓 57.6,9,弯,wān,1,"bend, curve"
+1165,4,1672,2229,木 75.7,11,梯,tī,1,"ladder, steps, stairs; lean"
+1166,4,1721,1240,水 85.5,8,浅,qiǎn,3,"shallow, not deep; superficial"
+1167,4,1743,2756,水 85.9,12,湿,shī,1,"wet, moist, humid, damp; illness"
+1168,4,1750,2649,巾 50.9,12,帽,mào,4,"hat, cap; cap-like tops"
+1169,4,1761,3389,手 64.14,17,擦,cā,1,"wipe, scrub, rub, scour; brush"
+1170,4,1763,1655,火 86.5,9,炼,liàn,4,"smelt, refine; distill, condense"
+1171,4,1793,696,豆 151.0,7,豆,dòu,4,"beans, peas; bean-shaped"
+1172,4,1800,805,肉 130.3,7,肚,dù,4,belly; abdomen; bowels
+1173,4,1824,1310,刀 18.6,8,刷,shuā,1,"brush; clean with brush, scrub"
+1174,4,1827,279,瓜 97.0,5,瓜,guā,1,"melon, gourd, cucumber; rad. 97"
+1175,4,1848,623,土 32.4,7,址,zhǐ,3,"site, location, land for house"
+1176,4,1885,1790,皿 108.5,10,盐,yán,2,salt
+1177,4,1888,233,巾 50.2,5,帅,shuài,4,"commander, commander-in-chief"
+1178,4,1904,31,寸 41.0,3,寸,cùn,4,"inch; small, tiny; KangXi radical 41"
+1179,4,1932,2196,耳 128.5,11,聊,liáo,2,"somewhat, slightly, at least"
+1180,4,1970,2834,土 32.10,13,填,tián,2,"fill in, fill up; make good"
+1181,4,2027,2946,矢 111.8,13,矮,ǎi,3,"short, dwarf; low"
+1182,4,2038,3001,土 32.10,13,塑,sù,4,"model in clay, sculpt; plastics"
+1183,4,2108,2571,木 75.8,12,棵,kē,1,numerary adjunct for trees
+1184,4,2202,493,人 9.4,6,伞,sǎn,3,"umbrella, parasol, parachute"
+1185,4,2213,626,手 64.4,7,抄,chāo,1,"copy, confiscate, seize"
+1186,4,2262,1448,厂 27.7,9,厘,lí,2,thousandth part of tael
+1187,4,2281,40,巾 50.0,3,巾,jīn,1,kerchief; towel; turban; KangXi radical number 50
+1188,4,2284,2161,土 32.9,11,堵,dǔ,3,"wall; stop, prevent; stop up"
+1189,4,2287,1737,女 38.6,9,姨,yí,2,"mother's sister, aunt"
+1190,4,2323,2317,竹 118.5,11,笨,bèn,4,"foolish, stupid, dull; awkward"
+1191,4,2387,3139,衣 145.8,14,裹,guǒ,3,"wrap, bind; encircle, confine"
+1192,4,2420,3148,辛 160.7,14,辣,là,4,"peppery, pungent, hot; cruel"
+1193,4,2525,1443,口 30.6,9,咸,xián,2,"together; all, completely; united"
+1194,4,2531,3114,金 167.9,14,锻,duàn,4,"forge metal; temper, refine"
+1195,4,2628,980,土 32.5,8,垃,lā,1,"garbage, refuse, waste"
+1196,4,2630,1887,日 72.6,10,晒,shài,4,"dry in sun, expose to sun"
+1197,4,2634,362,土 32.4,6,圾,jī,1,"garbage, rubbish; shaking; danger"
+1198,4,2642,2003,辵 162.7,10,逛,guàng,4,"ramble, stroll, roam, wander"
+1199,4,2743,2613,日 72.8,12,暑,shǔ,3,hot
+1200,4,3045,2115,衣 145.5,10,袜,wà,4,"socks, stockings"
+1201,5,102,552,車 159.2,6,军,jūn,1,"army, military; soldiers, troops"
+1202,5,220,286,小 42.2,5,尔,ěr,3,"you; that, those; final particle"
+1203,5,256,3272,彳 60.12,15,德,dé,2,"ethics, morality, virtue"
+1204,5,378,282,人 9.3,5,令,lìng,4,"to order, to command, an order"
+1205,5,395,195,凵 17.3,5,击,jī,1,"strike, hit, beat; attack, fight"
+1206,5,457,1133,女 38.5,8,委,wěi,3,"appoint, send, commission"
+1207,5,521,1403,革 177.0,9,革,gé,2,"leather, animal hides; rad. 177"
+1208,5,578,1342,糸 120.5,8,织,zhī,1,"weave, knit; organize, unite"
+1209,5,587,487,木 75.2,6,杀,shā,1,"kill, slaughter, murder; hurt"
+1210,5,632,2473,弓 57.8,11,弹,dàn,4,"pellet, bullet, shot, shell"
+1211,5,679,674,力 19.5,7,劳,láo,2,"labor, toil, do manual work"
+1212,5,703,1971,寸 41.7,10,射,shè,4,"shoot, eject, issue forth, emit"
+1213,5,735,383,十 24.4,6,协,xié,2,be united; cooperate
+1214,5,763,363,手 64.3,6,执,zhí,2,hold in hand; keep; carry out
+1215,5,780,2187,手 64.8,11,控,kòng,4,"accuse, charge; control"
+1216,5,799,359,手 64.3,6,托,tuō,1,"to hold up with palm; to support, rely on"
+1217,5,800,249,大 37.2,5,央,yāng,1,"center, conclude, run out; beg"
+1218,5,805,1851,糸 120.4,10,索,suǒ,3,"large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated"
+1219,5,806,1419,肉 130.5,9,胡,hú,2,"recklessly, foolishly; wildly"
+1220,5,807,2508,欠 76.8,12,款,kuǎn,3,"item, article; clause; fund"
+1221,5,810,1143,片 91.4,8,版,bǎn,3,printing blocks; edition
+1222,5,828,1848,木 75.6,10,核,hé,2,"seed, kernel, core, nut; atom"
+1223,5,847,2164,土 32.8,11,域,yù,4,"district, region, boundary; land"
+1224,5,860,1067,肉 130.4,8,肯,kěn,3,"willing; consent to, permit"
+1225,5,874,1027,木 75.4,8,枪,qiāng,1,"spear, lance; gun, rifle"
+1226,5,890,2610,手 64.8,12,掌,zhǎng,3,"palm of hand, sole of foot, paw"
+1227,5,911,1798,手 64.7,10,损,sǔn,3,diminish; impair; injure
+1228,5,947,1362,毋 80.4,9,毒,dú,2,"poison, venom; poisonous"
+1229,5,965,2521,十 24.10,12,博,bó,2,"gamble, play games; wide, broad"
+1230,5,971,1105,山 46.5,8,岸,àn,4,"bank, shore; beach, coast"
+1231,5,993,1415,艸 140.6,9,荣,róng,2,"glory, honor; flourish, prosper"
+1232,5,996,1588,辵 162.6,9,逃,táo,2,"escape, flee; abscond, dodge"
+1233,5,1015,1669,水 85.6,9,洞,dòng,4,"cave, grotto; ravine; hole"
+1234,5,1017,962,土 32.5,8,坦,tǎn,3,"flat, smooth; self-possessed"
+1235,5,1023,766,禾 115.2,7,私,sī,1,"private, personal; secret"
+1236,5,1042,1573,鬼 194.0,9,鬼,guǐ,3,ghost; spirit of dead; devil
+1237,5,1043,1062,車 159.4,8,软,ruǎn,3,"soft, flexible, pliable; weak"
+1238,5,1054,2596,隹 172.4,12,雄,xióng,2,male of species; hero; manly
+1239,5,1059,974,手 64.5,8,拥,yōng,1,"embrace, hug, squeeze; crowd"
+1240,5,1066,424,曰 73.2,6,曲,qū,1,"crooked, bent; wrong, false"
+1241,5,1071,2253,虍 141.5,11,虚,xū,1,false
+1242,5,1073,1024,木 75.4,8,析,xī,1,split wood; break apart; divide
+1243,5,1083,1071,虍 141.2,8,虎,hǔ,3,"tiger; brave, fierce; surname"
+1244,5,1092,1607,貝 154.5,9,贸,mào,4,"trade, barter; mixed; rashly"
+1245,5,1094,2288,口 30.8,11,唯,wéi,2,only; yes
+1246,5,1097,832,广 53.4,7,库,kù,4,"armory, treasury, storehouse"
+1247,5,1099,98,尢 43.1,4,尤,yóu,2,"especially, particularly"
+1248,5,1100,2043,立 117.5,10,竞,jìng,4,"contend, vie, compete"
+1249,5,1104,3229,雨 173.7,15,震,zhèn,4,"shake, quake, tremor; excite"
+1250,5,1105,842,廾 55.4,7,弃,qì,4,"reject, abandon, discard"
+1251,5,1106,239,田 102.0,5,甲,jiǎ,3,"armor, shell; fingernails; 1st heavenly stem"
+1252,5,1123,2837,鼓 207.0,13,鼓,gǔ,3,"drum; beat, top, strike"
+1253,5,1127,925,心 61.3,7,忍,rěn,3,"endure, bear, suffer; forbear"
+1254,5,1130,2682,竹 118.6,12,筑,zhù,4,ancient lute; build
+1255,5,1134,2743,寸 41.9,12,尊,zūn,1,"respect, revere, venerate; honor"
+1256,5,1140,1786,手 64.7,10,振,zhèn,4,"raise, excite, arouse action"
+1257,5,1141,1675,木 75.5,9,染,rǎn,3,dye; be contagious; infect
+1258,5,1146,2842,手 64.10,13,搞,gǎo,3,"to clear, clarify"
+1259,5,1147,811,犬 94.4,7,狂,kuáng,2,"insane, mad; violent; wild"
+1260,5,1161,775,人 9.5,7,伸,shēn,1,"extend, stretch out, open up; trust"
+1261,5,1162,3279,手 64.11,15,摩,mó,2,"rub, scour, grind; friction"
+1262,5,1166,2603,心 61.8,12,悲,bēi,1,"sorrow, grief; sorry, sad"
+1263,5,1170,2589,石 112.7,12,硬,yìng,4,"hard, firm, strong; obstinate"
+1264,5,1184,609,辵 162.4,7,违,wéi,2,"disobey, violate, defy; be apart from"
+1265,5,1192,2861,犬 94.9,13,献,xiàn,4,"offer, present; show, display"
+1266,5,1203,2532,衣 145.6,12,裁,cái,2,cut out; decrease
+1267,5,1207,2980,角 148.6,13,触,chù,4,"butt, ram, gore; touch"
+1268,5,1209,2553,攴 66.9,12,敬,jìng,4,"respect, honor; respectfully"
+1269,5,1215,1519,网 122.4,9,罚,fá,2,"penalty, fine; punish, penalize"
+1270,5,1217,90,厂 27.2,4,厅,tīng,1,"hall, central room"
+1271,5,1218,1538,手 64.5,9,拜,bài,4,"do obeisance, bow, kowtow"
+1272,5,1227,1206,亠 8.6,8,享,xiǎng,3,enjoy
+1273,5,1230,812,犬 94.4,7,犹,yóu,2,"like, similar to, just like, as"
+1274,5,1231,1941,丿 4.9,10,乘,chéng,2,"ride, ascend; avail oneself of; numerary adjunct for vehicles"
+1275,5,1254,2953,竹 118.7,13,签,qiān,1,"sign, endorse; slip of paper"
+1276,5,1256,1162,彳 60.5,8,彼,bǐ,3,"that, there, those"
+1277,5,1259,474,人 9.4,6,仿,fǎng,3,"imitate, copy; as if"
+1278,5,1276,2109,月 74.7,10,朗,lǎng,3,"clear, bright; distinct"
+1279,5,1284,2330,人 9.9,11,偷,tōu,1,"to steal, burglar, thief"
+1280,5,1286,1773,玉 96.6,10,珠,zhū,1,"precious stone, gem, jewel, pearl"
+1281,5,1295,1692,心 61.6,9,恨,hèn,4,"hatred, dislike; resent, hate"
+1282,5,1296,3419,糸 120.11,17,繁,fán,2,"complicated, complex, difficult"
+1283,5,1300,235,日 72.1,5,旦,dàn,4,dawn; morning; day
+1284,5,1311,397,火 86.2,6,灰,huī,1,"ashes; dust; lime, mortar"
+1285,5,1314,1358,玉 96.5,9,珍,zhēn,1,"precious, valuable, rare"
+1286,5,1315,2854,巾 50.11,13,幕,mù,4,"curtain, screen, tent"
+1287,5,1320,886,口 30.4,7,启,qǐ,3,"open; begin, commence; explain"
+1288,5,1325,2599,日 72.8,12,暂,zàn,4,temporary
+1289,5,1326,769,人 9.5,7,估,gū,1,"merchant; estimate, guess, presume"
+1290,5,1327,865,水 85.5,7,泛,fàn,4,"to drift, float; careless, reckless"
+1291,5,1329,2327,人 9.9,11,偿,cháng,2,"repay, recompense; restitution"
+1292,5,1331,620,手 64.5,7,拒,jù,4,"ward off with hand, defend"
+1293,5,1333,167,心 61.1,4,忆,yì,4,"remember, reflect upon; memory"
+1294,5,1335,3128,鼻 209.0,14,鼻,bí,2,nose; first; KangXi radical 209
+1295,5,1338,722,口 30.4,7,呆,dāi,1,"dull; dull-minded, simple, stupid"
+1296,5,1339,215,厂 27.3,5,厉,lì,4,"whetstone; grind, sharpen; whet"
+1297,5,1344,1165,舌 135.2,8,舍,shě,3,"house, dwelling; dwell, reside"
+1298,5,1349,883,火 86.3,7,灾,zāi,1,"calamity, disaster, catastrophe"
+1299,5,1352,1593,肉 130.5,9,胆,dǎn,3,"gall bladder; bravery, courage"
+1300,5,1361,2328,人 9.9,11,偶,ǒu,3,"accidentally, coincidently; an idol"
+1301,5,1362,2889,車 159.9,13,辑,jí,2,"gather up, collect; edit, compile"
+1302,5,1364,1686,心 61.6,9,恢,huī,1,"restore; big, great, immense, vast"
+1303,5,1369,2081,水 85.7,10,润,rùn,4,"soft, moist; sleek; freshen"
+1304,5,1370,2173,土 32.8,11,堆,duī,1,"heap, pile, crowd; pile up"
+1305,5,1373,2676,禾 115.7,12,稍,shāo,1,"little, slightly; rather"
+1306,5,1380,3384,土 32.13,16,壁,bì,4,partition wall; walls of a house
+1307,5,1386,993,手 64.5,8,抬,tái,2,"lift, carry"
+1308,5,1393,3287,米 119.9,15,糊,hú,2,"paste, stick on with paste"
+1309,5,1395,1579,目 109.4,9,盾,dùn,4,"shield, shield-shaped object; currency sign for Dutch guilder"
+1310,5,1399,147,丿 4.4,4,乏,fá,2,lack; poor
+1311,5,1401,896,言 149.5,7,诊,zhěn,3,"examine patient, diagnose"
+1312,5,1403,2832,手 64.10,13,摄,shè,4,"take in, absorb; act as deputy"
+1313,5,1405,537,水 85.3,6,污,wū,1,"filthy, dirty, impure, polluted"
+1314,5,1409,1456,而 126.3,9,耐,nài,4,"endure, bear; resist; patient"
+1315,5,1410,1148,几 16.6,8,凭,píng,2,"lean on, depend on, rely on"
+1316,5,1412,637,手 64.4,7,抢,qiǎng,3,"plunder, rob, take by force"
+1317,5,1415,1289,肉 130.4,8,肩,jiān,1,shoulders; to shoulder; bear
+1318,5,1420,2879,石 112.8,13,碎,suì,4,"break, smash; broken, busted"
+1319,5,1428,2351,心 61.7,11,悉,xī,1,"know, learn about, comprehend"
+1320,5,1430,794,辵 162.4,7,返,fǎn,3,"return, revert to, restore"
+1321,5,1434,2092,心 61.7,10,悄,qiāo,1,"silent, quiet, still; anxious"
+1322,5,1436,2323,攴 66.7,11,敏,mǐn,3,"fast, quick, clever, smart"
+1323,5,1437,2876,石 112.8,13,碍,ài,4,"obstruct, hinder, block, deter"
+1324,5,1439,1301,言 149.6,8,详,xiáng,2,"detailed, complete, thorough"
+1325,5,1441,343,矛 110.0,5,矛,máo,2,"spear, lance; KangXi radical 110"
+1326,5,1444,2648,巾 50.9,12,幅,fú,2,"piece, strip, breadth of, hem"
+1327,5,1446,2675,刀 18.10,12,剩,shèng,4,"leftovers, residue, remains"
+1328,5,1448,3100,頁 181.8,14,颗,kē,1,"grain, kernel"
+1329,5,1449,1505,口 30.6,9,骂,mà,4,"accuse, blame, curse, scold"
+1330,5,1455,3164,水 85.11,14,漫,màn,4,overflow of water; spreading
+1331,5,1463,841,辛 160.0,7,辛,xīn,1,"bitter; toilsome, laborious; 8th heavenly stem"
+1332,5,1464,2016,心 61.6,10,恋,liàn,4,"love; long for, yearn for; love"
+1333,5,1466,422,口 30.3,6,吓,xià,4,"scare, frighten; intimidate"
+1334,5,1468,702,力 19.5,7,励,lì,4,strive; encourage
+1335,5,1469,2947,舌 135.7,13,辞,cí,2,"words, speech, expression, phrase"
+1336,5,1471,2943,金 167.8,13,键,jiàn,4,"door bolt, lock bolt; key"
+1337,5,1477,2602,非 175.4,12,辈,bèi,4,"generation, lifetime; class"
+1338,5,1480,2761,水 85.10,12,滑,huá,2,"slip, slide; slippery, polished"
+1339,5,1483,618,手 64.4,7,扰,rǎo,3,"disturb, annoy, agitate"
+1340,5,1485,1755,糸 120.6,9,绕,rào,4,entwine; wind around; surround
+1341,5,1490,536,水 85.3,6,汗,hàn,4,"perspiration, sweat"
+1342,5,1495,2526,手 64.9,12,插,chā,1,"insert, stick into; plant"
+1343,5,1502,959,手 64.5,8,拔,bá,2,"uproot, pull out"
+1344,5,1503,2821,馬 187.9,12,骗,piàn,4,"swindle, cheat out of, defraud"
+1345,5,1510,2893,齒 211.5,13,龄,líng,2,age; years
+1346,5,1512,2439,心 61.8,11,惜,xī,1,"pity, regret, rue, begrudge"
+1347,5,1513,3141,豕 152.7,14,豪,háo,2,"brave, heroic, chivalrous"
+1348,5,1518,1303,聿 129.4,8,肃,sù,4,pay respects; reverently
+1349,5,1520,1341,馬 187.5,8,驶,shǐ,3,"sail, drive, pilot; fast, quick"
+1350,5,1522,1309,尸 44.5,8,届,jiè,4,"numerary adjunct for time, term"
+1351,5,1523,1158,欠 76.4,8,欣,xīn,1,"happy, joyous, delighted"
+1352,5,1524,2580,心 61.8,12,惠,huì,4,"favor, benefit, confer kindness"
+1353,5,1525,290,冂 13.3,5,册,cè,4,"book, volume, register, list"
+1354,5,1529,846,門 169.4,7,闲,xián,2,"fence, guard; defend; idle time"
+1355,5,1534,2102,宀 40.7,10,宾,bīn,1,"guest, visitor; surname; submit"
+1356,5,1535,2892,頁 181.7,13,频,pín,2,"frequently, again and again"
+1357,5,1540,3202,手 64.12,15,撞,zhuàng,4,"knock against, bump into, collide"
+1358,5,1542,3015,水 85.11,13,滚,gǔn,3,turn
+1359,5,1549,1626,疒 104.4,9,疯,fēng,1,"crazy, insane, mentally ill"
+1360,5,1551,3402,目 109.12,17,瞧,qiáo,2,"glance at, look at, see"
+1361,5,1558,2660,金 167.7,12,锁,suǒ,3,"lock, padlock; shackles, chains"
+1362,5,1562,186,力 19.2,4,劝,quàn,4,"recommend, advise, urge"
+1363,5,1564,2528,手 64.9,12,搜,sōu,1,"search, seek; investigate"
+1364,5,1565,2848,力 19.11,13,勤,qín,2,"industrious, diligent, attentive"
+1365,5,1566,606,戈 62.3,7,戒,jiè,4,"warn, caution, admonish"
+1366,5,1567,1332,馬 187.5,8,驾,jià,4,"to drive, sail, fly; a cart, carriage"
+1367,5,1569,824,食 184.4,7,饮,yǐn,3,drink; swallow; kind of drink
+1368,5,1571,497,木 75.2,6,朵,duǒ,3,cluster of flowers; earlobe
+1369,5,1572,276,人 9.3,5,仔,zǐ,3,"small thing, child; young animal"
+1370,5,1579,3482,竹 118.14,20,籍,jí,2,"record, register, list; census"
+1371,5,1588,450,竹 118.0,6,竹,zhú,2,bamboo; flute; KangXi radical 118
+1372,5,1591,2295,辵 162.8,11,逻,luó,2,patrol; inspect; watch; patrol
+1373,5,1593,3288,辵 162.12,15,遵,zūn,1,"obey, comply with, follow; honor"
+1374,5,1595,3131,豸 153.7,14,貌,mào,4,"countenance, appearance"
+1375,5,1598,2364,犬 94.8,11,猜,cāi,1,"guess, conjecture, suppose; feel"
+1376,5,1599,1270,心 61.5,8,怜,lián,2,"pity, sympathize"
+1377,5,1604,1201,食 184.5,8,饰,shì,4,"decorate, ornament, adorn"
+1378,5,1605,1558,貝 154.5,9,贷,dài,4,lend; borrow; pardon
+1379,5,1609,1529,金 167.4,9,钢,gāng,1,"steel; hard, strong, tough"
+1380,5,1610,868,水 85.4,7,沟,gōu,1,"ditch, drain, narrow waterway"
+1381,5,1612,612,手 64.4,7,扶,fú,2,"support, help; protect; hold on"
+1382,5,1615,599,寸 41.4,7,寿,shòu,4,"old age, long life; lifespan"
+1383,5,1617,1299,言 149.6,8,询,xún,2,"inquire into, ask about; consult"
+1384,5,1621,1476,小 42.6,9,尝,cháng,2,"taste; experience, experiment"
+1385,5,1624,1048,大 37.5,8,奈,nài,4,"but, how; bear, stand, endure"
+1386,5,1632,3310,心 61.11,15,慰,wèi,4,"comfort, console, calm"
+1387,5,1633,386,厂 27.4,6,厌,yàn,4,"dislike, detest, reject; satiate"
+1388,5,1636,1524,幺 52.6,9,幽,yōu,1,"quiet, secluded, tranquil; dark"
+1389,5,1637,1608,心 61.5,9,怨,yuàn,4,"hatred, enmity, resentment"
+1390,5,1639,447,一 1.5,6,丢,diū,1,discard
+1391,5,1644,2962,身 158.6,13,躲,duǒ,3,"hide, secrete; avoid, escape"
+1392,5,1646,2604,糸 120.5,12,紫,zǐ,3,"purple, violet; amethyst; surname"
+1393,5,1647,1335,又 29.6,8,艰,jiān,1,"difficult, hard; distressing"
+1394,5,1650,2771,心 61.10,12,慌,huāng,1,"nervous, panicky, frantic"
+1395,5,1653,421,口 30.3,6,吐,tǔ,3,"vomit, spew out, cough up"
+1396,5,1658,1512,口 30.6,9,咬,yǎo,3,"bite, gnaw"
+1397,5,1659,801,邑 163.5,7,邻,lín,2,neighbor; neighborhood
+1398,5,1661,1392,手 64.6,9,挤,jǐ,3,"crowd, squeeze, push against"
+1399,5,1664,2139,阜 170.8,10,陪,péi,2,"accompany, be with, keep company"
+1400,5,1669,3206,耳 128.9,15,聪,cōng,1,"intelligent, clever, bright"
+1401,5,1689,2280,虫 142.5,11,蛇,shé,2,snake
+1402,5,1690,1744,貝 154.5,9,贺,hè,4,congratulate; send present
+1403,5,1693,2958,鼠 208.0,13,鼠,shǔ,3,"rat, mouse; KangXi radical 208"
+1404,5,1700,730,口 30.4,7,吨,dūn,1,"metric ton; (Cant.) to babble, gibberish"
+1405,5,1701,2501,玉 96.8,12,琴,qín,2,Chinese lute or guitar
+1406,5,1709,540,水 85.3,6,池,chí,2,"pool, pond; moat; cistern"
+1407,5,1713,1705,冖 14.7,9,冠,guān,1,"cap, crown, headgear"
+1408,5,1729,2618,口 30.9,12,喷,pēn,1,"spurt, blow out, puff out"
+1409,5,1732,3140,攴 66.10,14,敲,qiāo,1,"strike, beat, pound, hammer; rap"
+1410,5,1734,2654,貝 154.8,12,赔,péi,2,"indemnify, suffer loss"
+1411,5,1738,25,二 7.1,3,亏,kuī,1,"lose, fail; damage; deficient"
+1412,5,1740,3003,火 86.9,13,煤,méi,2,"coal, coke, charcoal, carbon"
+1413,5,1741,3185,火 86.10,14,熊,xióng,2,a bear; brilliant; bright; surname
+1414,5,1752,2455,宀 40.8,11,宿,sù,4,"stop, rest, lodge, stay overnight; constellation"
+1415,5,1754,1660,火 86.5,9,烂,làn,4,"rotten, spoiled, decayed"
+1416,5,1758,402,一 1.5,6,夹,jiā,1,be wedged or inserted between
+1417,5,1769,1361,玉 96.5,9,玻,bō,1,glass
+1418,5,1775,965,手 64.5,8,押,yā,1,"mortgage, pledge; deposit; to pawn; to arrest, detain, guard"
+1419,5,1777,3006,水 85.11,13,漠,mò,4,"desert; aloof, indifferent, cool"
+1420,5,1783,3224,酉 164.8,15,醉,zuì,4,"intoxicated, drunk; addicted to"
+1421,5,1786,2347,斗 68.7,11,斜,xié,2,"slanting, sloping, inclined"
+1422,5,1790,1180,肉 130.4,8,肤,fū,1,"skin; superficial, shallow"
+1423,5,1803,2086,水 85.7,10,涨,zhǎng,3,rise in price
+1424,5,1820,1393,手 64.6,9,拼,pīn,1,"join together, link, incorporate"
+1425,5,1828,2908,欠 76.9,13,歇,xiē,1,"rest, stop, lodge"
+1426,5,1839,1844,木 75.6,10,桃,táo,2,peach; marriage; surname
+1427,5,1841,3147,疒 104.10,14,瘦,shòu,4,"thin, emaciated, lean; meager"
+1428,5,1853,2094,心 61.7,10,悔,huǐ,3,"repent, show remorse, regret"
+1429,5,1854,3362,辵 162.13,16,邀,yāo,1,"invite, welcome; meet, intercept"
+1430,5,1865,585,羽 124.0,6,羽,yǔ,3,"feather, plume; wings; rad. 124"
+1431,5,1872,2,乙 5.0,1,乙,yǐ,3,second; 2nd heavenly stem
+1432,5,1875,1391,手 64.6,9,挣,zhēng,1,"strive, endeavor, struggle"
+1433,5,1886,1472,見 147.5,9,览,lǎn,3,"look at, inspect; perceive"
+1434,5,1887,2691,人 9.10,12,傅,fù,4,"tutor, teacher; assist; surname"
+1435,5,1894,3051,玉 96.11,14,璃,lí,2,glass
+1436,5,1901,177,一 1.3,4,丑,chǒu,3,"clown, comedian; 2nd terrestrial branch"
+1437,5,1905,203,手 64.2,5,扔,rēng,1,"throw, hurl; throw away, cast"
+1438,5,1908,99,匸 23.2,4,匹,pǐ,3,bolt of cloth; counter for horses
+1439,5,1909,1962,人 9.8,10,俱,jù,4,"all, together; accompany"
+1440,5,1918,3428,米 119.11,17,糟,zāo,1,"sediment, dregs; pickle"
+1441,5,1921,807,肉 130.3,7,肠,cháng,2,intestines; emotions; sausage
+1442,5,1933,1379,手 64.6,9,挡,dǎng,3,"obstruct, impede; stop; resist"
+1443,5,1934,933,糸 120.4,7,纲,gāng,1,"heavy rope, hawser; main points"
+1444,5,1935,495,肉 130.2,6,肌,jī,1,muscle tissue; meat on bones
+1445,5,1944,1037,臣 131.2,8,卧,wò,4,lie down; crouch
+1446,5,1948,153,欠 76.0,4,欠,qiàn,4,"owe, lack, be deficient; KangXi radical number 76"
+1447,5,1956,3313,豕 152.9,15,豫,yù,4,"relaxed, comfortable, at ease"
+1448,5,1957,1494,肉 130.5,9,胃,wèi,4,stomach; gizzard of fowl
+1449,5,1961,1386,手 64.6,9,拾,shí,2,"pick up, collect, tidy up; accounting form of the numeral ten"
+1450,5,1969,1933,金 167.5,10,铃,líng,2,bell
+1451,5,1974,636,手 64.4,7,扮,bàn,4,dress up; dress up as
+1452,5,1976,1994,肉 130.6,10,脆,cuì,4,"crisp; fragile, frail; brittle"
+1453,5,1981,1880,木 75.5,10,柴,chái,2,"firewood, faggots, fuel"
+1454,5,1986,1888,目 109.5,10,眠,mián,2,"close eyes, sleep; hibernate"
+1455,5,1989,2960,人 9.11,13,傻,shǎ,3,"foolish, silly, stupid; an imbecile"
+1456,5,1993,2113,戶 63.6,10,扇,shàn,4,fan; door panel
+1457,5,1994,1022,木 75.5,8,柜,guì,4,"cabinet, cupboard; shop counter"
+1458,5,2003,46,夕 36.0,3,夕,xī,1,"evening, night, dusk; slanted"
+1459,5,2026,3062,手 64.11,14,摘,zhāi,1,"pluck, pick; select; specify"
+1460,5,2028,1547,禾 115.4,9,秒,miǎo,3,beard of grain or corn; a second
+1461,5,2032,990,手 64.5,8,披,pī,1,wear; split; crack
+1462,5,2033,2250,車 159.7,11,辅,fǔ,3,cheek bone; protective; assist
+1463,5,2035,1590,皿 108.4,9,盆,pén,2,"basin, tub, pot, bowl"
+1464,5,2052,3168,水 85.11,14,漏,lòu,4,"leak, drip; funnel; hour glass"
+1465,5,2067,2348,皿 108.6,11,盒,hé,2,small box or case; casket
+1466,5,2074,2662,金 167.7,12,锅,guō,1,"cooking-pot, saucepan"
+1467,5,2076,972,手 64.5,8,拆,chāi,1,"to break up, split apart, rip open; to destroy"
+1468,5,2104,1770,色 139.4,10,艳,yàn,4,"beautiful, sexy, voluptuous"
+1469,5,2105,1970,自 132.4,10,臭,chòu,4,"smell, stink, emit foul odor"
+1470,5,2113,2951,心 61.9,13,愁,chóu,2,"anxiety; to worry about, be anxious"
+1471,5,2123,3351,貝 154.12,16,赠,zèng,4,"give present; bestow, confer"
+1472,5,2127,827,冫 15.5,7,冻,dòng,4,"freeze; cold, congeal; jelly"
+1473,5,2129,529,門 169.3,6,闯,chuǎng,3,"rush in, burst in, charge in"
+1474,5,2130,2552,艸 140.9,12,葡,pú,2,grapes
+1475,5,2132,2587,厂 27.10,12,厨,chú,2,kitchen; closet; cupboard
+1476,5,2133,1892,鳥 196.5,10,鸭,yā,1,duck; Anas species (various)
+1477,5,2136,2128,言 149.8,10,谊,yì,4,"friendship; appropriate, suitable"
+1478,5,2170,2000,肉 130.6,10,胶,jiāo,1,"glue, gum, resin, rubber; sound; shin bone"
+1479,5,2185,1963,人 9.8,10,倡,chàng,4,"guide, leader; lead, introduce"
+1480,5,2187,2721,犬 94.9,12,猴,hóu,2,"monkey, ape; monkey-like"
+1481,5,2210,2208,艸 140.8,11,萄,táo,2,grapes
+1482,5,2223,2713,肉 130.8,12,脾,pí,2,"spleen, pancreas; disposition"
+1483,5,2227,2406,刀 18.9,11,剪,jiǎn,3,"scissors; cut, divide, separate"
+1484,5,2231,71,又 29.1,3,叉,chā,1,"crotch; fork, prong"
+1485,5,2270,3063,手 64.11,14,摔,shuāi,1,"fall ground, stumble, trip"
+1486,5,2283,1665,水 85.6,9,洒,sǎ,3,sprinkle; scatter; pour; to wipe away; to shiver
+1487,5,2288,2562,木 75.8,12,棒,bàng,4,"stick, club, truncheon; hit"
+1488,5,2304,2241,石 112.6,11,硕,shuò,4,"great, eminent; large, big"
+1489,5,2327,1262,水 85.5,8,泼,pō,1,"pour, splash, water, sprinkle"
+1490,5,2351,1218,邑 163.6,8,郊,jiāo,1,"suburbs; waste land, open spaces"
+1491,5,2359,1614,食 184.6,9,饼,bǐng,3,"rice-cakes, biscuits"
+1492,5,2364,1195,儿 10.6,8,兔,tù,4,"rabbit, hare"
+1493,5,2373,1513,口 30.6,9,咳,hāi,1,cough
+1494,5,2413,3375,米 119.10,16,糕,gāo,1,"cakes, pastry"
+1495,5,2458,1283,巾 50.5,8,帘,lián,2,flag-sign of a tavern
+1496,5,2629,2057,火 86.6,10,烤,kǎo,3,"bake, roast, toast, cook"
+1497,5,2678,1753,糸 120.6,9,绒,róng,2,"silk, cotton, or woolen fabric"
+1498,5,2721,3211,艸 140.11,15,蔬,shū,1,"vegetables, greens"
+1499,5,3004,2313,木 75.7,11,梨,lí,2,"pear; opera; cut, slash"
+1500,5,3355,1436,木 75.5,9,柿,shì,4,persimmon
+1501,6,411,1885,儿 10.8,10,党,dǎng,3,"political party, gang, faction"
+1502,6,588,630,攴 66.3,7,攻,gōng,1,"attack, assault; criticize"
+1503,6,590,677,艸 140.4,7,苏,sū,1,abbr. for Soviet Union; Perilla frutescens (Chinese basil or wild red basil); place name
+1504,6,612,1633,巾 50.6,9,帝,dì,4,"supreme ruler, emperor; god"
+1505,6,622,1444,女 38.6,9,威,wēi,1,"pomp, power; powerful; dominate"
+1506,6,644,1186,肉 130.4,8,股,gǔ,3,"thighs, haunches, rump; share"
+1507,6,651,1002,艸 140.5,8,若,ruò,4,"if, supposing, assuming; similar"
+1508,6,661,1775,糸 120.4,10,素,sù,4,white (silk); plain; vegetarian; formerly; normally
+1509,6,664,1261,水 85.5,8,波,bō,1,"waves, breakers; undulations"
+1510,6,684,934,糸 120.4,7,纳,nà,4,"admit, take, receive, accept"
+1511,6,704,2277,田 102.6,11,略,lüè,4,"approximately, roughly; outline"
+1512,6,709,568,廾 55.3,6,异,yì,4,"different, unusual, strange"
+1513,6,714,2683,竹 118.6,12,策,cè,4,"scheme, plan; to whip; urge"
+1514,6,718,2932,网 122.8,13,罪,zuì,4,"crime, sin, vice; evil; hardship"
+1515,6,727,1275,宀 40.5,8,宗,zōng,1,"lineage, ancestry; ancestor, clan"
+1516,6,734,900,彐 58.4,7,灵,líng,2,"spirit, soul; spiritual world"
+1517,6,746,1279,宀 40.5,8,审,shěn,3,"examine, investigate; judge"
+1518,6,759,1571,白 106.4,9,皇,huáng,2,"royal, imperial; ruler, superior"
+1519,6,764,2234,刀 18.9,11,副,fù,4,assist; supplement; assistant
+1520,6,766,646,手 64.4,7,抗,kàng,4,"resist, oppose, defy, reject"
+1521,6,767,292,犬 94.2,5,犯,fàn,4,"commit crime, violate; criminal"
+1522,6,771,789,人 9.5,7,佛,fú,2,Buddha; of Buddhism; merciful person; Buddhist image; the dead (Jap.)
+1523,6,778,244,田 102.0,5,田,tián,2,"field, arable land, cultivated"
+1524,6,781,2679,禾 115.7,12,税,shuì,4,taxes
+1525,6,798,820,山 46.4,7,岛,dǎo,3,island
+1526,6,803,1679,水 85.6,9,洋,yáng,2,"ocean, sea; foreign; western"
+1527,6,838,1883,皿 108.5,10,监,jiān,1,"supervise, control, direct"
+1528,6,841,3490,雨 173.12,21,露,lù,4,"dew; bare, open, exposed"
+1529,6,845,2265,里 166.4,11,野,yě,3,"open country, field; wilderness"
+1530,6,851,1978,舟 137.4,10,舰,jiàn,4,warship
+1531,6,855,2764,水 85.9,12,湾,wān,1,"bay, cove, inlet, bend of stream"
+1532,6,856,356,口 30.3,6,吉,jí,2,"lucky, propitious, good"
+1533,6,869,1587,刀 18.7,9,剑,jiàn,4,"sword, dagger, saber"
+1534,6,888,1909,心 61.6,10,恩,ēn,1,"kindness, mercy, charity"
+1535,6,907,3392,艸 140.14,17,藏,cáng,2,"hide, conceal; hoard, store up"
+1536,6,914,1658,火 86.5,9,炮,pào,4,"large gun, cannon; artillery"
+1537,6,916,3151,立 117.9,14,端,duān,1,"end, extreme; head; beginning"
+1538,6,917,2188,手 64.8,11,探,tàn,4,"find, locate; search, grope for"
+1539,6,925,184,亅 6.3,4,予,yǔ,3,"I, me; to give"
+1540,6,927,2749,水 85.9,12,港,gǎng,3,"port, harbor; small stream; bay"
+1541,6,936,3304,頁 181.9,15,额,é,2,"forehead; tablet, plaque; fixed"
+1542,6,946,2891,目 109.8,13,督,dū,1,"supervise, oversee, direct"
+1543,6,953,223,火 86.1,5,灭,miè,4,"extinguish; wipe out, exterminate"
+1544,6,957,54,亠 8.1,3,亡,wáng,2,"death, destroyed; lose, perish"
+1545,6,960,340,土 32.2,5,圣,shèng,4,"holy, sacred"
+1546,6,969,2111,言 149.8,10,诺,nuò,4,"promise; assent, approve"
+1547,6,976,1656,火 86.5,9,炸,zhà,4,to fry in oil; to scald; to explode
+1548,6,982,1698,宀 40.6,9,宫,gōng,1,palace
+1549,6,989,2459,言 149.9,11,谋,móu,2,"plan, scheme; strategem"
+1550,6,1002,3256,金 167.10,15,镇,zhèn,4,"town, market place; suppress"
+1551,6,1013,50,几 16.1,3,凡,fán,2,"all, any, every; ordinary, common"
+1552,6,1021,2110,言 149.8,10,诸,zhū,1,"various, all, these; surname"
+1553,6,1024,514,广 53.3,6,庄,zhuāng,1,"village, hamlet; villa, manor"
+1554,6,1025,1710,示 113.5,9,祖,zǔ,3,"ancestor, forefather; grandfather"
+1555,6,1028,3234,日 72.11,15,暴,bào,4,"violent, brutal, tyrannical"
+1556,6,1030,2510,土 32.10,12,塔,tǎ,3,"tower, spire, tall building"
+1557,6,1034,2480,阜 170.9,11,隐,yǐn,3,"hide, conceal; hidden, secret"
+1558,6,1039,2859,艸 140.10,13,蒙,méng,2,cover; ignorant; suffer; mongolia
+1559,6,1045,2352,欠 76.7,11,欲,yù,4,"desire, want, long for; intend"
+1560,6,1048,3085,辵 162.11,14,遭,zāo,1,"come across, meet with, encounter"
+1561,6,1060,1975,彳 60.7,10,徒,tú,2,"disciple, follower; go on foot"
+1562,6,1080,3025,土 32.10,13,塞,sāi,1,"stop up, block, seal, cork; pass, frontier; fortress"
+1563,6,1086,1574,人 9.7,9,侵,qīn,1,"invade, encroach upon, raid"
+1564,6,1095,798,谷 150.0,7,谷,gǔ,3,"valley, gorge, ravine"
+1565,6,1112,3290,水 85.12,15,潜,qián,2,"hide; hidden, secret, latent"
+1566,6,1117,1802,口 30.7,10,哲,zhé,2,"wise, sagacious; wise man, sage"
+1567,6,1119,975,手 64.5,8,抵,dǐ,3,"resist, oppose; deny; off-set"
+1568,6,1129,1031,木 75.4,8,杰,jié,2,"hero; heroic, outstanding"
+1569,6,1137,2420,水 85.8,11,混,hùn,4,"to mix, blend, mingle; to bumble along"
+1570,6,1142,2247,皿 108.7,11,盛,shèng,4,"abundant, flourishing; contain; fill"
+1571,6,1143,1742,心 61.5,9,怒,nù,4,"anger, rage, passion; angry"
+1572,6,1150,1460,歹 78.5,9,残,cán,2,"injure, spoil; oppress; broken"
+1573,6,1156,545,宀 40.3,6,宇,yǔ,3,"house; building, structure; eaves"
+1574,6,1157,2370,犬 94.8,11,猛,měng,3,"violent, savage, cruel; bold"
+1575,6,1159,2226,木 75.7,11,梅,méi,2,plums; prunes; surname
+1576,6,1160,2956,殳 79.9,13,毁,huǐ,3,destroy
+1577,6,1163,2907,皿 108.8,13,盟,méng,2,"swear; oath, covenant, alliance"
+1578,6,1171,601,麥 199.0,7,麦,mài,4,"wheat, barley, oats; simplified form of KangXi radical number 199"
+1579,6,1182,1250,水 85.5,8,沿,yán,2,"follow a course, go along"
+1580,6,1194,2267,口 30.8,11,啦,la,0,final particle of assertion
+1581,6,1197,2530,手 64.9,12,援,yuán,2,"aid, assist; lead; cite"
+1582,6,1199,396,大 37.3,6,夺,duó,2,"take by force, rob, snatch"
+1583,6,1204,2334,人 9.9,11,偏,piān,1,inclined one side; slanting
+1584,6,1220,1147,人 9.6,8,侧,cè,4,"side; incline, slant, lean"
+1585,6,1223,1954,人 9.8,10,债,zhài,4,"debt, loan, liabilities"
+1586,6,1225,3334,虫 142.10,16,融,róng,2,"melt, fuse; blend, harmonize"
+1587,6,1236,936,糸 120.4,7,纵,zòng,4,"indulge in, give free reign to"
+1588,6,1237,3038,阜 170.11,13,障,zhàng,4,separate; shield; barricade
+1589,6,1238,322,言 149.3,5,讯,xùn,4,inquire; ask; examine; reproach
+1590,6,1239,2070,水 85.7,10,涉,shè,4,"ford stream, wade across"
+1591,6,1241,191,刀 18.3,5,刊,kān,1,"publication, periodical; publish"
+1592,6,1243,3471,火 86.15,19,爆,bào,4,"crackle, pop, burst, explode"
+1593,6,1244,157,丿 4.3,4,乌,wū,1,"crow, rook, raven; black, dark"
+1594,6,1249,2285,心 61.7,11,患,huàn,4,"suffer, worry about; suffering"
+1595,6,1250,919,女 38.4,7,妙,miào,4,"mysterious, subtle; exquisite"
+1596,6,1258,2026,疒 104.5,10,症,zhèng,4,"disease, illness, ailment"
+1597,6,1260,1959,人 9.8,10,倾,qīng,1,"upset, pour out, overflow"
+1598,6,1262,2138,阜 170.8,10,陷,xiàn,4,"submerge, sink, plunge; trap"
+1599,6,1270,3203,手 64.12,15,撤,chè,4,omit; remove; withdraw
+1600,6,1273,2028,疒 104.5,10,疾,jí,2,"illness, disease, sickness; to hate"
+1601,6,1274,2824,糸 120.9,12,缘,yuán,2,"hem, margin; reason, cause; fate"
+1602,6,1283,274,人 9.3,5,仪,yí,2,"ceremony, rites gifts; admire"
+1603,6,1285,1049,大 37.6,8,奔,bēn,1,"run fast, flee; rush about; run"
+1604,6,1288,1345,馬 187.5,8,驻,zhù,4,"to be stationed at, reside at; to stop"
+1605,6,1299,257,口 30.2,5,叹,tàn,4,"sigh, admire"
+1606,6,1305,1918,网 122.5,10,罢,bà,4,"cease, finish, stop; give up"
+1607,6,1307,1163,彳 60.5,8,径,jìng,4,narrow path; diameter; direct
+1608,6,1308,1690,心 61.6,9,恰,qià,4,"just, exactly, precisely; proper"
+1609,6,1312,1783,手 64.7,10,捕,bǔ,3,"arrest, catch, seize"
+1610,6,1317,2595,衣 145.6,12,裂,liè,4,"split, crack, break open; rend"
+1611,6,1321,415,小 42.3,6,尖,jiān,1,"sharp, pointed, acute, keen"
+1612,6,1322,1094,心 61.4,8,忠,zhōng,1,"loyalty, devotion, fidelity"
+1613,6,1324,1237,火 86.4,8,炎,yán,2,"flame, blaze; hot"
+1614,6,1330,3213,木 75.11,15,横,héng,2,across
+1615,6,1334,1319,子 39.5,8,孤,gū,1,"orphan, fatherless; solitary"
+1616,6,1340,3363,行 144.10,16,衡,héng,2,"measure, weigh, judge, consider"
+1617,6,1341,1595,肉 130.5,9,胞,bāo,1,"womb, placenta, fetal membrane"
+1618,6,1350,1664,水 85.6,9,洪,hóng,2,"vast, immense; flood, deluge"
+1619,6,1357,1889,日 72.6,10,晓,xiǎo,3,"dawn, daybreak; clear, explicit"
+1620,6,1359,1178,貝 154.4,8,贫,pín,2,"poor, impoverished, needy"
+1621,6,1365,2872,貝 154.9,13,赖,lài,4,"rely, depend on; accuse falsely"
+1622,6,1368,473,人 9.4,6,仰,yǎng,3,"raise the head to look; look up to, rely on, admire"
+1623,6,1376,1220,广 53.5,8,废,fèi,4,"abrogate, terminate, discard"
+1624,6,1378,145,凵 17.2,4,凶,xiōng,1,"culprit; murder; bad, sad"
+1625,6,1382,943,大 37.5,8,奉,fèng,4,offer; receive; serve; respect
+1626,6,1383,2393,方 70.7,11,旋,xuán,2,"revolve, move in orbit; return"
+1627,6,1404,1034,十 24.6,8,丧,sàng,4,mourning; mourn; funeral
+1628,6,1406,2765,水 85.9,12,渡,dù,4,"cross, ferry over; ferry"
+1629,6,1407,3152,方 70.10,14,旗,qí,2,"banner, flag, streamer"
+1630,6,1411,85,手 64.1,4,扎,zhā,1,pull up; pierce; struggle free
+1631,6,1413,2487,糸 120.8,11,绪,xù,4,"end of thread; thread, clue"
+1632,6,1416,2436,木 75.7,11,梁,liáng,2,bridge; beam; rafters; surname
+1633,6,1417,189,幺 52.1,4,幻,huàn,4,"illusion, fantasy, mirage"
+1634,6,1431,77,二 7.2,4,井,jǐng,3,"well, mine shaft, pit"
+1635,6,1432,510,士 33.3,6,壮,zhuàng,4,"big, large; robust; name of tribe"
+1636,6,1438,2594,歹 78.8,12,殖,zhí,2,"breed, spawn; increase; prosper"
+1637,6,1443,183,儿 10.2,4,允,yǔn,3,"to grant, to allow, to consent"
+1638,6,1451,2428,水 85.8,11,液,yè,4,"sap, juice, liquid, fluid"
+1639,6,1452,2709,田 102.7,12,番,fān,1,"to take turns; a turn, a time; to repeat"
+1640,6,1461,874,心 61.4,7,忧,yōu,1,"sad, grieved; grief, melancholy"
+1641,6,1462,2077,水 85.7,10,浮,fú,2,"to float, drift, waft; to exceed; superfluous"
+1642,6,1472,459,人 9.4,6,伍,wǔ,3,"five, company of five; troops"
+1643,6,1473,1921,山 46.7,10,峰,fēng,1,"peak, summit; hump of camel"
+1644,6,1478,1351,貝 154.4,8,贯,guàn,4,a string of 1000 coins; to go through
+1645,6,1481,1230,刀 18.6,8,券,quàn,4,"certificate, ticket; title deeds"
+1646,6,1482,2299,山 46.8,11,崇,chóng,2,"esteem, honor, revere, venerate"
+1647,6,1491,1019,木 75.4,8,枝,zhī,1,"branches, limbs; branch off"
+1648,6,1492,968,手 64.5,8,拖,tuō,1,"drag, tow, haul; delay, prolong"
+1649,6,1493,3255,土 32.12,15,墨,mò,4,ink; writing
+1650,6,1494,1191,肉 130.4,8,胁,xié,2,"ribs, armpits; flank; threaten"
+1651,6,1496,3267,竹 118.9,15,箭,jiàn,4,arrow; type of bamboo
+1652,6,1498,2053,米 119.4,10,粉,fěn,3,"powder, face powder; plaster"
+1653,6,1499,1258,水 85.5,8,泥,ní,2,"mud, mire; earth, clay; plaster"
+1654,6,1505,3189,心 61.11,15,慧,huì,4,"bright, intelligent; intelligence"
+1655,6,1508,2770,心 61.9,12,愤,fèn,4,"resent, hate; indignant"
+1656,6,1509,199,手 64.2,5,扑,pū,1,"pound, beat, strike; attack"
+1657,6,1516,2276,足 157.4,11,跃,yuè,4,"skip, jump, frolic"
+1658,6,1526,2697,人 9.10,12,储,chǔ,3,"save money, store, reserve; heir"
+1659,6,1530,2449,心 61.8,11,惨,cǎn,3,"sad, pitiful, wretched; cruel"
+1660,6,1531,1663,水 85.6,9,洁,jié,2,"clean, purify, pure"
+1661,6,1537,3367,石 112.11,16,磨,mó,2,grind; polish; rub; wear out; a millstone
+1662,6,1543,1354,大 37.6,9,奏,zòu,4,memorialize emperor; report
+1663,6,1548,627,貝 154.3,7,贡,gòng,4,"offer tribute; tribute, gifts"
+1664,6,1550,989,土 32.5,8,坡,pō,1,"slope, bank, hillside"
+1665,6,1552,3059,戈 62.10,14,截,jié,2,"cut off, stop, obstruct, intersect"
+1666,6,1554,2695,火 86.8,12,焦,jiāo,1,"burned, scorched; anxious, vexed"
+1667,6,1559,2582,辵 162.9,12,逼,bī,1,"compel, pressure, force; bother"
+1668,6,1561,1193,日 72.4,8,昏,hūn,1,"dusk, nightfall, twilight, dark"
+1669,6,1578,2628,足 157.5,12,践,jiàn,4,"trample, tread upon, walk on"
+1670,6,1582,1544,牛 93.5,9,牲,shēng,1,sacrificial animal; animal
+1671,6,1583,1135,人 9.6,8,佳,jiā,1,"good, auspicious; beautiful; delightful"
+1672,6,1587,3263,禾 115.10,15,稿,gǎo,3,"draft, manuscript, rough copy"
+1673,6,1590,2630,足 157.5,12,跌,diē,1,"stumble, slip, fall down; stamp"
+1674,6,1606,1084,日 72.4,8,昌,chāng,1,"light of sun; good, proper"
+1675,6,1613,2657,金 167.7,12,铺,pù,4,"shop, store; place sleep, bed"
+1676,6,1619,2388,皿 108.6,11,盗,dào,4,"rob, steal; thief, bandit"
+1677,6,1623,2606,小 42.9,12,辉,huī,1,"brightness, luster, brilliance"
+1678,6,1625,357,手 64.3,6,扣,kòu,4,"knock, strike, rap, tap; button"
+1679,6,1628,3110,口 30.11,14,嘛,ma,0,final exclamatory particle
+1680,6,1630,451,辵 162.3,6,迁,qiān,1,"move, shift, change; transfer; relocate a capital city"
+1681,6,1640,1794,土 32.7,10,埋,mái,2,"bury, secrete, conceal"
+1682,6,1654,1606,犬 94.6,9,狠,hěn,3,"vicious, cruel; severely, extreme"
+1683,6,1655,2894,金 167.5,13,鉴,jiàn,4,"mirror, looking glass; reflect"
+1684,6,1657,2219,木 75.7,11,械,xiè,4,"weapons; implements, instruments"
+1685,6,1666,2522,手 64.9,12,揭,jiē,1,"raise, lift up; surname"
+1686,6,1668,2091,心 61.7,10,悟,wù,4,"to apprehend, realize, become aware"
+1687,6,1671,2664,金 167.7,12,锋,fēng,1,"point of spear, sharp point"
+1688,6,1674,2119,示 113.6,10,祥,xiáng,2,"good luck, good omen; happiness"
+1689,6,1675,2737,門 169.9,12,阔,kuò,4,"broad, ample, wide; be apart"
+1690,6,1676,3024,言 149.6,13,誉,yù,4,"fame, reputation; praise"
+1691,6,1679,1458,大 37.6,9,牵,qiān,1,"drag, pull, lead by hand"
+1692,6,1686,2116,衣 145.5,10,袖,xiù,4,sleeve; put something in sleeve
+1693,6,1691,1435,木 75.5,9,柱,zhù,4,"pillar, post; support; lean on"
+1694,6,1696,880,牛 93.3,7,牢,láo,2,"prison; stable, pen; secure"
+1695,6,1699,2543,欠 76.8,12,欺,qī,1,"cheat, double-cross, deceive"
+1696,6,1723,344,糸 120.2,5,纠,jiū,1,"investigate, inspect"
+1697,6,1724,1930,金 167.5,10,钻,zuān,1,"drill, bore; pierce; diamond"
+1698,6,1730,1768,耒 127.4,10,耗,hào,4,"consume, use up; waste, squander"
+1699,6,1733,2205,艸 140.8,11,菌,jūn,1,"mushroom; germ, microbe"
+1700,6,1737,1708,戶 63.5,9,扁,biǎn,3,"flat; tablet, signboard"
+1701,6,1744,2705,彳 60.9,12,循,xún,2,"obey, comply with, follow"
+1702,6,1753,3242,足 157.8,15,踏,tà,4,"step on, trample, tread on, walk"
+1703,6,1760,803,肉 130.3,7,肝,gān,1,liver
+1704,6,1772,2306,金 167.6,11,铜,tóng,2,"copper, brass, bronze"
+1705,6,1774,2913,足 157.6,13,跨,kuà,4,"straddle, bestride, ride; carry"
+1706,6,1787,1838,木 75.6,10,档,dàng,4,"shelf; frame, crosspiece"
+1707,6,1792,1183,肉 130.4,8,肿,zhǒng,3,swell; swollen; swelling
+1708,6,1795,754,山 46.4,7,岗,gǎng,3,post; position
+1709,6,1797,607,口 30.4,7,吞,tūn,1,"swallow; absorb, annex, engulf"
+1710,6,1798,879,宀 40.4,7,宏,hóng,2,"wide, spacious, great, vast"
+1711,6,1804,3476,羽 124.14,20,耀,yào,4,"shine, sparkle, dazzle; glory"
+1712,6,1805,653,手 64.4,7,扭,niǔ,3,"turn, twist, wrench; seize, grasp"
+1713,6,1807,991,手 64.5,8,拨,bō,1,move; dispel; distribute
+1714,6,1809,1757,糸 120.6,9,绘,huì,4,"draw, sketch, paint"
+1715,6,1814,1939,牛 93.6,10,牺,xī,1,"sacrifice, give up; sacrificial"
+1716,6,1816,2853,土 32.11,13,墓,mù,4,"grave, tomb"
+1717,6,1822,1795,手 64.7,10,捉,zhuō,1,"grasp, clutch; catch, seize"
+1718,6,1826,3041,女 38.10,13,嫌,xián,2,"hate, detest; suspect; criticize"
+1719,6,1831,1175,乙 5.7,8,乳,rǔ,3,"breast, nipples; milk, suckle"
+1720,6,1832,736,丨 2.6,7,串,chuàn,4,string; relatives; conspire
+1721,6,1833,1735,女 38.6,9,娃,wá,2,baby; doll; pretty girl
+1722,6,1842,2511,手 64.10,12,搭,dā,1,"join together, attach to; add to"
+1723,6,1845,3056,口 30.11,14,嘉,jiā,1,excellent; joyful; auspicious
+1724,6,1858,547,宀 40.3,6,宅,zhái,2,"residence, dwelling, home; grave"
+1725,6,1859,2411,水 85.8,11,添,tiān,1,"append, add to; increase"
+1726,6,1860,1394,手 64.6,9,挖,wā,1,"dig, dig out, gouge out, scoop"
+1727,6,1863,1936,气 84.6,10,氧,yǎng,3,oxygen
+1728,6,1867,3087,酉 164.7,14,酷,kù,4,"strong, stimulating; very"
+1729,6,1879,2264,心 61.7,11,悬,xuán,2,"hang, suspend, hoist; be hung"
+1730,6,1882,149,人 9.2,4,仓,cāng,1,granary; berth; sea
+1731,6,1883,404,車 159.2,6,轨,guǐ,3,"track, rut, path"
+1732,6,1891,1724,尸 44.6,9,屏,píng,2,"folding screen, shield"
+1733,6,1892,355,寸 41.3,6,寺,sì,4,"court, office; temple, monastery"
+1734,6,1896,3165,水 85.11,14,滴,dī,1,drip; drop of water
+1735,6,1945,3132,肉 130.11,14,膜,mó,2,membrane; to kneel and worship
+1736,6,1958,449,舌 135.0,6,舌,shé,2,tongue; clapper of bell; KangXi radical 135
+1737,6,1960,2690,人 9.11,12,傲,ào,4,"proud, haughty, overbearing"
+1738,6,1967,2574,木 75.8,12,棉,mián,2,cotton; cotton padded
+1739,6,1980,1238,火 86.4,8,炉,lú,2,"fireplace, stove, oven, furnace"
+1740,6,1982,2777,心 61.9,12,愉,yú,2,"pleasant, delightful; please"
+1741,6,1997,1297,言 149.8,8,诞,dàn,4,"bear children, give birth; birth"
+1742,6,2000,1251,水 85.5,8,泡,pào,4,"bubbles, suds; blister; soak"
+1743,6,2009,1124,气 84.4,8,氛,fēn,1,"gas, vapor, air"
+1744,6,2011,678,木 75.3,7,杆,gān,1,pole; shaft of spear
+1745,6,2012,1815,手 64.7,10,挨,āi,1,"near, close by, next to, towards, against; to wait; to lean on"
+1746,6,2024,1778,頁 181.4,10,顽,wán,2,"obstinate, stubborn; recalcitrant"
+1747,6,2037,2651,貝 154.8,12,赌,dǔ,3,"bet, gamble, wager; compete"
+1748,6,2044,1181,肉 130.4,8,肺,fèi,4,lungs
+1749,6,2050,428,口 30.3,6,吊,diào,4,"condole, mourn, pity; hang"
+1750,6,2079,1222,目 109.3,8,盲,máng,2,"blind; unperceptive, shortsighted"
+1751,6,2101,1437,木 75.5,9,栏,lán,2,"railing, balustrade; animal pan"
+1752,6,2120,2125,言 149.8,10,谅,liàng,4,"excuse, forgive; guess, presume"
+1753,6,2122,1086,日 72.4,8,畅,chàng,4,"smoothly, freely, unrestrained"
+1754,6,2128,2917,足 157.6,13,跪,guì,4,kneel
+1755,6,2149,3155,欠 76.10,14,歉,qiàn,4,"deficient, lacking, insufficient"
+1756,6,2155,2101,宀 40.7,10,宴,yàn,4,"to entertain, feast; a feast, banquet"
+1757,6,2167,3325,艸 140.13,16,薪,xīn,1,"fuel, firewood; salary"
+1758,6,2174,1480,目 109.4,9,盼,pàn,4,"look, gaze; expect, hope for"
+1759,6,2179,1114,貝 154.4,8,账,zhàng,4,"accounts; bill, debt; credit"
+1760,6,2182,3112,貝 154.10,14,赚,zhuàn,4,"make money, earn; gain, profit"
+1761,6,2183,3196,手 64.12,15,撑,chēng,1,"prop up, support; brace"
+1762,6,2198,1076,日 72.4,8,旺,wàng,4,prosper; prosperous; increase
+1763,6,2215,1897,日 72.6,10,晕,yūn,1,"halo in sky; fog; dizzy, faint"
+1764,6,2218,2180,手 64.8,11,掏,tāo,1,take out; pull out; clean out
+1765,6,2230,3380,心 61.13,16,懒,lǎn,3,"lazy, languid, listless"
+1766,6,2232,967,手 64.5,8,拐,guǎi,3,"kidnap, abduct; turn"
+1767,6,2235,1797,手 64.7,10,捐,juān,1,"contribute; give up, renounce"
+1768,6,2248,1756,馬 187.6,9,骄,jiāo,1,spirited horse; haughty
+1769,6,2253,2845,耳 128.7,13,聘,pìn,4,"engage, employ; betroth"
+1770,6,2269,3381,心 61.13,16,憾,hàn,4,"to regret, remorse; dissatisfied"
+1771,6,2315,2416,水 85.9,11,渠,qú,2,"ditch, canal, channel, gutter"
+1772,6,2345,2798,言 149.10,12,谦,qiān,1,"humble, modest"
+1773,6,2350,1129,刀 18.6,8,刮,guā,1,"shave, pare off, scrape"
+1774,6,2378,2244,爻 89.7,11,爽,shuǎng,3,"happy, cheerful; refreshing"
+1775,6,2384,361,工 48.3,6,巩,gǒng,3,"bind; firm, secure, strong"
+1776,6,2408,1629,口 30.6,9,咨,zī,1,"inquire, consult, discuss; plan"
+1777,6,2416,2462,言 149.9,11,谐,xié,2,"harmonize, agree; joke, jest"
+1778,6,2422,1277,宀 40.5,8,宠,chǒng,3,"favorite, concubine; favor"
+1779,6,2433,1482,口 30.6,9,哇,wa,0,vomit; cry of an infant
+1780,6,2444,3241,足 157.8,15,踢,tī,1,kick
+1781,6,2457,3195,走 156.8,15,趟,tàng,4,"time, occasion; take journey"
+1782,6,2493,2140,女 38.7,10,娱,yú,2,"pleasure, enjoyment, amusement"
+1783,6,2497,3458,足 157.12,19,蹲,dūn,1,"squat, crouch; idle about"
+1784,6,2518,1812,士 33.7,10,壶,hú,2,"jar, pot, jug, vase; surname"
+1785,6,2556,3081,木 75.10,14,榜,bǎng,3,placard; list of successful exam candidates
+1786,6,2558,2696,人 9.10,12,傍,bàng,4,"by side of, beside, near, close"
+1787,6,2570,3243,足 157.8,15,踩,cǎi,3,step on
+1788,6,2582,2529,火 86.8,12,煮,zhǔ,3,cook
+1789,6,2590,1234,火 86.4,8,炒,chǎo,3,"fry, saute, roast, boil, cook"
+1790,6,2641,1934,金 167.5,10,铅,qiān,1,lead
+1791,6,2659,3409,足 157.10,17,蹈,dǎo,3,stamp feet; dance
+1792,6,2753,1804,手 64.7,10,捡,jiǎn,3,to pick up
+1793,6,2920,1047,厂 27.6,8,厕,cè,4,"mingle with; toilet, lavatory"
+1794,6,3021,2803,米 119.6,12,粥,zhōu,1,"rice gruel, congee"
+1795,6,3076,3222,酉 164.8,15,醋,cù,4,"vinegar; jealousy, envy"
+1796,6,3100,2986,酉 164.6,13,酱,jiàng,4,any jam-like or paste-like food
+1797,6,3136,1013,艸 140.5,8,茄,jiā,1,eggplant
+1798,6,3275,49,勹 20.1,3,勺,sháo,2,"spoon, ladle; unit of volume"
+1799,6,3363,3321,艸 140.14,16,薯,shǔ,3,"yam, tuber, potato"
+1800,6,3628,3138,食 184.11,14,馒,mán,2,steamed bread; steamed dumplings
+1801,789,168,2541,斤 69.8,12,斯,sī,1,"this, thus, such; to lop off; emphatic particle"
+1802,789,392,1108,网 122.3,8,罗,luō,1,net for catching birds; gauze
+1803,789,525,914,阜 170.5,7,陈,chén,2,"exhibit, display; plead; a surname"
+1804,789,642,306,八 12.3,5,兰,lán,2,"orchid; elegant, graceful"
+1805,789,654,326,尸 44.2,5,尼,ní,2,Buddhist nun; transliteration
+1806,789,701,1680,水 85.6,9,洲,zhōu,1,continent; island; islet
+1807,789,721,535,巛 47.3,6,州,zhōu,1,"administrative division, state"
+1808,789,751,517,刀 18.4,6,刘,liú,2,"surname; kill, destroy"
+1809,789,761,478,人 9.4,6,伊,yī,1,"third person pronoun; he, she, this, that"
+1810,789,821,778,人 9.5,7,伯,bó,2,father's elder brother; senior
+1811,789,823,1053,欠 76.4,8,欧,ōu,1,translit.: Europe; ohm; surname
+1812,789,886,516,亠 8.4,6,亦,yì,4,"also, too; likewise"
+1813,789,898,2717,魚 195.4,12,鲁,lǔ,3,"foolish, stupid, rash; vulgar"
+1814,789,951,1263,水 85.5,8,泽,zé,2,"marsh, swamp; grace, brilliance"
+1815,789,955,1824,艸 140.7,10,莫,mò,4,"do not, is not, can not; negative"
+1816,789,966,2200,力 19.9,11,勒,lēi,1,"strangle, tighten"
+1817,789,970,470,人 9.4,6,伦,lún,2,normal human relationships
+1818,789,972,2701,大 37.9,12,奥,ào,4,"mysterious, obscure, profound"
+1819,789,973,2037,口 30.7,10,唐,táng,2,Tang dynasty; Chinese
+1820,789,975,1564,人 9.7,9,俄,é,2,"sudden(ly), soon; Russian"
+1821,789,985,899,口 30.4,7,君,jūn,1,"sovereign, monarch, ruler, chief, prince"
+1822,789,990,878,宀 40.4,7,宋,sòng,4,Song dynasty; surname
+1823,789,1026,347,一 1.4,5,丝,sī,1,silk; fine thread; wire; strings
+1824,789,1046,2217,艸 140.9,11,萨,sà,4,Buddhist gods or immortals
+1825,789,1061,1330,女 38.5,8,姆,mǔ,3,woman who looks after small children
+1826,789,1062,689,木 75.3,7,杨,yáng,2,"willow, poplar, aspen; surname"
+1827,789,1087,351,刀 18.4,6,刑,xíng,2,"punishment, penalty; law"
+1828,789,1098,1623,辵 162.6,9,迹,jī,1,"traces, impressions, footprints"
+1829,789,1109,43,巛 47.0,3,川,chuān,1,"stream, river; flow; boil"
+1830,789,1120,445,木 75.2,6,朱,zhū,1,"cinnabar, vermilion; surname"
+1831,789,1132,1229,邑 163.6,8,郑,zhèng,4,Zheng state during the Warring States period; surname
+1832,789,1135,718,口 30.4,7,吴,wú,2,name of warring state; surname
+1833,789,1138,380,臣 131.0,6,臣,chén,2,"minister, statesman, official"
+1834,789,1139,2600,隹 172.4,12,雅,yǎ,3,"elegant, graceful, refined"
+1835,789,1165,20,丿 4.1,2,乃,nǎi,3,"then; really, indeed; as it turned out, after all; namely"
+1836,789,1168,5,一 1.1,2,丁,dīng,1,"male adult; robust, vigorous; 4th heavenly stem"
+1837,789,1169,1378,走 156.2,9,赵,zhào,4,surname; ancient state
+1838,789,1180,3484,鬼 194.11,20,魔,mó,2,"demon, evil spirits; magic power"
+1839,789,1195,108,瓦 98.0,4,瓦,wǎ,3,tile; earthenware pottery; girl
+1840,789,1213,2246,龍 212.6,11,袭,xí,2,"raid, attack; inherit"
+1841,789,1216,1141,人 9.6,8,侠,xiá,2,chivalrous person; knight-errant
+1842,789,1221,2558,韋 178.8,12,韩,hán,2,fence; surname; Korea
+1843,789,1245,793,彳 60.4,7,役,yì,4,"service; a servant, laborer; to serve"
+1844,789,1255,272,人 9.3,5,仙,xiān,1,"Taoist super-being, transcendent, immortal"
+1845,789,1264,1057,車 159.4,8,轰,hōng,1,"rumble, explosion, blast"
+1846,789,1277,680,木 75.3,7,杜,dù,4,"stop, prevent; restrict; surname"
+1847,789,1280,155,丶 3.3,4,丹,dān,1,cinnabar (native HgS); vermilion (artificial HgS used as pigment)
+1848,789,1289,179,子 39.1,4,孔,kǒng,3,"opening, hole, orifice; great"
+1849,789,1291,207,艸 140.2,5,艾,ài,4,"artemisia, mugwort; translit."
+1850,789,1294,3435,羽 124.12,17,翼,yì,4,wings; fins on fish; shelter
+1851,789,1301,2966,心 61.9,13,愈,yù,4,"more and more, even more"
+1852,789,1313,1976,彳 60.7,10,徐,xú,2,"slowly, quietly, calmly; composed, dignified"
+1853,789,1318,1771,水 85.5,10,泰,tài,4,"great, exalted, superior; big"
+1854,789,1328,1412,艸 140.6,9,荒,huāng,1,"wasteland, desert; uncultivated"
+1855,789,1332,2827,玉 96.9,13,瑞,ruì,4,felicitous omen; auspicious
+1856,789,1346,3058,赤 155.7,14,赫,hè,4,"bright, radiant, glowing"
+1857,789,1348,2830,鬼 194.4,13,魂,hún,2,"soul, spirit"
+1858,789,1353,1683,水 85.6,9,津,jīn,1,ferry; saliva; ford
+1859,789,1360,128,人 9.2,4,仁,rén,2,"humaneness, benevolence, kindness"
+1860,789,1363,348,邑 163.4,6,邦,bāng,1,"nation, country, state"
+1861,789,1372,2706,舟 137.7,12,艇,tǐng,3,"small boat, dugout, punt"
+1862,789,1379,2930,网 122.8,13,署,shǔ,3,public office
+1863,789,1381,2704,彳 60.8,12,御,yù,4,"drive, ride; chariot; manage"
+1864,789,1389,460,人 9.4,6,伏,fú,2,"crouch, crawl, lie hidden, conceal"
+1865,789,1394,1772,禾 115.5,10,秦,qín,2,surname; Qin dynasty (221-207 BC)
+1866,789,1400,2479,阜 170.9,11,隆,lóng,2,"prosperous, plentiful, abundant"
+1867,789,1402,333,女 38.2,5,奴,nú,2,"slave, servant"
+1868,789,1408,205,甘 99.0,5,甘,gān,1,"sweetness; sweet, tasty"
+1869,789,1419,1465,白 106.4,9,皆,jiē,1,"all, every, everybody"
+1870,789,1421,1280,宀 40.5,8,宙,zhòu,4,time as concept; infinite time
+1871,789,1423,1106,山 46.5,8,岩,yán,2,cliff; rocks; mountain
+1872,789,1424,1414,艸 140.7,9,荡,dàng,4,"pond, pool; wash away, cleanse"
+1873,789,1427,1826,艸 140.7,10,荷,hé,2,"lotus, water lily, holland"
+1874,789,1429,2556,艸 140.9,12,蒂,dì,4,peduncle or stem of plants
+1875,789,1440,1091,辵 162.5,8,迪,dí,2,"enlighten, advance; progress"
+1876,789,1442,3337,雨 173.8,16,霍,huò,4,"quickly, suddenly; surname"
+1877,789,1445,3192,手 64.12,15,撒,sā,1,"release, cast away, let go; disperse; relax"
+1878,789,1447,1112,几 16.6,8,凯,kǎi,3,"triumphant; triumph, victory"
+1879,789,1460,1729,目 109.4,9,眉,méi,2,eyebrows; upper margin of book
+1880,789,1470,3273,舟 137.10,15,艘,sōu,1,"counter for ships, vessels"
+1881,789,1476,3262,黍 202.3,15,黎,lí,2,"surname; numerous, many; black"
+1882,789,1479,1145,人 9.6,8,侦,zhēn,1,"spy, reconnoiter; detective"
+1883,789,1484,1699,宀 40.6,9,宪,xiàn,4,"constitution, statute, law"
+1884,789,1487,3002,心 61.10,13,慈,cí,2,"kind, charitable, benevolent"
+1885,789,1488,452,大 37.3,6,乔,qiáo,2,"tall, lofty; proud, stately"
+1886,789,1497,2712,肉 130.8,12,腊,là,4,year end sacrifice; dried meat
+1887,789,1500,151,氏 83.0,4,氏,shì,4,"clan, family; mister"
+1888,789,1504,159,几 16.2,4,凤,fèng,4,male phoenix; symbol of joy
+1889,789,1507,1150,人 9.6,8,佩,pèi,4,"belt ornament, pendant; wear at waist, tie to the belt; respect"
+1890,789,1511,930,馬 187.4,7,驱,qū,1,"spur a horse on; expel, drive away"
+1891,789,1514,2166,手 64.8,11,掩,yǎn,3,"to cover (with the hand); shut, conceal; ambush"
+1892,789,1515,2056,八 12.8,10,兼,jiān,1,"unite, combine; connect; and"
+1893,789,1517,59,尸 44.0,3,尸,shī,1,corpse; to impersonate the dead; to preside; KangXi radical 44
+1894,789,1519,1110,巾 50.5,8,帕,pà,4,"turban, kerchief, veil; wrap"
+1895,789,1521,2693,土 32.9,12,堡,bǎo,3,"fort, fortress; town, village"
+1896,789,1527,3221,風 182.11,15,飘,piāo,1,"whirlwind, cyclone; floating"
+1897,789,1528,2149,木 75.6,10,桑,sāng,1,mulberry tree; surname
+1898,789,1532,3244,足 157.8,15,踪,zōng,1,"footprints, traces, tracks"
+1899,789,1533,1440,力 19.7,9,勃,bó,2,"suddenly, sudden, quick"
+1900,789,1536,133,人 9.2,4,仇,chóu,2,"enemy, hate, hatred, enmity"
+1901,789,1539,405,邑 163.4,6,邪,xié,2,"wrong, evil, depraved, vicious, perverse, heterodox"
+1902,789,1541,657,手 64.5,7,拟,nǐ,3,"draft; intend, plan, propose"
+1903,789,1544,598,巛 47.4,6,巡,xún,2,"patrol, go on circuit, cruise"
+1904,789,1546,1216,刀 18.6,8,剂,jì,4,medicinal preparation
+1905,789,1555,3036,殳 79.9,13,殿,diàn,4,hall; palace; temple
+1906,789,1556,476,人 9.4,6,伪,wěi,3,"false, counterfeit, bogus"
+1907,789,1557,1434,木 75.5,9,柳,liǔ,3,willow tree; pleasure
+1908,789,1560,2484,頁 181.5,11,颇,pō,1,"lean one side; very, rather"
+1909,789,1563,716,口 30.4,7,呈,chéng,2,"submit, show; appear; petition"
+1910,789,1570,2233,曰 73.7,11,曹,cáo,2,ministry officials; surname
+1911,789,1573,1750,木 75.5,9,柔,róu,2,"soft; gentle, pliant"
+1912,789,1575,1316,子 39.5,8,孟,mèng,4,"first in series; great, eminent"
+1913,789,1580,1126,牛 93.4,8,牧,mù,4,"tend cattle, shepherd"
+1914,789,1586,670,艸 140.4,7,芳,fāng,1,fragrant; virtuous; beautiful
+1915,789,1589,2972,肉 130.9,13,腹,fù,4,"stomach, belly, abdomen; inside"
+1916,789,1592,1125,土 32.5,8,垂,chuí,2,"let down; suspend, hand; down"
+1917,789,1594,1597,肉 130.6,9,脉,mài,4,"blood vessels, veins, arteries"
+1918,789,1596,1432,木 75.5,9,柏,bǎi,3,"cypress, cedar"
+1919,789,1597,1605,犬 94.6,9,狱,yù,4,"prison, jail; case; lawsuit"
+1920,789,1600,2581,心 61.8,12,惑,huò,4,"confuse, mislead, baffle; doubt"
+1921,789,1601,2137,阜 170.8,10,陶,táo,2,"pottery, ceramics"
+1922,789,1602,2407,八 12.9,11,兽,shòu,4,"beast, animal; bestial"
+1923,789,1603,755,巾 50.4,7,帐,zhàng,4,"tent; screen, mosquito net"
+1924,789,1607,1586,又 29.7,9,叙,xù,4,"express, state, relate, narrate"
+1925,789,1614,185,邑 163.2,4,邓,dèng,4,surname
+1926,789,1616,2442,心 61.8,11,惧,jù,4,"fear, be afraid of, dread"
+1927,789,1622,289,勹 20.3,5,匆,cōng,1,"hastily, in haste, hurriedly"
+1928,789,1626,448,廴 54.4,6,廷,tíng,2,court
+1929,789,1627,3295,水 85.13,15,澳,ào,4,"inlet, bay; dock, bank"
+1930,789,1629,2551,艸 140.9,12,董,dǒng,3,"direct, supervise; surname"
+1931,789,1631,3370,冫 15.14,16,凝,níng,2,coagulate; congeal; freeze
+1932,789,1635,2975,肉 130.9,13,腾,téng,2,fly; gallop; run; prance; rise
+1933,789,1642,2089,水 85.7,10,涌,yǒng,3,"surge up, bubble up, gush forth"
+1934,789,1643,3096,車 159.10,14,辖,xiá,2,linchpin of wheel; control
+1935,789,1645,1828,日 72.6,10,晋,jìn,4,"advance, increase; promote"
+1936,789,1648,3416,鬼 194.8,17,魏,wèi,4,kingdom of Wei; surname
+1937,789,1656,111,曰 73.0,4,曰,yuē,1,say; KangXi radical 73
+1938,789,1660,631,赤 155.0,7,赤,chì,4,"red, scarlet; bare, naked"
+1939,789,1665,2779,刀 18.10,12,割,gē,1,"cut, divide, partition; cede"
+1940,789,1670,2886,雨 173.5,13,雾,wù,4,"fog, mist, vapor, fine spray"
+1941,789,1677,2952,竹 118.7,13,筹,chóu,2,"chip, tally, token; raise money"
+1942,789,1678,281,一 1.4,5,丛,cóng,2,"bush, shrub; thicket; collection"
+1943,789,1680,1100,口 30.5,8,鸣,míng,2,cry of bird or animal; make sound
+1944,789,1682,1639,門 169.6,9,阁,gé,2,"chamber, pavilion; cabinet"
+1945,789,1683,3356,禾 115.11,16,穆,mù,4,"majestic, solemn, reverent; calm"
+1946,789,1684,1311,尸 44.5,8,屈,qū,1,"bend, flex; bent, crooked; crouch"
+1947,789,1685,501,日 72.2,6,旨,zhǐ,3,"purpose, aim; excellent"
+1948,789,1687,2366,犬 94.8,11,猎,liè,4,hunt; field sports
+1949,789,1688,3434,肉 130.13,17,臂,bì,4,arm
+1950,789,1692,642,手 64.4,7,抛,pāo,1,throw (away)
+1951,789,1695,104,戈 62.0,4,戈,gē,1,"halberd, spear, lance; rad. 62"
+1952,789,1697,1728,辵 162.6,9,逊,xùn,4,"humble, modest; yield"
+1953,789,1698,408,辵 162.3,6,迈,mài,4,take a big stride; pass by
+1954,789,1702,2019,衣 145.4,10,衰,shuāi,1,"decline, falter, decrease; weaken"
+1955,789,1704,1691,心 61.6,9,恼,nǎo,3,"angered, filled with hate"
+1956,789,1705,3319,火 86.12,16,燕,yàn,4,"swallow (bird); comfort, enjoy"
+1957,789,1706,465,人 9.4,6,仲,zhòng,4,"middle brother; go between, mediator; surname"
+1958,789,1707,1715,言 149.7,9,诱,yòu,4,"persuade, entice, induce; guide"
+1959,789,1708,2005,犬 94.7,10,狼,láng,2,wolf
+1960,789,1712,270,人 9.3,5,仗,zhàng,4,"rely upon; protector; fight; war, weaponry"
+1961,789,1714,2404,米 119.5,11,粒,lì,4,grain; small particle
+1962,789,1715,2967,辵 162.9,13,遥,yáo,2,"far away, distant, remote"
+1963,789,1716,426,口 30.3,6,吕,lǚ,3,surname; a musical note
+1964,789,1717,304,玄 95.0,5,玄,xuán,2,"deep, profound, abstruse; KangXi radical 95"
+1965,789,1718,414,小 42.3,6,尘,chén,2,"dust, dirt, ashes, cinders"
+1966,789,1719,303,馬 187.2,5,冯,féng,2,surname; gallop; by dint of
+1967,789,1720,613,手 64.4,7,抚,fǔ,3,"pat, console, comfort; pacify"
+1968,789,1722,2729,攴 66.8,12,敦,dūn,1,"esteem; honest, candid, sincere"
+1969,789,1725,2620,日 72.8,12,晶,jīng,1,"crystal; clear, bright; radiant"
+1970,789,1726,439,山 46.3,6,岂,qǐ,3,how? what?
+1971,789,1727,1518,山 46.6,9,峡,xiá,2,"gorge, strait, ravine; isthmus"
+1972,789,1728,669,艸 140.4,7,苍,cāng,1,blue; green
+1973,789,1731,2014,冫 15.8,10,凌,líng,2,pure; virtuous; insult; maltreat
+1974,789,1735,2075,水 85.7,10,涂,tú,2,surname; name of certain rivers
+1975,789,1736,3154,米 119.8,14,粹,cuì,4,pure; unadulterated; select
+1976,789,1739,2454,宀 40.8,11,寂,jì,4,"still, silent, quiet, desolate"
+1977,789,1742,1820,心 61.6,10,恭,gōng,1,"respectful, polite, reverent"
+1978,789,1747,2650,貝 154.8,12,赋,fù,4,tax; give; endow; army; diffuse
+1979,789,1748,641,手 64.4,7,抑,yì,4,"press down, repress; curb, hinder"
+1980,789,1749,1947,禾 115.5,10,秩,zhì,4,order; orderly; salary; decade
+1981,789,1751,1619,口 30.6,9,哀,āi,1,"sad, mournful, pitiful; pity"
+1982,789,1755,1799,衣 145.4,10,袁,yuán,2,robe; surname
+1983,789,1757,648,手 64.4,7,抖,dǒu,3,"tremble, shake, rouse; give shake"
+1984,789,1759,1080,日 72.4,8,昆,kūn,1,elder brother; descendants
+1985,789,1764,1685,心 61.6,9,恒,héng,2,"constant, regular, persistent"
+1986,789,1765,3023,心 61.10,13,慎,shèn,4,"act with care, be cautious"
+1987,789,1767,942,糸 120.4,7,纽,niǔ,3,"knot; button; handle, knob; tie"
+1988,789,1768,939,糸 120.4,7,纹,wén,2,"line, streak, stripe; wrinkle"
+1989,789,1770,2425,水 85.8,11,渔,yú,2,to fish; seize; pursue; surname
+1990,789,1771,3093,石 112.10,14,磁,cí,2,magnetic; magnetism; porcelain
+1991,789,1773,1068,齒 211.0,8,齿,chǐ,3,"teeth; gears, cogs; age; simplified form of the KangXi radical number 211"
+1992,789,1776,1267,心 61.5,8,怖,bù,4,"terror, fear; frighten; terrified"
+1993,789,1778,2032,疒 104.5,10,疲,pí,2,"feel tired, be exhausted; weak"
+1994,789,1779,1644,又 29.7,9,叛,pàn,4,rebel; rebellion; rebellious
+1995,789,1780,2921,辵 162.10,13,遣,qiǎn,3,"send, dispatch; send off, exile"
+1996,789,1781,1653,艸 140.6,9,兹,zī,1,"now, here; this; time, year"
+1997,789,1782,2371,示 113.6,11,祭,jì,4,"sacrifice to, worship"
+1998,789,1784,2052,手 64.6,10,拳,quán,2,fist; various forms of boxing
+1999,789,1785,1313,弓 57.5,8,弥,mí,2,"extensive, full; fill; complete"
+2000,789,1788,2678,禾 115.7,12,稀,xī,1,"rare, unusual, scarce; sparse"
+2001,789,1789,2167,手 64.8,11,捷,jié,2,"win, victory, triumph"
+2002,789,1791,1627,疒 104.4,9,疫,yì,4,"epidemic, plague, pestilence"
+2003,789,1794,1475,刀 18.7,9,削,xuē,1,"scrape off, pare, trim"
+2004,789,1796,1893,日 72.6,10,晃,huǎng,3,"bright, dazzling; to sway, shake"
+2005,789,1799,3425,疒 104.12,17,癌,ái,2,cancer; marmoset
+2006,789,1801,1305,隶 171.0,8,隶,lì,4,subservient; servant; KangXi radical 171
+2007,789,1802,3312,尸 44.12,15,履,lǚ,3,"footwear, shoes; walk on, tread"
+2008,789,1806,614,土 32.4,7,坛,tán,2,"altar; arena, examination hall"
+2009,789,1808,862,水 85.4,7,沃,wò,4,"water, irrigate; fertile, rich"
+2010,789,1810,463,人 9.4,6,伐,fá,2,"cut down, subjugate, attack"
+2011,789,1811,2509,土 32.9,12,堪,kān,1,"adequately capable of, worthy of"
+2012,789,1812,131,人 9.2,4,仆,pū,1,"fall forward; lie prostrate, prone; servant"
+2013,789,1813,2022,邑 163.8,10,郭,guō,1,outer part (of a city); surname
+2014,789,1815,706,歹 78.3,7,歼,jiān,1,"annihilate, wipe out, kill off"
+2015,789,1817,2789,隹 172.4,12,雇,gù,4,"employ, to hire"
+2016,789,1818,2992,广 53.10,13,廉,lián,2,"upright, honorable, honest"
+2017,789,1819,1352,大 37.6,9,契,qì,4,"deed, contract, bond; engrave"
+2018,789,1821,2703,心 61.8,12,惩,chéng,2,"punish, reprimand; warn"
+2019,789,1823,3440,襾 146.12,18,覆,fù,4,cover; tip over; return; reply
+2020,789,1825,660,力 19.5,7,劫,jié,2,"take by force, coerce; disaster"
+2021,789,1829,3365,隹 172.8,16,雕,diāo,1,"engrave, inlay, carve; exhaust; used for 鵰 an eagle, vulture"
+2022,789,1830,848,門 169.4,7,闷,mèn,4,"gloomy, depressed, melancholy"
+2023,789,1834,3387,糸 120.13,16,缴,jiǎo,3,"deliver, submit; hand over"
+2024,789,1835,1911,口 30.7,10,唤,huàn,4,call
+2025,789,1837,1823,艸 140.8,10,莲,lián,2,"lotus, water lily; paradise"
+2026,789,1838,3489,雨 173.13,21,霸,bà,4,rule by might rather than right
+2027,789,1840,799,女 38.4,7,妥,tuǒ,3,"satisfactory, appropriate"
+2028,789,1843,1377,走 156.2,9,赴,fù,4,"go to; attend, be present"
+2029,789,1844,1137,山 46.5,8,岳,yuè,4,mountain peak; surname
+2030,789,1846,1979,舟 137.4,10,舱,cāng,1,hold of ship; cabin
+2031,789,1847,1578,人 9.7,9,俊,jùn,4,"talented, capable; handsome"
+2032,789,1849,1207,广 53.5,8,庞,páng,2,"disorderly, messy; huge, big"
+2033,789,1850,1766,耒 127.4,10,耕,gēng,1,"plow, cultivate"
+2034,789,1851,2666,金 167.7,12,锐,ruì,4,"sharp, keen, acute, pointed"
+2035,789,1852,3045,糸 120.10,13,缝,fèng,4,"sew, mend"
+2036,789,1857,278,斤 69.1,5,斥,chì,4,"to scold, upbraid, accuse, reproach"
+2037,789,1861,1085,口 30.5,8,呵,ā,1,scold; laughing sound; yawn
+2038,789,1862,557,言 149.4,6,讼,sòng,4,"accuse; argue, dispute; litigate"
+2039,789,1864,2073,水 85.7,10,浩,hào,4,"great, numerous, vast, abundant"
+2040,789,1868,2182,手 64.8,11,掠,lüè,4,"rob, ransack, plunder; pass by"
+2041,789,1869,920,女 38.4,7,妖,yāo,1,"strange, weird, supernatural"
+2042,789,1870,2465,示 113.7,11,祸,huò,4,"misfortune, calamity, disaster"
+2043,789,1871,1136,人 9.6,8,侍,shì,4,"serve, attend upon; attendant, servant; samurai"
+2044,789,1873,922,女 38.4,7,妨,fáng,2,"interfere with, impede, obstruct"
+2045,789,1874,1176,貝 154.4,8,贪,tān,1,"be greedy, covet; covetous"
+2046,789,1876,855,水 85.4,7,汪,wāng,1,"vast, extensive, deep; surname"
+2047,789,1877,904,尸 44.4,7,尿,niào,4,urine; urinate
+2048,789,1880,1861,口 30.7,10,唇,chún,2,lips
+2049,789,1884,1023,木 75.4,8,枚,méi,2,"stalk of shrub, trunk of tree"
+2050,789,1889,1210,广 53.5,8,庙,miào,4,"temple, shrine; imperial court"
+2051,789,1890,668,艸 140.4,7,芬,fēn,1,"fragrance, aroma; perfume"
+2052,789,1895,2905,心 61.9,13,愚,yú,2,"stupid, doltish, foolish"
+2053,789,1897,2804,疋 103.7,12,疏,shū,1,"neglect; careless, lax"
+2054,789,1898,2216,艸 140.8,11,萧,xiāo,1,common artemisia; dejected
+2055,789,1899,1630,女 38.6,9,姿,zī,1,"beauty, disposition, looks, appearance"
+2056,789,1900,3465,頁 181.13,19,颤,chàn,4,"shiver, tremble; trembling"
+2057,789,1902,416,力 19.4,6,劣,liè,4,"bad, inferior; slightly"
+2058,789,1906,715,目 109.2,7,盯,dīng,1,"rivet gaze upon, keep eyes on"
+2059,789,1907,1860,辰 161.3,10,辱,rǔ,3,"humiliate, insult, abuse"
+2060,789,1910,3371,辛 160.9,16,辨,biàn,4,"distinguish, discriminate"
+2061,789,1912,2925,虫 142.7,13,蜂,fēng,1,"bee, wasp, hornet"
+2062,789,1913,1908,口 30.7,10,哦,ó,2,oh? really? is that so?
+2063,789,1914,2715,肉 130.8,12,腔,qiāng,1,chest cavity; hollow in body
+2064,789,1915,1043,邑 163.6,8,郁,yù,4,"sweet smelling, rich in aroma; (Cant.) to move, hit"
+2065,789,1916,2759,水 85.9,12,溃,kuì,4,flooding river; militarily defeat
+2066,789,1917,3030,言 149.11,13,谨,jǐn,3,"prudent, cautious; attentive"
+2067,789,1920,1005,艸 140.5,8,苗,miáo,2,sprouts; Miao nationality
+2068,789,1922,910,心 61.3,7,忌,jì,4,"jealous, envious; fear"
+2069,789,1923,3013,水 85.10,13,溜,liū,1,"slide, glide, slip; slippery"
+2070,789,1925,3421,爪 87.14,17,爵,jué,2,feudal title or rank
+2071,789,1926,2974,鳥 196.8,13,鹏,péng,2,fabulous bird of enormous size
+2072,789,1927,3447,鳥 196.13,18,鹰,yīng,1,falcon; Accipiter species (various)
+2073,789,1928,2318,竹 118.5,11,笼,lóng,2,cage; cage-like basket
+2074,789,1929,268,一 1.4,5,丘,qiū,1,hill; elder; empty; a name
+2075,789,1930,1835,木 75.6,10,桂,guì,4,cassia or cinnamon
+2076,789,1931,2767,水 85.10,12,滋,zī,1,"grow, multiply, increase; thrive"
+2077,789,1937,650,士 33.4,7,壳,ké,2,"casing, shell, husk"
+2078,789,1938,2383,疒 104.6,11,痕,hén,2,scar; mark; trace
+2079,789,1940,313,穴 116.0,5,穴,xué,2,"cave, den, hole; KangXi radical 116"
+2080,789,1941,3134,肉 130.10,14,膀,bǎng,3,upper arm; shoulder; wing
+2081,789,1942,1070,十 24.6,8,卓,zhuō,1,"profound, brilliant, lofty"
+2082,789,1943,1074,貝 154.4,8,贤,xián,2,"virtuous, worthy, good; able"
+2083,789,1946,3286,殳 79.11,15,毅,yì,4,"resolute, decisive, firm, persist"
+2084,789,1947,2942,金 167.8,13,锦,jǐn,3,"brocade, tapestry; embroidered"
+2085,789,1950,1322,凵 17.6,8,函,hán,2,correspondence; a case; a box
+2086,789,1951,1413,艸 140.6,9,茫,máng,2,"vast, boundless, widespread"
+2087,789,1952,1090,日 72.4,8,昂,áng,2,"rise, raise; proud, bold; upright"
+2088,789,1954,2011,皮 107.5,10,皱,zhòu,4,"wrinkles, creases, folds"
+2089,789,1955,395,大 37.3,6,夸,kuā,1,"extravagant, luxurious; handsome"
+2090,789,1959,2129,刀 18.8,10,剥,bō,1,peel
+2091,789,1962,2784,穴 116.7,12,窝,wō,1,"nest; cave, den; hiding place"
+2092,789,1963,2261,目 109.6,11,睁,zhēng,1,open eyes; stare
+2093,789,1964,2839,手 64.10,13,携,xié,2,"lead by hand, take with; carry"
+2094,789,1965,2135,阜 170.8,10,陵,líng,2,"hill, mound; mausoleum"
+2095,789,1966,1913,口 30.7,10,哼,hēng,1,"hum; sing softly; groan, moan; (Cant.) an interjecting indicating disapproval"
+2096,789,1971,1203,食 184.5,8,饲,sì,4,raise animals; feed; nourish
+2097,789,1973,743,口 30.4,7,吻,wěn,3,kiss; the lips; coinciding
+2098,789,1975,1652,辵 162.6,9,逆,nì,4,"disobey, rebel; rebel, traitor"
+2099,789,1977,2642,口 30.9,12,喘,chuǎn,3,"pant, gasp, breathe heavily"
+2100,789,1978,2933,网 122.8,13,罩,zhào,4,basket for catching fish; cover
+2101,789,1979,8,卜 25.0,2,卜,bo,0,fortune telling; prophesy
+2102,789,1983,2491,糸 120.8,11,绳,shéng,2,"rope, string, cord; control"
+2103,789,1984,1598,肉 130.5,9,胎,tāi,1,"unborn child, embryo, fetus"
+2104,789,1985,2856,艸 140.10,13,蓄,xù,4,"store, save, hoard, gather"
+2105,789,1987,3150,立 117.9,14,竭,jié,2,put forth great effort; exhaust
+2106,789,1990,3066,心 61.11,14,慕,mù,4,"long for, desire; admire"
+2107,789,1991,1681,水 85.6,9,浑,hún,2,"muddy, turbid; blend, merge, mix"
+2108,789,1992,577,女 38.3,6,奸,jiān,1,"crafty, villainous, false"
+2109,789,1995,2096,心 61.7,10,悦,yuè,4,"pleased, contented, gratified"
+2110,789,1996,982,手 64.5,8,拦,lán,2,"obstruct, impede, bar, hinder"
+2111,789,2001,1924,貝 154.6,10,贼,zéi,2,"thief, traitor; kill"
+2112,789,2002,1620,亠 8.7,9,亭,tíng,2,pavilion; erect
+2113,789,2004,1985,父 88.6,10,爹,diē,1,"father, daddy"
+2114,789,2005,2874,酉 164.6,13,酬,chóu,2,"toast; reward, recompense"
+2115,789,2006,3361,人 9.14,16,儒,rú,2,Confucian scholar
+2116,789,2007,1738,女 38.6,9,姻,yīn,1,relatives by marriage
+2117,789,2008,818,卩 26.5,7,卵,luǎn,3,egg; ovum; roe; spawn
+2118,789,2010,1242,水 85.5,8,泄,xiè,4,leak; vent; flow; reveal
+2119,789,2013,3127,人 9.12,14,僧,sēng,1,"Buddhist priest, monk; san of Sanskrit sangha"
+2120,789,2014,3175,虫 142.8,14,蜜,mì,4,honey; sweet; nectar
+2121,789,2016,2718,犬 94.9,12,猩,xīng,1,species of orangutan
+2122,789,2017,2746,辵 162.9,12,遂,suì,4,"comply with, follow along; thereupon"
+2123,789,2018,1600,犬 94.6,9,狭,xiá,2,"narrow, limited; narrow-minded"
+2124,789,2019,713,肉 130.3,7,肖,xiào,4,"look like, resemble, be like"
+2125,789,2021,3400,雨 173.9,17,霞,xiá,2,rosy clouds
+2126,789,2022,935,馬 187.4,7,驳,bó,2,"varicolored, variegated; mixed"
+2127,789,2023,2790,衣 145.7,12,裕,yù,4,"abundant, rich, plentiful"
+2128,789,2030,2047,田 102.5,10,畜,chù,4,"livestock, domestic animals"
+2129,789,2031,1504,口 30.6,9,咽,yàn,4,throat; pharynx
+2130,789,2034,158,勹 20.2,4,勾,gōu,1,"hook, join, connect; entice"
+2131,789,2036,3472,田 102.14,19,疆,jiāng,1,"boundary, border, frontier"
+2132,789,2039,1492,田 102.4,9,畏,wèi,4,"fear, dread, awe, reverence"
+2133,789,2041,3496,口 30.19,22,囊,náng,2,"bag, purse, sack; put in bag"
+2134,789,2043,1249,水 85.5,8,泊,pō,1,anchor vessel; lie at anchor
+2135,789,2045,3436,馬 187.14,17,骤,zhòu,4,procedure; gallop; sudden(ly)
+2136,789,2046,3046,糸 120.10,13,缠,chán,2,"wrap, wind around; tie, bind"
+2137,789,2047,115,冂 13.2,4,冈,gāng,1,ridge or crest of hill
+2138,789,2048,2049,羊 123.5,10,羞,xiū,1,"disgrace, shame; ashamed; shy"
+2139,789,2049,3406,目 109.12,17,瞪,dèng,4,stare at
+2140,789,2051,1856,貝 154.6,10,贾,jiǎ,3,"surname; merchant; buy, trade"
+2141,789,2053,2505,文 67.8,12,斑,bān,1,"mottled, striped, freckle"
+2142,789,2054,2065,水 85.7,10,涛,tāo,1,large waves
+2143,789,2055,2326,心 61.7,11,悠,yōu,1,"long, far, remote, distant; liesurely"
+2144,789,2056,2387,鹿 198.0,11,鹿,lù,4,deer; surname; KangXi radical 198
+2145,789,2057,1569,人 9.7,9,俘,fú,2,prisoner of war; take as prisoner
+2146,789,2058,2938,金 167.8,13,锡,xī,1,"tin, stannum; bestow, confer"
+2147,789,2059,1154,十 24.6,8,卑,bēi,1,"humble, low, inferior; despise"
+2148,789,2060,2548,艸 140.9,12,葬,zàng,4,"bury, inter"
+2149,789,2061,2307,金 167.6,11,铭,míng,2,"inscribe, engrave"
+2150,789,2062,3022,水 85.10,13,滩,tān,1,"bank, a sandbar, shoal; rapids"
+2151,789,2063,3042,女 38.10,13,嫁,jià,4,"to marry, give a daughter in marriage"
+2152,789,2064,2959,人 9.11,13,催,cuī,1,"press, urge"
+2153,789,2066,1859,羽 124.4,10,翅,chì,4,wings; fin
+2154,789,2068,2727,虫 142.6,12,蛮,mán,2,"barbarians; barbarous, savage"
+2155,789,2069,927,矢 111.2,7,矣,yǐ,3,particle of completed action
+2156,789,2070,3296,水 85.12,15,潘,pān,1,surname; water in which rice has been rinsed; a river that flows into the Han
+2157,789,2071,1066,止 77.4,8,歧,qí,2,fork of road; branching off
+2158,789,2072,2653,貝 154.8,12,赐,cì,4,"give, bestow favors; appoint"
+2159,789,2075,2384,广 53.9,11,廊,láng,2,"corridor, porch, veranda"
+2160,789,2077,3486,水 85.18,20,灌,guàn,4,"pour; water; irrigate, flood"
+2161,789,2078,1599,力 19.7,9,勉,miǎn,3,"endeavor, make effort; urge"
+2162,789,2080,2106,宀 40.7,10,宰,zǎi,3,to slaughter; to rule
+2163,789,2081,772,人 9.5,7,佐,zuǒ,3,"assist, aid, second; subordinate"
+2164,789,2083,1184,肉 130.4,8,胀,zhàng,4,"swell, inflate, expand"
+2165,789,2084,624,手 64.4,7,扯,chě,3,"rip up, tear down; raise; haul"
+2166,789,2086,331,辵 162.2,5,辽,liáo,2,"distant, far"
+2167,789,2087,953,手 64.5,8,抹,mǒ,3,"smear, apply, wipe off, erase"
+2168,789,2088,2685,竹 118.6,12,筒,tǒng,3,thick piece of bamboo; pipe
+2169,789,2089,2564,木 75.8,12,棋,qí,2,chess; any game similar to chess
+2170,789,2091,1916,口 30.7,10,唉,āi,1,"alas, exclamation of surprise or pain"
+2171,789,2092,376,木 75.2,6,朴,pǔ,3,"simple, unadorned; sincere; surname; a tree"
+2172,789,2093,1098,口 30.5,8,咐,fù,4,"instruct, order"
+2173,789,2094,338,子 39.2,5,孕,yùn,4,"be pregnant, pregnancy"
+2174,789,2095,3060,言 149.7,14,誓,shì,4,"swear, pledge; oath"
+2175,789,2096,2643,口 30.9,12,喉,hóu,2,"throat, gullet, larynx; guttural"
+2176,789,2097,526,女 38.3,6,妄,wàng,4,"absurd, foolish, reckless; false"
+2177,789,2098,976,手 64.5,8,拘,jū,1,"restrain, seize, detain"
+2178,789,2099,2658,金 167.7,12,链,liàn,4,"chain, wire, cable; chain, shack"
+2179,789,2100,596,馬 187.3,6,驰,chí,2,go quickly or swiftly; hurry
+2180,789,2102,1803,辵 162.7,10,逝,shì,4,pass away; die
+2181,789,2103,1702,穴 116.4,9,窃,qiè,4,"secretly, stealthily; steal; thief"
+2182,789,2106,591,糸 120.3,6,纤,xiān,1,"fine, delicate; minute; graceful"
+2183,789,2109,2515,走 156.5,12,趁,chèn,4,"take advantage of, avail oneself"
+2184,789,2110,394,匚 22.4,6,匠,jiàng,4,"craftsman, artisan; workman"
+2185,789,2111,1745,皿 108.4,9,盈,yíng,2,"fill; full, overflowing; surplus"
+2186,789,2112,1992,羽 124.4,10,翁,wēng,1,"old man; father, father-in-law"
+2187,789,2114,3403,目 109.12,17,瞬,shùn,4,"wink, blink; in a wink, a flash"
+2188,789,2115,2301,女 38.8,11,婴,yīng,1,"baby, infant; bother"
+2189,789,2116,638,子 39.4,7,孝,xiào,4,"filial piety, obedience; mourning"
+2190,789,2117,2485,頁 181.5,11,颈,jǐng,3,"neck, throat"
+2191,789,2118,1961,人 9.8,10,倘,tǎng,3,"if, supposing, in event of"
+2192,789,2119,2066,水 85.7,10,浙,zhè,4,Zhejiang province; river
+2193,789,2121,3073,艸 140.12,14,蔽,bì,4,"cover, hide, conceal; shelter"
+2194,789,2134,3327,頁 181.10,16,颠,diān,1,"top, peak, summit; upset"
+2195,789,2135,3143,辵 162.11,14,遮,zhē,1,"cover, shield, protect"
+2196,789,2138,420,口 30.3,6,吁,xū,1,"sh, hush; implore"
+2197,789,2140,3037,辛 160.6,13,辟,pì,4,"law, rule; open up, develop"
+2198,789,2141,3282,疒 104.10,15,瘤,liú,2,"tumor, lump, goiter"
+2199,789,2142,2810,女 38.10,12,嫂,sǎo,3,"older brother's wife, sister-in-law"
+2200,789,2144,1833,木 75.6,10,框,kuāng,1,frame; framework; door frame
+2201,789,2147,1532,金 167.4,9,钦,qīn,1,"respect, admire; respectful"
+2202,789,2148,2386,广 53.8,11,庸,yōng,1,"usual, common, ordinary, mediocre"
+2203,789,2150,374,艸 140.4,6,芝,zhī,1,Zoysia pungens
+2204,789,2151,749,口 30.4,7,吼,hǒu,3,"roar, shout; bark, howl"
+2205,789,2154,2844,手 64.10,13,摊,tān,1,"spread out, open; apportion"
+2206,789,2156,3253,口 30.12,15,嘱,zhǔ,3,"order, tell, instruct, leave word"
+2207,789,2157,2020,衣 145.4,10,衷,zhōng,1,inner feelings
+2208,789,2158,1739,女 38.6,9,娇,jiāo,1,seductive and loveable; tender
+2209,789,2160,1540,矢 111.5,9,矩,jǔ,3,"carpenter's square; rule, regulation"
+2210,789,2161,2068,水 85.7,10,浦,pǔ,3,"bank of river, shore; surname"
+2211,789,2162,553,言 149.4,6,讶,yà,4,"express surprise, be surprised"
+2212,789,2163,1984,耳 128.4,10,耸,sǒng,3,"urge on; rise up; stir, excite"
+2213,789,2164,3032,衣 145.8,13,裸,luǒ,3,"bare, nude; undress, strip"
+2214,789,2165,3050,石 112.9,14,碧,bì,4,"jade; green, blue"
+2215,789,2166,3057,手 64.11,14,摧,cuī,1,"destroy, break, injure"
+2216,789,2168,2413,水 85.8,11,淋,lín,2,"drip, soak, drench; perfectly"
+2217,789,2169,1816,耳 128.4,10,耻,chǐ,3,"shame, humiliation; ashamed"
+2218,789,2171,2472,尸 44.9,11,屠,tú,2,"butcher, slaughter, massacre"
+2219,789,2172,2674,鳥 196.7,12,鹅,é,2,goose
+2220,789,2173,299,食 184.2,5,饥,jī,1,"hunger, starving; hungry; a famine"
+2221,789,2175,2356,肉 130.7,11,脖,bó,2,neck
+2222,789,2176,1497,虫 142.3,9,虹,hóng,2,rainbow
+2223,789,2177,3184,羽 124.8,14,翠,cuì,4,color green; kingfisher
+2224,789,2178,2298,山 46.8,11,崩,bēng,1,"rupture, split apart, collapse"
+2225,789,2180,2211,艸 140.8,11,萍,píng,2,"duckweed; wandering, traveling"
+2226,789,2181,2007,辵 162.7,10,逢,féng,2,"come upon, happen meet; flatter"
+2227,789,2184,2739,羽 124.6,12,翔,xiáng,2,"soar, glide, hover; detailed"
+2228,789,2186,2493,糸 120.8,11,绵,mián,2,"cotton wad; wool; soft, downy"
+2229,789,2188,1427,木 75.5,9,枯,kū,1,"dried out, withered, decayed"
+2230,789,2189,686,工 48.4,7,巫,wū,1,"wizard, sorcerer, witch, shaman"
+2231,789,2192,2423,水 85.8,11,渊,yuān,1,"surge up, bubble up, gush forth"
+2232,789,2193,2374,冫 15.9,11,凑,còu,4,"piece together, assemble"
+2233,789,2194,3012,水 85.10,13,溪,xī,1,"mountain stream, creek"
+2234,789,2195,3488,虫 142.15,21,蠢,chǔn,3,wriggle; stupid; silly; fat
+2235,789,2196,2793,示 113.8,12,禅,chán,2,dhyana (Sanskrit); Zen; meditation (Buddhism)
+2236,789,2197,2397,門 169.8,11,阐,chǎn,3,"explain, clarify, elucidate"
+2237,789,2199,2782,宀 40.9,12,寓,yù,4,residence; lodge; dwell
+2238,789,2200,3439,艸 140.15,18,藤,téng,2,"rattan, cane; creeper plant"
+2239,789,2201,1780,匚 22.8,10,匪,fěi,3,"bandits, robbers, gangsters"
+2240,789,2203,2878,石 112.8,13,碑,bēi,1,stone tablet; gravestone
+2241,789,2204,1397,手 64.7,9,挪,nuó,2,"move, shift on one side"
+2242,789,2206,1995,肉 130.6,10,脂,zhī,1,"fat, grease, lard; grease"
+2243,789,2207,2461,言 149.9,11,谎,huǎng,3,lie
+2244,789,2208,2778,心 61.9,12,慨,kǎi,3,"sigh, regret; generous"
+2245,789,2209,2210,艸 140.8,11,菩,pú,2,"herb, aromatic plant"
+2246,789,2211,1601,犬 94.6,9,狮,shī,1,lion
+2247,789,2212,2190,手 64.8,11,掘,jué,2,"dig, excavate; excavate cave"
+2248,789,2214,1111,山 46.5,8,岭,lǐng,3,"mountain ridge, mountain peak"
+2249,789,2216,2469,辵 162.8,11,逮,dǎi,3,"seize, catch; reach, arrive"
+2250,789,2217,1454,石 112.4,9,砍,kǎn,3,"hack, chop, cut, fell"
+2251,789,2220,2615,日 72.8,12,晰,xī,1,"clear, evident; clearly"
+2252,789,2221,895,网 122.3,7,罕,hǎn,3,"rare, scarce; surname"
+2253,789,2222,1807,手 64.7,10,挽,wǎn,3,"pull; pull back, draw back"
+2254,789,2224,484,舟 137.0,6,舟,zhōu,1,"boat, ship; KangXi radical 137"
+2255,789,2225,2990,疒 104.8,13,痴,chī,1,"foolish, stupid, dumb, silly"
+2256,789,2228,2033,肉 130.6,10,脊,jí,2,"spine, backbone; ridge"
+2257,789,2229,63,弓 57.0,3,弓,gōng,1,"bow; curved, arched; KangXi radical number 57"
+2258,789,2234,3126,人 9.12,14,僚,liáo,2,"companion, colleague; officials; bureaucracy; a pretty face"
+2259,789,2237,2823,馬 187.9,12,骚,sāo,1,"harass, bother, annoy, disturb"
+2260,789,2238,957,手 64.5,8,拓,tà,4,expand; open up; support or push
+2261,789,2239,1445,止 77.5,9,歪,wāi,1,"slant; inclined; askewd, awry"
+2262,789,2240,2402,米 119.5,11,粘,zhān,1,"viscous, mucous; glutinous"
+2263,789,2241,1428,木 75.5,9,柄,bǐng,3,"handle, lever, knob; authority"
+2264,789,2242,645,土 32.4,7,坑,kēng,1,"pit, hole; bury, trap; harry"
+2265,789,2243,1318,阜 170.6,8,陌,mò,4,foot path between rice fields
+2266,789,2244,2104,穴 116.5,10,窄,zhǎi,3,"narrow, tight; narrow-minded"
+2267,789,2246,489,儿 10.4,6,兆,zhào,4,omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion
+2268,789,2247,2292,山 46.8,11,崖,yá,2,"cliff, precipice; precipitous"
+2269,789,2249,1167,刀 18.6,8,刹,shā,1,"temple, shrine, monastary"
+2270,789,2250,3438,革 177.9,18,鞭,biān,1,whip; whip; string of firecrackers
+2271,789,2251,372,艸 140.3,6,芒,máng,2,Miscanthus sinensis
+2272,789,2252,2688,竹 118.6,12,筋,jīn,1,muscles; tendons
+2273,789,2254,1534,金 167.5,9,钩,gōu,1,"hook, barb; sickle; stroke with"
+2274,789,2255,2572,木 75.8,12,棍,gùn,4,"stick, cudgel; scoundrel"
+2275,789,2256,3480,口 30.17,20,嚷,rǎng,3,"shout, brawl, make uproar, cry"
+2276,789,2257,2973,肉 130.9,13,腺,xiàn,4,gland
+2277,789,2258,1314,弓 57.5,8,弦,xián,2,"string; hypotenuse, crescent"
+2278,789,2259,2748,火 86.8,12,焰,yàn,4,"flame, blaze; glowing, blazing"
+2279,789,2260,1457,而 126.3,9,耍,shuǎ,3,"frolic, play, amuse, play with"
+2280,789,2261,1966,人 9.8,10,俯,fǔ,3,"bow down, face down, look down"
+2281,789,2263,2774,心 61.9,12,愣,lèng,4,be in a daze
+2282,789,2264,2588,厂 27.10,12,厦,shà,4,"big building, mansion"
+2283,789,2265,2130,心 61.6,10,恳,kěn,3,"sincere, earnest, cordial"
+2284,789,2266,1611,食 184.6,9,饶,ráo,2,"bountiful, abundant, plentiful"
+2285,789,2267,758,金 167.2,7,钉,dīng,1,"nail, spike; pursue closely"
+2286,789,2268,3173,宀 40.11,14,寡,guǎ,3,"widowed; alone, friendless"
+2287,789,2271,3043,又 29.11,13,叠,dié,2,pile; be piled up; fold up
+2288,789,2272,2547,心 61.9,12,惹,rě,3,"irritate, vex, offend, incite"
+2289,789,2273,2644,口 30.9,12,喻,yù,4,"metaphor, analogy; example; like"
+2290,789,2274,3181,言 149.12,14,谱,pǔ,3,"list, table; musical score"
+2291,789,2275,2776,心 61.10,12,愧,kuì,4,"ashamed, conscience-stricken"
+2292,789,2276,3004,火 86.9,13,煌,huáng,2,"bright, shining, luminous"
+2293,789,2277,3420,彳 60.14,17,徽,huī,1,"a badge, insignia"
+2294,789,2278,3019,水 85.10,13,溶,róng,2,"to melt, dissolve; overflowing with"
+2295,789,2279,917,土 32.4,7,坠,zhuì,4,"fall down, drop, sink, go to ruin"
+2296,789,2282,3010,水 85.10,13,滥,làn,4,"flood, overflow; excessive"
+2297,789,2285,2038,瓦 98.6,10,瓷,cí,2,"crockery, porcelain, chinaware"
+2298,789,2290,2076,水 85.7,10,浴,yù,4,"bathe, wash; bath"
+2299,789,2291,2811,女 38.9,12,媚,mèi,4,"charming, attractive; flatter"
+2300,789,2293,2421,水 85.8,11,淮,huái,2,river in Anhui province
+2301,789,2294,1082,口 30.6,8,哎,āi,1,interjection of surprise
+2302,789,2296,3161,水 85.11,14,漆,qī,1,"varnish, lacquer, paint"
+2303,789,2298,2500,巛 47.8,11,巢,cháo,2,"nest, living quarter in tree"
+2304,789,2299,741,口 30.4,7,吩,fēn,1,"order, command, instruct"
+2305,789,2300,3205,手 64.12,15,撰,zhuàn,4,"compose, write, compile"
+2306,789,2301,2291,口 30.8,11,啸,xiào,4,"roar, howl, scream; whistle"
+2307,789,2302,2750,水 85.9,12,滞,zhì,4,"block up, obstruct; stagnant"
+2308,789,2303,950,玉 96.4,8,玫,méi,2,rose
+2309,789,2305,1120,金 167.3,8,钓,diào,4,"fish; fishhook; tempt, lure"
+2310,789,2307,3274,肉 130.11,15,膝,xī,1,knee
+2311,789,2309,1003,艸 140.5,8,茂,mào,4,"thick, lush, dense; talented"
+2312,789,2310,2335,身 158.4,11,躯,qū,1,body
+2313,789,2311,381,口 30.3,6,吏,lì,4,"government official, magistrate"
+2314,789,2313,3171,宀 40.11,14,寨,zhài,4,"stockade, stronghold, outpost; brothel"
+2315,789,2314,2142,心 61.6,10,恕,shù,4,"forgive, excuse, show mercy"
+2316,789,2316,2239,戈 62.7,11,戚,qī,1,relative; be related to; sad
+2317,789,2317,701,辰 161.0,7,辰,chén,2,early morning; 5th terrestrial branch
+2318,789,2318,2344,舟 137.5,11,舶,bó,2,"large, ocean-going vessel"
+2319,789,2319,1990,頁 181.4,10,颁,bān,1,"confer, bestow; publish, promulgate"
+2320,789,2322,559,言 149.4,6,讽,fěng,3,"recite, incant; satirize"
+2321,789,2324,2117,衣 145.5,10,袍,páo,2,"long gown, robe, cloak"
+2322,789,2325,3238,口 30.12,15,嘲,cháo,2,"ridicule, deride, scorn, jeer at"
+2323,789,2328,2342,彳 60.8,11,衔,xián,2,"bit; hold in mouth, bite; gag"
+2324,789,2329,1968,人 9.8,10,倦,juàn,4,"be tired of, weary"
+2325,789,2330,2434,水 85.8,11,涵,hán,2,"soak, wet; tolerate, be lenient"
+2326,789,2331,2255,隹 172.3,11,雀,què,4,sparrow
+2327,789,2332,500,日 72.2,6,旬,xún,2,ten-day period; period of time
+2328,789,2333,3269,人 9.13,15,僵,jiāng,1,"stiff and motionless, stock still"
+2329,789,2334,3191,手 64.12,15,撕,sī,1,"rip, tear; buy cloth"
+2330,789,2335,1182,肉 130.4,8,肢,zhī,1,human limbs; animal feet
+2331,789,2336,1055,龍 212.3,8,垄,lǒng,3,"grave, mound; ridge in field"
+2332,789,2337,403,大 37.3,6,夷,yí,2,ancient barbarian tribes
+2333,789,2338,2363,辵 162.8,11,逸,yì,4,"flee, escape, break loose"
+2334,789,2339,1016,艸 140.5,8,茅,máo,2,"reeds, rushes, grass; surname"
+2335,789,2340,1149,人 9.6,8,侨,qiáo,2,"sojourn, lodge"
+2336,789,2341,3125,八 12.12,14,舆,yú,2,"cart, palanquin, sedan chair"
+2337,789,2342,2457,穴 116.6,11,窑,yáo,2,kiln; coal mine pit
+2338,789,2346,1030,木 75.4,8,杭,háng,2,cross stream; navigate
+2339,789,2348,3156,廾 55.12,14,弊,bì,4,"evil, wrong, bad; criminal"
+2340,789,2349,1506,力 19.7,9,勋,xūn,1,meritorious deed; merits; rank
+2341,789,2352,2015,冫 15.8,10,凄,qī,1,"bitter cold, miserable, dreary"
+2342,789,2353,2160,手 64.8,11,捧,pěng,3,hold up in two hands
+2343,789,2354,2085,水 85.7,10,浸,jìn,4,"soak, immerse, dip, percolate"
+2344,789,2355,1447,石 112.4,9,砖,zhuān,1,"tile, brick"
+2345,789,2356,2617,鼎 206.0,12,鼎,dǐng,3,"large, three-legged bronze caldron"
+2346,789,2358,2860,艸 140.10,13,蒸,zhēng,1,steam; evaporate
+2347,789,2360,829,亠 8.5,7,亩,mǔ,3,Chinese land measure; fields
+2348,789,2361,1073,肉 130.4,8,肾,shèn,4,"kidneys; testes, gizzard"
+2349,789,2362,1727,阜 170.7,9,陡,dǒu,3,"steep, sloping; abruptly, sudden"
+2350,789,2363,138,爪 87.0,4,爪,zhǎo,3,"claw, nail, talon; animal feet"
+2351,789,2365,1977,殳 79.6,10,殷,yīn,1,"many, great; abundant, flourishing"
+2352,789,2366,412,卜 25.4,6,贞,zhēn,1,"virtuous, chaste, pure; loyal"
+2353,789,2367,1405,艸 140.6,9,荐,jiàn,4,"repeat, reoccur; recommend"
+2354,789,2368,1484,口 30.6,9,哑,yǎ,3,"dumb, mute; become hoarse"
+2355,789,2369,1517,火 86.5,9,炭,tàn,4,charcoal; coal; carbon
+2356,789,2370,644,土 32.4,7,坟,fén,2,"grave, mound; bulge; bulging"
+2357,789,2371,1481,目 109.5,9,眨,zhǎ,3,wink
+2358,789,2372,2835,手 64.10,13,搏,bó,2,seize; spring upon; strike
+2359,789,2374,958,手 64.5,8,拢,lǒng,3,"collect, bring together"
+2360,789,2375,2957,臼 134.7,13,舅,jiù,4,maternal uncle
+2361,789,2376,1477,日 72.5,9,昧,mèi,4,"obscure, dark; darken"
+2362,789,2377,3318,手 64.13,16,擅,shàn,4,monopolize; claim; arbitrarily; to dare
+2363,789,2380,2533,手 64.9,12,搁,gē,1,"place, put, lay down; delay"
+2364,789,2383,1904,口 30.7,10,哨,shào,4,"whistle, blow whistle; chirp"
+2365,789,2386,3410,虫 142.11,17,螺,luó,2,spiral shell; conch; spiral
+2366,789,2388,1000,日 72.4,8,昔,xī,1,formerly; ancient; in beginning
+2367,789,2390,3034,言 149.11,13,谬,miù,4,"error, exaggeration; erroneous"
+2368,789,2391,2460,言 149.9,11,谍,dié,2,an intelligence report; to spy; spying
+2369,789,2392,808,龜 213.0,7,龟,guī,1,turtle or tortoise; cuckold
+2370,789,2393,3039,女 38.10,13,媳,xí,2,daughter-in-law
+2371,789,2394,1643,女 38.6,9,姜,jiāng,1,surname; ginger
+2372,789,2395,3235,目 109.10,15,瞎,xiā,1,"blind, reckless; rash"
+2373,789,2396,2124,冖 14.8,10,冤,yuān,1,"grievance, injustice, wrong"
+2374,789,2397,1464,鳥 196.4,9,鸦,yā,1,crow; Corvus species (various)
+2375,789,2398,2855,艸 140.11,13,蓬,péng,2,type of raspberry; fairyland
+2376,789,2399,1406,己 49.6,9,巷,xiàng,4,"alley, lane"
+2377,789,2401,1782,木 75.6,10,栽,zāi,1,"to cultivate, plant; to care for plants"
+2378,789,2402,1245,水 85.5,8,沾,zhān,1,"moisten, wet, soak; touch"
+2379,789,2403,893,言 149.5,7,诈,zhà,4,"cheat, defraud, swindle; trick"
+2380,789,2405,3232,目 109.10,15,瞒,mán,2,"deceive, lie; eyes half-closed"
+2381,789,2407,3514,厂 27.2,4,厄,è,4,"adversity, difficulty, distress"
+2382,789,2409,940,糸 120.4,7,纺,fǎng,3,"spin, reel, weave; reeled pongee"
+2383,789,2410,3499,缶 121.18,23,罐,guàn,4,"jar, jug, pitcher, pot"
+2384,789,2411,2230,木 75.7,11,桶,tǒng,3,"pail, bucket, tub; cask, keg"
+2385,789,2412,3474,土 32.17,20,壤,rǎng,3,"soil, loam, earth; rich"
+2386,789,2414,1991,頁 181.4,10,颂,sòng,4,"laud, acclaim; hymn; ode"
+2387,789,2415,3364,肉 130.12,16,膨,péng,2,"to swell; swollen, bloated, inflated"
+2388,789,2417,1751,土 32.6,9,垒,lěi,3,"rampart, military wall"
+2389,789,2419,2806,阜 170.10,12,隙,xì,4,"crack, split, fissure; grudge"
+2390,789,2421,1752,糸 120.6,9,绑,bǎng,3,"bind, tie, fasten"
+2391,789,2423,3252,口 30.12,15,嘿,hēi,1,"be silent, be quiet"
+2392,789,2424,850,儿 10.5,7,兑,duì,4,cash; exchange
+2393,789,2425,3231,雨 173.7,15,霉,méi,2,"mildew, mold; moldy, mildewed"
+2394,789,2426,1805,手 64.7,10,挫,cuò,4,push down; chop down; grind
+2395,789,2427,3260,禾 115.10,15,稽,jī,1,"examine, investigate; delay"
+2396,789,2428,2888,車 159.9,13,辐,fú,2,spokes of wheel
+2397,789,2429,42,乙 5.2,3,乞,qǐ,3,beg; request
+2398,789,2430,932,糸 120.4,7,纱,shā,1,"gauze, thin silk; yarn, thread"
+2399,789,2434,2151,糸 120.7,10,绣,xiù,4,embroider; embroidery; ornament
+2400,789,2435,683,木 75.3,7,杖,zhàng,4,"cane, walking stick"
+2401,789,2436,2843,土 32.10,13,塘,táng,2,"pond; tank; dike, embankment"
+2402,789,2437,1582,行 144.3,9,衍,yǎn,3,"overflow, spill over, spread out"
+2403,789,2438,1462,車 159.5,9,轴,zhóu,2,"axle, axletree; pivot; axis"
+2404,789,2439,3456,手 64.15,19,攀,pān,1,climb; pull; hang on to
+2405,789,2440,3133,肉 130.10,14,膊,bó,2,"shoulders, upper arms"
+2406,789,2441,3487,言 149.13,20,譬,pì,4,"metaphor, simile, example"
+2407,789,2443,1295,示 113.4,8,祈,qí,2,"pray; entreat, beseech"
+2408,789,2445,2831,聿 129.7,13,肆,sì,4,"indulge; excess; numeral four; particle meaning now, therefore; shop"
+2409,789,2447,1875,車 159.6,10,轿,jiào,4,"sedan-chair, palanquin"
+2410,789,2448,2575,木 75.8,12,棚,péng,2,"tent, awning; booth; shed"
+2411,789,2449,1253,水 85.5,8,泣,qì,4,"cry, sob, weep"
+2412,789,2450,2801,尸 44.9,12,屡,lǚ,3,"frequently, often, again and again"
+2413,789,2451,3477,足 157.13,20,躁,zào,4,"tense, excited, irritable"
+2414,789,2453,2368,几 16.9,11,凰,huáng,2,female phoenix
+2415,789,2454,3016,水 85.10,13,溢,yì,4,"overflow, brim over; full"
+2416,789,2456,1863,石 112.5,10,砸,zá,2,"smash, crush, break; pound, mash"
+2417,789,2459,437,巾 50.3,6,帆,fān,1,sail; boat
+2418,789,2460,1837,木 75.6,10,栖,qī,1,perch; roost; stay
+2419,789,2461,2783,穴 116.7,12,窜,cuàn,4,"run away; revise, edit; expel"
+2420,789,2462,51,丶 3.2,3,丸,wán,2,"small round object; pellet, pill"
+2421,789,2463,1060,車 159.4,8,斩,zhǎn,3,"cut, chop, sever; behead"
+2422,789,2464,2519,土 32.9,12,堤,dī,1,dike
+2423,789,2465,2836,土 32.10,13,塌,tā,1,"fall in ruins, collapse"
+2424,789,2466,1115,貝 154.4,8,贩,fàn,4,"peddler, hawker, street merchant"
+2425,789,2467,2238,厂 27.9,11,厢,xiāng,1,"side-room, wing; theatre box"
+2426,789,2468,2176,手 64.8,11,掀,xiān,1,"lift, raise; stir"
+2427,789,2470,1128,丿 4.7,8,乖,guāi,1,"rebel; crafty, shrewd"
+2428,789,2471,2468,言 149.9,11,谜,mí,2,"riddle, conundrum; puzzle"
+2429,789,2472,1793,手 64.7,10,捏,niē,1,pick with fingers; knead; mold
+2430,789,2473,2396,門 169.8,11,阎,yán,2,village gate; surname
+2431,789,2474,3018,水 85.10,13,滨,bīn,1,"beach, sea coast; river bank"
+2432,789,2475,1072,虍 141.2,8,虏,lǔ,3,"to capture, imprison, seize; a prison"
+2433,789,2476,2259,匕 21.9,11,匙,shi,0,spoon; surname
+2434,789,2477,672,艸 140.4,7,芦,lú,2,"rushes, reeds"
+2435,789,2479,1536,卩 26.6,9,卸,xiè,4,lay down; retire from office
+2436,789,2480,1260,水 85.5,8,沼,zhǎo,3,"lake, fishpond, swamps"
+2437,789,2481,1531,金 167.4,9,钥,yào,4,key; lock
+2438,789,2482,1840,木 75.6,10,株,zhū,1,numerary adjunct for trees; root
+2439,789,2483,2464,示 113.7,11,祷,dǎo,3,"pray; entreat, beg, plead; prayer"
+2440,789,2484,2042,刀 18.8,10,剖,pōu,1,"split in two, slice; dissect"
+2441,789,2485,3075,火 86.10,14,熙,xī,1,"bright, splendid, glorious"
+2442,789,2486,1507,口 30.6,9,哗,huā,1,rushing sound; gush forward
+2443,789,2487,3311,刀 18.13,15,劈,pī,1,"cut apart, split, chop"
+2444,789,2488,1266,心 61.5,8,怯,qiè,4,"lacking in courage, afraid"
+2445,789,2490,1997,肉 130.6,10,胳,gē,1,"armpit, arms"
+2446,789,2491,1846,木 75.6,10,桩,zhuāng,1,"stake, post; affair, matter"
+2447,789,2492,2828,玉 96.10,13,瑰,guī,1,"extraordinary, fabulous; rose"
+2448,789,2494,2197,女 38.8,11,娶,qǔ,3,"marry, take wife"
+2449,789,2495,1239,水 85.5,8,沫,mò,4,"froth, foam, bubbles, suds"
+2450,789,2496,2929,口 30.10,13,嗓,sǎng,3,voice; throat
+2451,789,2498,2568,火 86.8,12,焚,fén,2,burn
+2452,789,2499,2426,水 85.8,11,淘,táo,2,wash in sieve; weed out
+2453,789,2500,3183,女 38.11,14,嫩,nèn,4,"soft, tender, delicate; young"
+2454,789,2501,2995,音 180.4,13,韵,yùn,4,rhyme; vowel
+2455,789,2504,1533,金 167.4,9,钧,jūn,1,unit of measure equivalent to thirty catties
+2456,789,2505,1473,立 117.4,9,竖,shù,4,"perpendicular, vertical; erect"
+2457,789,2506,1923,山 46.7,10,峻,jùn,4,"high, steep, towering; stern"
+2458,789,2507,1989,豸 153.3,10,豹,bào,4,"leopard, panther; surname"
+2459,789,2508,1781,手 64.7,10,捞,lāo,1,"scoop out of water; dredge, fish"
+2460,789,2509,2209,艸 140.8,11,菊,jú,2,chrysanthemum
+2461,789,2510,2903,邑 163.11,13,鄙,bǐ,3,mean; low
+2462,789,2511,3129,鬼 194.5,14,魄,pò,4,vigor; body; dark part of moon
+2463,789,2512,2336,儿 10.9,11,兜,dōu,1,pouch
+2464,789,2513,1483,口 30.6,9,哄,hōng,1,"coax; beguile, cheat, deceive"
+2465,789,2514,2979,頁 181.7,13,颖,yǐng,3,rice tassel; sharp point; clever
+2466,789,2515,3258,金 167.10,15,镑,bàng,4,pound sterling
+2467,789,2516,2133,尸 44.7,10,屑,xiè,4,"bits, scraps, crumbs, fragments"
+2468,789,2519,1272,心 61.5,8,怡,yí,2,"harmony; pleasure, joy; be glad"
+2469,789,2520,2437,水 85.8,11,渗,shèn,4,"soak through, infiltrate"
+2470,789,2521,764,禾 115.2,7,秃,tū,1,bald
+2471,789,2523,714,日 72.3,7,旱,hàn,4,drought; dry; dry land
+2472,789,2527,3307,言 149.13,15,谴,qiǎn,3,"reprimand, scold, abuse"
+2473,789,2529,3261,禾 115.10,15,稻,dào,4,"rice growing in field, rice plant"
+2474,789,2530,2656,金 167.7,12,铸,zhù,4,"melt, cast; coin, mint"
+2475,789,2534,1878,比 81.6,10,毙,bì,4,kill; die violent death
+2476,789,2535,1687,心 61.6,9,恍,huǎng,3,seemingly; absent-minded
+2477,789,2536,1116,貝 154.5,8,贬,biǎn,3,"decrease, lower; censure, criticize"
+2478,789,2537,2061,火 86.6,10,烛,zhú,2,"candle, taper; shine, illuminate"
+2479,789,2538,1764,馬 187.6,9,骇,hài,4,"terrify, frighten, scare; shock"
+2480,789,2539,673,艸 140.4,7,芯,xīn,1,pith from rush (juncus effusus)
+2481,789,2544,375,木 75.2,6,朽,xiǔ,3,"decayed, rotten; rot, decay"
+2482,789,2546,780,人 9.5,7,佣,yōng,1,commission fee
+2483,789,2548,2882,石 112.8,13,碌,lù,4,"rough, uneven, rocky; mediocre"
+2484,789,2549,453,辵 162.3,6,迄,qì,4,"extend, reach; until; till"
+2485,789,2551,1401,刀 18.8,9,荆,jīng,1,thorns; brambles; my wife; cane
+2486,789,2553,2593,隹 172.4,12,雁,yàn,4,wild goose
+2487,789,2554,1339,糸 120.5,8,绅,shēn,1,"girdle; tie, bind; gentry"
+2488,789,2557,1718,言 149.7,9,诵,sòng,4,"recite, chant, repeat"
+2489,789,2560,3223,酉 164.8,15,醇,chún,2,"rich, good as wine; pure, unmixed"
+2490,789,2561,2319,竹 118.5,11,笛,dí,2,bamboo flute; whistle
+2491,789,2562,2711,禸 114.8,12,禽,qín,2,"birds, fowl; surname;; capture"
+2492,789,2563,152,勹 20.2,4,勿,wù,4,"must not, do not; without, never"
+2493,789,2565,2898,目 109.9,13,瞄,miáo,2,take aim at; look at
+2494,789,2566,3254,巾 50.12,15,幢,chuáng,2,carriage curtain; sun screen
+2495,789,2568,2896,目 109.9,13,睹,dǔ,3,"look at, gaze at; observe"
+2496,789,2569,1925,貝 154.6,10,贿,huì,4,"bribe; bribes; riches, wealth"
+2497,789,2572,745,口 30.4,7,呜,wū,1,"sound of crying, sobbing"
+2498,789,2573,1369,手 64.6,9,拱,gǒng,3,"fold hands on breast; bow, salute"
+2499,789,2575,3070,艸 140.11,14,蔑,miè,4,"disdain, disregard; slight"
+2500,789,2577,3044,糸 120.10,13,缚,fù,4,to tie
+2501,789,2579,3359,竹 118.11,16,篷,péng,2,"awning, covering; sail; boat"
+2502,789,2580,2415,水 85.8,11,淹,yān,1,"drown; cover with liquid, steep"
+2503,789,2581,2716,肉 130.8,12,腕,wàn,4,wrist
+2504,789,2584,1217,十 24.6,8,卒,zú,2,"soldier; servant; at last, finally"
+2505,789,2585,2195,力 19.9,11,勘,kān,1,investigate; compare; collate
+2506,789,2586,3475,香 186.11,20,馨,xīn,1,"fragrant, aromatic; distant fragrance"
+2507,789,2587,1854,辵 162.7,10,逗,dòu,4,"tempt, allure, arouse, stir"
+2508,789,2588,809,田 102.2,7,甸,diān,1,suburbs of capital; govern; crops
+2509,789,2589,1520,貝 154.5,9,贱,jiàn,4,"mean, low; cheap, worthless"
+2510,789,2591,852,火 86.3,7,灿,càn,4,"vivid, illuminating; bright"
+2511,789,2592,2607,攴 66.8,12,敞,chǎng,3,"roomy, spacious, open, broad"
+2512,789,2593,3106,虫 142.8,14,蜡,là,4,"wax; candle; waxy, glazed; maggot; as a non-simplified form sometimes used as an equivalent to 䄍, meaning imperial harvest"
+2513,789,2594,261,囗 31.2,5,囚,qiú,2,"prisoner, convict; confine"
+2514,789,2596,2560,辛 160.5,12,辜,gū,1,"crime, criminal offense"
+2515,789,2597,1390,土 32.6,9,垫,diàn,4,"advance money, pay for another"
+2516,789,2598,923,女 38.4,7,妒,dù,4,"jealous, envious"
+2517,789,2599,2963,鬼 194.4,13,魁,kuí,2,chief; leader; best; monstrous
+2518,789,2600,2796,言 149.10,12,谣,yáo,2,"sing; folksong, ballad; rumor"
+2519,789,2601,3026,宀 40.11,13,寞,mò,4,"silent, still, lonely, solitary"
+2520,789,2602,2934,虫 142.7,13,蜀,shǔ,3,name of an ancient state
+2521,789,2603,284,用 101.0,5,甩,shuǎi,3,"throw away, discard"
+2522,789,2604,2414,水 85.8,11,涯,yá,2,"border, horizon, shore"
+2523,789,2605,1033,木 75.4,8,枕,zhěn,3,pillow
+2524,789,2606,84,一 1.3,4,丐,gài,4,beggar; beg; give
+2525,789,2609,1256,水 85.5,8,泌,mì,4,"to seep out, excrete"
+2526,789,2610,2708,辵 162.9,12,逾,yú,2,"go over, pass over, exceed"
+2527,789,2611,241,口 30.2,5,叮,dīng,1,exhort or enjoin repeatedly
+2528,789,2613,3430,火 86.13,17,燥,zào,4,"dry, parched, arid; quick-tempered"
+2529,789,2616,1021,木 75.4,8,枢,shū,1,door hinge; pivot; center of power
+2530,789,2619,329,弓 57.2,5,弘,hóng,2,"enlarge, expand; liberal, great"
+2531,789,2620,1957,人 9.8,10,倚,yǐ,3,"rely on, depend on; lean heavily"
+2532,789,2621,1566,人 9.7,9,侮,wǔ,3,"insult, ridicule, disgrace"
+2533,789,2624,3308,鳥 196.10,15,鹤,hè,4,crane; Grus species (various)
+2534,789,2625,1612,食 184.6,9,蚀,shí,2,nibble away; erode; eclipse
+2535,789,2626,2018,水 85.6,10,浆,jiāng,1,any thick fluid; starch; broth
+2536,789,2631,3399,雨 173.9,17,霜,shuāng,1,frost; crystallized; candied
+2537,789,2633,3212,艸 140.14,15,蕴,yùn,4,"to collect, gather, store; profound"
+2538,789,2635,2495,糸 120.8,11,绸,chóu,2,"silk cloth, satin damask"
+2539,789,2636,434,山 46.3,6,屿,yǔ,3,island
+2540,789,2639,512,女 38.3,6,妆,zhuāng,1,"to adorn oneself, dress up, use make-up"
+2541,789,2640,1796,手 64.7,10,捆,kǔn,3,"tie up; bind, truss up; bundle"
+2542,789,2645,213,一 1.4,5,丙,bǐng,3,third; 3rd heavenly stem
+2543,789,2646,2382,疒 104.6,11,痒,yǎng,3,itch
+2544,789,2647,1527,金 167.4,9,钞,chāo,1,"paper money, bank notes; copy"
+2545,789,2649,92,犬 94.0,4,犬,quǎn,3,dog; radical number 94
+2546,789,2650,1972,身 158.3,10,躬,gōng,1,"body; personally, in person"
+2547,789,2651,1723,尸 44.6,9,昼,zhòu,4,"daytime, daylight"
+2548,789,2652,3455,艸 140.16,19,藻,zǎo,3,"splendid, magnificent; algae"
+2549,789,2655,2597,頁 181.6,12,颊,jiá,2,"cheeks, jaw"
+2550,789,2656,2744,大 37.9,12,奠,diàn,4,pay respect; settle
+2551,789,2657,2549,力 19.11,12,募,mù,4,"levy, raise; summon; recruit"
+2552,789,2658,1818,耳 128.4,10,耽,dān,1,indulge in; be negligent
+2553,789,2660,1317,阜 170.6,8,陋,lòu,4,"narrow; crude, coarse; ugly"
+2554,789,2661,1146,人 9.6,8,侣,lǚ,3,companion; associate with
+2555,789,2662,3130,鬼 194.5,14,魅,mèi,4,"kind of forest demon, elf"
+2556,789,2665,1470,虍 141.3,9,虐,nüè,4,"cruel, harsh, oppressive"
+2557,789,2666,2475,土 32.9,11,堕,duò,4,"fall, sink, let fall; degenerate"
+2558,789,2668,1830,艸 140.7,10,莹,yíng,2,"luster of gems; bright, lustrous"
+2559,789,2669,1420,艸 140.7,9,荫,yīn,1,"shade, shelter; protect"
+2560,789,2670,1604,犬 94.6,9,狡,jiǎo,3,"cunning, deceitful, treacherous"
+2561,789,2671,1638,門 169.6,9,阀,fá,2,powerful and influential group
+2562,789,2672,1763,糸 120.6,9,绞,jiǎo,3,"twist, wring; intertwine; winch"
+2563,789,2673,3142,肉 130.10,14,膏,gāo,1,"grease, fat; paste, ointment"
+2564,789,2674,1371,土 32.6,9,垮,kuǎ,3,"be defeated, fail, collapse"
+2565,789,2675,1014,艸 140.5,8,茎,jīng,1,"stem, stalk"
+2566,789,2676,2814,糸 120.9,12,缅,miǎn,3,"distant, remote; think of"
+2567,789,2677,2621,口 30.9,12,喇,lǎ,3,"horn, bugle; lama; final particle"
+2568,789,2679,2536,手 64.9,12,搅,jiǎo,3,"disturb, agitate, stir up"
+2569,789,2680,3186,几 16.12,14,凳,dèng,4,bench; stool
+2570,789,2682,56,丨 2.2,3,丫,yā,1,forked; bifurcation
+2571,789,2686,2577,木 75.8,12,棺,guān,1,coffin
+2572,789,2687,1817,耳 128.4,10,耿,gěng,3,"bright, shining; have guts"
+2573,789,2688,2819,糸 120.9,12,缔,dì,4,"tie, join, connect; connection"
+2574,789,2689,3382,心 61.13,16,懈,xiè,4,"idle, relaxed, remiss"
+2575,789,2690,3040,女 38.10,13,嫉,jí,2,jealousy; be jealous of
+2576,789,2691,851,火 86.3,7,灶,zào,4,"kitchen stove, cooking stove"
+2577,789,2692,156,勹 20.2,4,匀,yún,2,equal
+2578,789,2694,2349,鳥 196.6,11,鸽,gē,1,"pigeon, dove; Columba species (various)"
+2579,789,2696,2605,凵 17.10,12,凿,záo,2,"chisel; bore, pierce"
+2580,789,2697,929,糸 120.4,7,纬,wěi,3,woof; parallels of latitude
+2581,789,2698,1259,水 85.5,8,沸,fèi,4,"boil, bubble up, gush"
+2582,789,2699,2627,田 102.7,12,畴,chóu,2,"farmland, arable land; category"
+2583,789,2701,2624,辵 162.9,12,遏,è,4,"stop, suppress, curb, check; a bar"
+2584,789,2702,1657,火 86.5,9,烁,shuò,4,"shine, glitter, sparkle"
+2585,789,2703,2927,口 30.10,13,嗅,xiù,4,"smell, scent, sniff; olfactive"
+2586,789,2704,247,口 30.2,5,叭,bā,1,trumpet
+2587,789,2705,3053,火 86.11,14,熬,áo,2,"cook down, to boil; endure"
+2588,789,2708,2242,大 37.9,11,奢,shē,1,"extravagant, wasteful; exaggerate"
+2589,789,2709,987,手 64.5,8,拙,zhuō,1,"stupid, clumsy, crude; convention"
+2590,789,2710,1429,木 75.5,9,栋,dòng,4,main beams supporting house
+2591,789,2711,2672,毛 82.8,12,毯,tǎn,3,"rug, carpet, blanket"
+2592,789,2713,1451,石 112.4,9,砂,shā,1,"sand; pebbles, gravel; gritty"
+2593,789,2714,1821,艸 140.8,10,莽,mǎng,3,"thicket, underbrush; poisonous"
+2594,789,2715,1255,水 85.5,8,泻,xiè,4,"drain off, leak; flow, pour down"
+2595,789,2716,960,土 32.5,8,坪,píng,2,level ground; Japanese measure
+2596,789,2717,2228,木 75.7,11,梳,shū,1,comb; brush
+2597,789,2719,4813,日 72.7,11,晤,wù,4,have interview with; meet
+2598,789,2720,2948,禾 115.8,13,稚,zhì,4,"young, immature; childhood"
+2599,789,2722,3107,虫 142.8,14,蝇,yíng,2,flies
+2600,789,2723,1811,手 64.7,10,捣,dǎo,3,"hull; thresh; beat, attack"
+2601,789,2724,1058,頁 181.2,8,顷,qǐng,3,a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean
+2602,789,2726,2883,尢 43.10,13,尴,gān,1,embarrassed; ill at ease
+2603,789,2728,4057,言 149.6,8,诧,chà,4,"be surprised, be shocked"
+2604,789,2729,705,尢 43.4,7,尬,gà,4,"limp, staggering gait; embarrass"
+2605,789,2731,3479,口 30.18,20,嚼,jué,2,"prattle, be glib"
+2606,789,2732,2740,羊 123.6,12,羡,xiàn,4,"envy, admire; praise; covet"
+2607,789,2734,869,水 85.4,7,沪,hù,4,Shanghai; river near Shanghai
+2608,789,2735,727,日 72.3,7,旷,kuàng,4,"extensive, wide, broad; empty"
+2609,789,2736,2220,彡 59.8,11,彬,bīn,1,"cultivated, well-bred"
+2610,789,2737,664,艸 140.4,7,芽,yá,2,"bud, sprout, shoot"
+2611,789,2740,3092,石 112.9,14,碳,tàn,4,carbon
+2612,789,2741,1490,口 30.6,9,咧,liě,3,"stretch mouth, grimace, grin"
+2613,789,2742,2443,心 61.8,11,惕,tì,4,"be cautious, careful, alert"
+2614,789,2745,2204,艸 140.8,11,萝,luó,2,type of creeping plant; turnip
+2615,789,2746,864,水 85.4,7,汹,xiōng,1,"turbulent; noisy, restless"
+2616,789,2747,2970,肉 130.9,13,腥,xīng,1,"raw meat; rank, strong-smelling"
+2617,789,2748,3027,穴 116.8,13,窥,kuī,1,"peep, watch, spy on, pry"
+2618,789,2750,3293,水 85.12,15,潭,tán,2,"deep pool, lake; deep, profound"
+2619,789,2754,1398,手 64.6,9,拯,zhěng,3,"help, save, aid; lift, raise"
+2620,789,2756,3299,水 85.12,15,澄,chéng,2,"purify water by allowing sediment to settle; clear, pure"
+2621,789,2757,2206,艸 140.8,11,萎,wēi,1,"wither, wilt"
+2622,789,2759,2072,水 85.7,10,涡,wō,1,"swirl, whirlpool, eddy"
+2623,789,2760,3011,水 85.10,13,滔,tāo,1,"overflow; rushing water, a torrent"
+2624,789,2762,3017,水 85.10,13,溯,sù,4,"go upstream, go against current; formerly"
+2625,789,2764,3088,酉 164.7,14,酿,niàng,4,"brew, ferment"
+2626,789,2767,3101,目 109.9,14,瞅,chǒu,3,"see, look, gaze at"
+2627,789,2768,3067,日 72.11,14,暮,mù,4,"evening, dusk, sunset; ending"
+2628,789,2770,1704,言 149.7,9,诫,jiè,4,"warn, admonish; warning"
+2629,789,2771,1170,斤 69.4,8,斧,fǔ,3,"axe, hatchet; chop, hew"
+2630,789,2773,2409,火 86.7,11,焕,huàn,4,shining
+2631,789,2775,773,人 9.5,7,佑,yòu,4,"help, protect, bless"
+2632,789,2778,2646,口 30.9,12,喧,xuān,1,"lively, noisy; clamor, talk loudly"
+2633,789,2780,815,刀 18.5,7,删,shān,1,to cut; delete
+2634,789,2782,788,人 9.5,7,伺,cì,4,"serve, wait upon, attend; examine"
+2635,789,2784,2143,女 38.7,10,娥,é,2,be beautiful; good; surname
+2636,789,2785,2225,木 75.7,11,梢,shāo,1,pointed tip of something long like a branch; rudder
+2637,789,2786,629,土 32.4,7,坝,bà,4,embankment; dam
+2638,789,2788,3219,攴 66.11,15,敷,fū,1,"spread, diffuse; apply, paint"
+2639,789,2789,3298,水 85.12,15,澜,lán,2,"overflowing; waves, ripples"
+2640,789,2792,843,冫 15.5,7,冶,yě,3,"smelt, fuse metals; cast, found"
+2641,789,2794,1375,手 64.6,9,挠,náo,2,"scratch; disturb, bother; submit"
+2642,789,2795,2535,手 64.9,12,搂,lǒu,3,"hug, embrace; drag, pull"
+2643,789,2798,2483,女 38.8,11,婉,wǎn,3,"amiable, congenial; restrained"
+2644,789,2799,3349,口 30.13,16,噪,zào,4,be noisy; chirp loudly
+2645,789,2800,3264,禾 115.10,15,稼,jià,4,sow grain; sheaves of grain
+2646,789,2803,1779,皿 108.5,10,盏,zhǎn,3,small cup or container
+2647,789,2804,1776,匸 23.9,10,匿,nì,4,hide; go into hiding
+2648,789,2806,3029,宀 40.10,13,寝,qǐn,3,"sleep, rest; bed chamber"
+2649,789,2807,2518,手 64.9,12,揽,lǎn,3,"grasp, take hold of; monopolize"
+2650,789,2808,3494,骨 188.13,21,髓,suǐ,3,"bone marrow; essences, substances"
+2651,789,2809,1134,禾 115.3,8,秉,bǐng,3,"grasp, hold; bundle; authority"
+2652,789,2810,1894,口 30.7,10,哺,bǔ,3,chew food; feed
+2653,789,2811,264,矢 111.0,5,矢,shǐ,3,"arrow, dart; vow, swear"
+2654,789,2813,1109,巾 50.5,8,帜,zhì,4,"flag, pennant; sign; fasten"
+2655,789,2815,3103,口 30.11,14,嗽,sòu,4,"cough, gargle, clear throat"
+2656,789,2816,1374,手 64.6,9,挟,xié,2,clasp under arm; hold to bosom
+2657,789,2817,1537,缶 121.3,9,缸,gāng,1,"earthen jug, crock, cistern"
+2658,789,2818,2540,手 64.9,12,揉,róu,2,"rub, massage; crush by hand"
+2659,789,2819,2968,肉 130.9,13,腻,nì,4,"greasy, oily, dirty; smooth"
+2660,789,2820,592,馬 187.3,6,驯,xún,2,"tame, docile, obedient"
+2661,789,2821,2815,糸 120.9,12,缆,lǎn,3,"hawser, heavy-duty rope, cable"
+2662,789,2823,3283,疒 104.10,15,瘫,tān,1,"paralysis, palsy, numbness"
+2663,789,2824,1118,貝 154.4,8,贮,zhù,4,"store, stockpile, hoard"
+2664,789,2825,1173,爪 87.4,8,觅,mì,4,seek; search
+2665,789,2826,3422,月 74.14,17,朦,méng,2,condition or appearance of moon
+2666,789,2827,3271,人 9.13,15,僻,pì,4,"out-of-the-way, remote; unorthodox"
+2667,789,2829,3069,艸 140.11,14,蔓,màn,4,"creeping plants, tendrils, vines"
+2668,789,2831,2647,山 46.9,12,嵌,qiàn,4,"inlay, set in; fall into; rugged"
+2669,789,2832,4491,虍 141.4,10,虔,qián,2,act with reverence; reverent
+2670,789,2833,1899,田 102.5,10,畔,pàn,4,boundary path dividing fields
+2671,789,2835,3090,石 112.9,14,碟,dié,2,"small dish, plate"
+2672,789,2837,1592,肉 130.5,9,胧,lóng,2,condition or appearance of moon
+2673,789,2839,3442,足 157.11,18,蹦,bèng,4,"hop, leap, jump; bright"
+2674,789,2841,1677,水 85.6,9,浏,liú,2,clear; bright; whistling
+2675,789,2842,5548,衣 145.7,13,裔,yì,4,"progeny, descendants, posterity"
+2676,789,2844,255,口 30.2,5,叨,dāo,1,talkative; quarrelous
+2677,789,2845,562,言 149.4,6,诀,jué,2,"take leave of, bid farewell"
+2678,789,2846,502,日 72.2,6,旭,xù,4,rising sun; brilliance; radiant
+2679,789,2847,1498,虫 142.3,9,虾,xiā,1,"shrimp, prawn"
+2680,789,2851,1040,木 75.4,8,枣,zǎo,3,"date tree; dates, jujubes; surname"
+2681,789,2855,725,口 30.4,7,呕,ǒu,3,"vomit; annoy, enrage"
+2682,789,2857,229,凵 17.3,5,凸,tū,1,"protrude, bulge out, convex"
+2683,789,2858,3157,火 86.10,14,熄,xī,1,"put out, extinguish, quash"
+2684,789,2862,260,凵 17.3,5,凹,āo,1,"concave, hollow, depressed; a pass, valley"
+2685,789,2863,2652,貝 154.8,12,赎,shú,2,"buy, redeem; ransome; atone for"
+2686,789,2864,103,屮 45.1,4,屯,tún,2,"village, hamlet; camp; station"
+2687,789,2865,3275,肉 130.11,15,膛,táng,2,"chest; hollow space, cavity"
+2688,789,2866,1667,水 85.6,9,浇,jiāo,1,"spray, water, sprinkle"
+2689,789,2867,853,火 86.3,7,灼,zhuó,2,burn; broil; cauterize; bright
+2690,789,2870,2584,木 75.8,12,棘,jí,2,"jujube tree; thorns, brambles"
+2691,789,2871,3216,木 75.12,15,橡,xiàng,4,chestnut oak; rubber tree; rubber
+2692,789,2873,2245,耳 128.5,11,聋,lóng,2,deaf
+2693,789,2874,1736,女 38.6,9,姥,lǎo,3,maternal grandmother; midwife
+2694,789,2878,1247,水 85.5,8,沮,jǔ,3,"stop, prevent; defeated, dejected"
+2695,789,2879,2203,艸 140.8,11,萌,méng,2,"bud, sprout"
+2696,789,2880,1561,人 9.7,9,俏,qiào,4,"like, similar; resemble; pretty"
+2697,789,2882,3064,手 64.12,14,撇,piē,1,"discard, abandon, throw away"
+2698,789,2884,2742,米 119.6,12,粪,fèn,4,"manure, dung, shit, excrement, night soil"
+2699,789,2891,1567,人 9.7,9,俭,jiǎn,3,"temperate, frugal, economical"
+2700,789,2892,1107,巾 50.5,8,帖,tiē,1,invitation card; notice
+2701,789,2893,3000,火 86.9,13,煎,jiān,1,fry in fat or oil; boil in water
+2702,789,2894,2820,糸 120.9,12,缕,lǚ,3,"thread; detailed, precise"
+2703,789,2896,3418,竹 118.11,17,簇,cù,4,"swarm, crowd together, cluster"
+2704,789,2897,2563,木 75.8,12,棱,léng,2,"squared timber; angle, edge"
+2705,789,2899,738,口 30.4,7,呐,nà,4,"raise voice, yell out loud, shout; stammer"
+2706,789,2901,3102,土 32.11,14,墅,shù,4,"villa, country house"
+2707,789,2903,2087,火 86.6,10,烫,tàng,4,"scald, heat; wash; iron clothes"
+2708,789,2904,2634,虫 142.6,12,蛙,wā,1,frog
+2709,789,2905,96,歹 78.0,4,歹,dǎi,3,"bad, vicious, depraved, wicked"
+2710,789,2907,2554,艸 140.9,12,葱,cōng,1,"scallions, leeks, green onions"
+2711,789,2911,2989,广 53.11,13,廓,kuò,4,"broad, wide, open, empty; to expand"
+2712,789,2912,551,言 149.4,6,讳,huì,4,conceal; shun; regard as taboo
+2713,789,2915,3468,瓜 97.14,19,瓣,bàn,4,petal; segment; valves
+2714,789,2916,2310,矢 111.6,11,矫,jiǎo,3,"correct, rectify, straighten out"
+2715,789,2918,1017,木 75.4,8,枉,wǎng,3,"useless, in vain; bent, crooked"
+2716,789,2921,2503,玉 96.8,12,琢,zuó,2,polish jade; cut jade
+2717,789,2922,173,言 149.2,4,讥,jī,1,"ridicule, jeer, mock; inspect"
+2718,789,2924,3028,穴 116.8,13,窟,kū,1,"hole, cave; cellar; underground"
+2719,789,2925,2350,攴 66.7,11,敛,liǎn,3,"draw back, fold back; collect"
+2720,789,2928,1591,肉 130.5,9,胚,pēi,1,embryo; unfinished things
+2721,789,2930,2490,糸 120.8,11,绰,chuò,4,"graceful, delicate; spacious"
+2722,789,2934,1554,竹 118.3,9,竿,gān,1,bamboo pole; penis
+2723,789,2935,3170,心 61.11,14,慷,kāng,1,"ardent; generous, magnanimous"
+2724,789,2937,2940,金 167.8,13,锤,chuí,2,balance weight on scale; hammer
+2725,789,2938,1843,木 75.6,10,栓,shuān,1,"wooden peg, post or stick"
+2726,789,2939,2017,木 75.6,10,桨,jiǎng,3,"oar, paddle"
+2727,789,2940,1901,虫 142.4,10,蚊,wén,2,mosquito; gnat
+2728,789,2941,3227,石 112.10,15,磅,bàng,4,pound; weigh
+2729,789,2943,2440,心 61.8,11,惭,cán,2,"ashamed, humiliated; shameful"
+2730,789,2944,3451,戈 62.14,18,戳,chuō,1,"prick, stab; stamp, seal, chop"
+2731,789,2947,2724,食 184.9,12,馈,kuì,4,offer food superior; send gift
+2732,789,2949,2760,水 85.9,12,溅,jiàn,4,"sprinkle, spray; spill, splash"
+2733,789,2951,1525,金 167.4,9,钙,gài,4,calcium
+2734,789,2952,3397,石 112.12,17,礁,jiāo,1,reef; jetty; submerged rocks
+2735,789,2953,3149,彡 59.11,14,彰,zhāng,1,"clear, manifest, obvious"
+2736,789,2954,3432,谷 150.10,17,豁,huō,1,"open up, clear; exempt"
+2737,789,2958,3055,土 32.12,14,墟,xū,1,high mound; hilly countryside; wasteland
+2738,789,2960,3441,目 109.13,18,瞻,zhān,1,look; look out for; respect
+2739,789,2963,2441,心 61.8,11,悼,dào,4,"grieve, mourn, lament; grieved"
+2740,789,2965,961,手 64.5,8,拣,jiǎn,3,choose; select; pick up; gather
+2741,789,2966,2755,水 85.9,12,渺,miǎo,3,"endlessly long, boundless, vast"
+2742,789,2969,858,水 85.4,7,汰,tài,4,"excessive; scour, wash out"
+2743,789,2970,5589,心 61.10,13,慑,shè,4,"afraid, scared, fearful"
+2744,789,2974,3497,金 167.17,22,镶,xiāng,1,"insert, inlay, set, mount; fill"
+2745,789,2977,1493,足 157.2,9,趴,pā,1,"lying prone, leaning over"
+2746,789,2978,2494,糸 120.8,11,绷,běng,3,"bind, draw firmly, strap"
+2747,789,2979,2787,穴 116.7,12,窘,jiǒng,3,embarrassed; hard-pressed
+2748,789,2984,1857,酉 164.3,10,酌,zhuó,2,serve wine; feast; deliberate
+2749,789,2985,1668,水 85.6,9,浊,zhuó,2,"muddy, turbid, dirty, filthy"
+2750,789,2987,3315,手 64.13,16,撼,hàn,4,"move, shake; (Cant.) to fight"
+2751,789,2988,2902,口 30.10,13,嗜,shì,4,"be fond of, have weakness for"
+2752,789,2989,354,手 64.3,6,扛,káng,2,carry on shoulders; lift
+2753,789,2991,3225,石 112.10,15,磕,kē,1,"hit; collide, knock into; sound"
+2754,789,2992,2601,羽 124.6,12,翘,qiào,4,"turn up, lift, elevate, raise"
+2755,789,2993,3214,木 75.11,15,槽,cáo,2,"trough; manger; vat, tank; groove; a distillery"
+2756,789,2994,2419,水 85.8,11,淌,tǎng,3,trickle; flow down; drip
+2757,789,2996,2950,頁 181.7,13,颓,tuí,2,"ruined, decayed; disintegrate"
+2758,789,2997,3119,火 86.10,14,熏,xūn,1,"smoke, fog, vapor; smoke, cure"
+2759,789,3001,759,牛 93.3,7,牡,mǔ,3,male of animals; bolt of door
+2760,789,3002,2499,糸 120.8,11,缀,zhuì,4,"patch together, link, connect"
+2761,789,3003,1581,彳 60.6,9,徊,huái,2,"linger, walk to and fro, hesitain"
+2762,789,3005,1188,肉 130.4,8,肪,fáng,2,animal fat
+2763,789,3006,2083,水 85.7,10,涕,tì,4,"tear; snivel, nasal mucus"
+2764,789,3007,2722,夂 34.9,12,惫,bèi,4,"tired, weary, fatigued"
+2765,789,3012,1808,手 64.6,10,挚,zhì,4,"sincere, warm, cordial; surname"
+2766,789,3015,1349,糸 120.5,8,绎,yì,4,to unravel or unreel silk; to interpret
+2767,789,3018,1123,辵 162.5,8,迭,dié,2,"repeatedly, frequently"
+2768,789,3019,2897,目 109.8,13,睦,mù,4,"friendly, amiable, peaceful"
+2769,789,3020,2103,穴 116.5,10,窍,qiào,4,"hole, opening, aperture"
+2770,789,3023,866,水 85.4,7,沧,cāng,1,"blue, dark green; cold"
+2771,789,3024,1747,心 61.5,9,怠,dài,4,"idle, remiss, negligent; neglect"
+2772,789,3027,1089,口 30.5,8,咙,lóng,2,throat
+2773,789,3032,857,水 85.4,7,沛,pèi,4,"abundant, full, copious; sudden"
+2774,789,3034,2525,手 64.9,12,揣,chuāi,1,put things under clothes
+2775,789,3035,2294,山 46.8,11,崭,zhǎn,3,"high, steep, precipitous; new"
+2776,789,3037,3391,革 177.8,17,鞠,jū,1,"bow, bend; rear, raise, nourish"
+2777,789,3038,1719,土 32.6,9,垦,kěn,3,"cultivate, reclaim, to farm land"
+2778,789,3039,1674,水 85.6,9,洽,qià,4,"to blend with, be in harmony; to penetrate; to cover; a river in Shenxi"
+2779,789,3040,2287,口 30.8,11,唾,tuò,4,"spit, spit on; saliva"
+2780,789,3041,3330,木 75.12,16,橱,chú,2,"cabinet, wardrobe, cupboard"
+2781,789,3044,2991,疒 104.8,13,痰,tán,2,"phlegm, mucus, spittle"
+2782,789,3046,4230,山 46.6,9,峙,zhì,4,"stand erect, stand up; pile up"
+2783,789,3047,1442,木 75.5,9,柬,jiǎn,3,"letter, invitation; choose"
+2784,789,3052,3324,手 64.13,16,擎,qíng,2,"lift up, hold up, support"
+2785,789,3057,2308,金 167.6,11,铲,chǎn,3,"spade, shovel, trowel, scoop"
+2786,789,3060,1226,氏 83.4,8,氓,máng,2,people; subjects; vassals
+2787,789,3062,1312,弓 57.5,8,弧,hú,2,"wooden bow; arc, crescent"
+2788,789,3065,2527,手 64.9,12,揪,jiū,1,"grasp with hand, pinch"
+2789,789,3066,679,木 75.3,7,杠,gāng,1,"lever, pole, crowbar; sharpen"
+2790,789,3067,746,口 30.4,7,吭,kēng,1,throat
+2791,789,3068,2300,山 46.8,11,崛,jué,2,"towering, eminent; rise abruptly"
+2792,789,3071,659,手 64.4,7,抒,shū,1,express; eliminate; relieve
+2793,789,3078,2944,金 167.8,13,锯,jù,4,a saw; to saw; amputate
+2794,789,3081,1152,人 9.6,8,侈,chǐ,3,"luxurious, extravagant"
+2795,789,3083,2720,犬 94.10,12,猾,huá,2,"crafty, cunning, shrewd; deceitful"
+2796,789,3084,2339,彳 60.8,11,徘,pái,2,"walk back and forth, hesitate"
+2797,789,3086,3159,火 86.10,14,煽,shān,1,"stir up, incite, agitate, provoke"
+2798,789,3087,787,白 106.2,7,皂,zào,4,soap; black; menial servant
+2799,789,3088,2346,舟 137.5,11,舵,duò,4,"rudder, helm"
+2800,789,3089,2904,口 30.10,13,嗦,suo,0,suck
+2801,789,3090,813,犬 94.4,7,狈,bèi,4,a legendary animal with short forelegs which rode a wolf
+2802,789,3091,2849,革 177.4,13,靴,xuē,1,boots
+2803,789,3092,1785,手 64.7,10,捂,wǔ,3,resist
+2804,789,3095,1001,艸 140.5,8,苛,kē,1,"small, petty; harsh, rigorous"
+2805,789,3096,2315,禾 115.6,11,秽,huì,4,"dirty, unclean; immoral, obscene"
+2806,789,3098,2534,手 64.10,12,搓,cuō,1,to rub or roll between the hands
+2807,789,3101,1965,貝 154.6,10,赁,lìn,4,"rent, hire; hired person"
+2808,789,3112,2222,女 38.8,11,婪,lán,2,"covet; covetous, avaricious"
+2809,789,3113,2036,糸 120.4,10,紊,wěn,3,"confused, disorder"
+2810,789,3115,2812,女 38.9,12,婿,xù,4,son-in-law; husband
+2811,789,3116,3176,宀 40.11,14,寥,liáo,2,"few, scarce; empty, deserted"
+2812,789,3117,3077,儿 10.12,14,兢,jīng,1,"fearful, cautious, wary"
+2813,789,3118,3373,米 119.11,16,糙,cāo,1,"coarse, harsh, rough, unpolished rice"
+2814,789,3119,954,卜 25.6,8,卦,guà,4,fortune telling; tell fortunes
+2815,789,3120,2868,木 75.10,13,槐,huái,2,locust tree
+2816,789,3121,201,手 64.2,5,扒,bā,1,scratch; dig up; crawl; crouch
+2817,789,3123,891,示 113.3,7,祀,sì,4,"to sacrifice, worship"
+2818,789,3125,2809,糸 120.6,12,絮,xù,4,"waste cotton, raw silk or cotton"
+2819,789,3126,676,艸 140.4,7,芭,bā,1,plantain or banana palm; fragrant
+2820,789,3127,1307,尸 44.5,8,屉,tì,4,drawer; tray; pad; screen
+2821,789,3128,2733,疒 104.7,12,痪,huàn,4,"paralysis, numbness of limbs"
+2822,789,3130,2497,糸 120.8,11,绽,zhàn,4,"ripped seam, rend, crack"
+2823,789,3131,2100,宀 40.7,10,宵,xiāo,1,"night, evening, dark"
+2824,789,3134,802,山 46.4,7,岔,chà,4,"diverge, branch off; fork in road"
+2825,789,3135,1610,食 184.6,9,饵,ěr,3,"bait; bait, entice; dumplings"
+2826,789,3137,610,韋 178.3,7,韧,rèn,4,"strong and pliable, resilient"
+2827,789,3141,3289,心 61.12,15,憋,biē,1,to suppress inner feelings; hasty
+2828,789,3146,2338,血 143.5,11,衅,xìn,4,consecrate sacrificial vessels by smearing blood; rift
+2829,789,3149,5630,髟 190.4,14,髦,máo,2,flowing hair of young child
+2830,789,3151,2700,米 119.6,12,粤,yuè,4,Guangdong and Guangxi provinces; initial particle
+2831,789,3152,2807,阜 170.10,12,隘,ài,4,"narrow, confined; a strategic pass"
+2832,789,3155,2912,田 102.8,13,畸,jī,1,"odd, fractional, remainder, odds"
+2833,789,3156,1896,刀 18.8,10,剔,tī,1,pick out; scrape off; scrape meat
+2834,789,3159,2431,水 85.8,11,淀,diàn,4,"shallow water, swamp; swampy"
+2835,789,3161,2281,口 30.8,11,唬,hǔ,3,to intimidate; to scare
+2836,789,3165,2816,糸 120.9,12,缉,jī,1,to sew in close stitches
+2837,789,3166,5833,女 38.11,14,嫦,cháng,2,name of a moon goddess
+2838,789,3169,634,手 64.4,7,扳,bān,1,pull; drag; right itself
+2839,789,3170,1385,手 64.6,9,拴,shuān,1,"bind with rope, fasten"
+2840,789,3175,1886,辵 162.7,10,逞,chěng,3,"indulge oneself; brag, show off"
+2841,789,3178,985,手 64.5,8,拧,níng,2,"pinch; twist, wring; determined"
+2842,789,3187,2570,木 75.8,12,椒,jiāo,1,"pepper, spices"
+2843,789,3195,3448,水 85.15,18,瀑,pù,4,"waterfall, cascade; heavy rain"
+2844,789,3196,2753,水 85.9,12,渣,zhā,1,"refuse, dregs, lees, sediment"
+2845,789,3206,3178,聿 129.8,14,肇,zhào,4,"begin, commence, originate"
+2846,789,3208,3339,車 159.12,16,辙,zhé,2,"wagon ruts, wheel tracks"
+2847,789,3214,1689,心 61.6,9,恤,xù,4,"show pity; relieve, help"
+2848,789,3216,3160,水 85.11,14,潇,xiāo,1,sound of beating wind and rain
+2849,789,3217,2305,金 167.6,11,铝,lǚ,3,aluminum
+2850,789,3218,2079,水 85.7,10,涤,dí,2,"wash, cleanse, purify; sweep"
+2851,789,3221,1450,石 112.4,9,砌,qì,4,"to build, pile up; stone steps, brick walk"
+2852,789,3224,3638,阜 170.4,6,阱,jǐng,3,"pitfall, trap, snare"
+2853,789,3231,1511,口 30.6,9,哆,duō,1,"tremble, shiver, shudder, quiver"
+2854,789,3235,2456,穴 116.6,11,窒,zhì,4,"stop up, obstruct"
+2855,789,3237,2850,革 177.4,13,靶,bǎ,3,target; splashboard on chariot
+2856,789,3240,3426,辛 160.10,17,辫,biàn,4,"braid; pigtail, plait, queue"
+2857,789,3248,1380,手 64.6,9,拽,zhuāi,1,"drag, tow; throw; twist"
+2858,789,3249,3009,水 85.10,13,滤,lǜ,4,"strain out, filter"
+2859,789,3250,2901,目 109.8,13,睬,cǎi,3,notice; pay attention to
+2860,789,3253,2797,言 149.10,12,谤,bàng,4,"slander, libel"
+2861,789,3255,1792,手 64.7,10,捍,hàn,4,"ward off, guard against, defend"
+2862,789,3256,3137,子 39.11,14,孵,fū,1,"sit on eggs, hatch"
+2863,789,3258,3368,疒 104.11,16,瘾,yǐn,3,"rash; addiction, craving, habit"
+2864,789,3261,5680,石 112.10,14,磋,cuō,1,"polish, buff; scrutinize"
+2865,789,3263,2422,水 85.8,11,淆,xiáo,2,"confused, in disarray, mixed up"
+2866,789,3266,2058,火 86.6,10,烘,hōng,1,"bake, roast; dry by fire"
+2867,789,3270,1926,貝 154.6,10,赂,lù,4,bribe; give present
+2868,789,3273,2154,馬 187.7,10,骏,jùn,4,"excellent horse, noble steed"
+2869,789,3280,1227,門 169.5,8,闸,zhá,2,"sluice; flood gate, canal lock"
+2870,789,3285,3146,疒 104.10,14,瘟,wēn,1,"epidemic, plague, pestilence"
+2871,789,3287,2218,艸 140.8,11,菇,gū,1,mushrooms
+2872,789,3289,1661,刀 18.7,9,剃,tì,4,shave
+2873,789,3292,1659,火 86.5,9,炫,xuàn,4,"shine, glitter; show off, flaunt"
+2874,789,3295,1731,阜 170.7,9,陨,yǔn,3,"fall, slip; let fall; die"
+2875,789,3296,1927,貝 154.6,10,赃,zāng,1,"booty, loot, stolen goods; bribe"
+2876,789,3300,6136,肉 130.12,16,膳,shàn,4,"meals, provisions, board"
+2877,789,3308,2191,手 64.8,11,掺,càn,4,"mix, blend, adulterate"
+2878,789,3310,2772,心 61.9,12,惰,duò,4,"indolent, careless, lazy, idle"
+2879,789,3315,3958,人 9.6,8,侃,kǎn,3,upright and strong; amiable
+2880,789,3320,3405,目 109.12,17,瞩,zhǔ,3,"watch carefully, stare at, focus on"
+2881,789,3329,3320,艸 140.13,16,蕾,lěi,3,"buds, unopened flowers"
+2882,789,3333,1235,火 86.4,8,炊,chuī,1,cook; meal
+2883,789,3341,200,十 24.3,5,卉,huì,4,general term for plants; myriads
+2884,789,3342,3182,阜 170.13,14,隧,suì,4,"tunnel, underground passageway, path to a tomb"
+2885,789,3344,1929,金 167.5,10,钳,qián,2,"pincers, pliers, tongs; to compress"
+2886,789,3345,2275,口 30.8,11,啃,kěn,3,"gnaw, chew, bite"
+2887,789,3347,1635,門 169.6,9,闺,guī,1,"small arched door; boudoir, lady's chamber"
+2888,789,3348,3117,舌 135.8,14,舔,tiǎn,3,lick with tongue; taste
+2889,789,3349,3460,足 157.12,19,蹬,dēng,1,"step on, tread on; lose energy"
+2890,789,3352,2463,衣 145.6,11,袱,fú,2,a piece of cloth used wrap bundles
+2891,789,3354,1054,殳 79.4,8,殴,ōu,1,"beat, fight with fists, hit"
+2892,789,3358,569,弓 57.3,6,弛,chí,2,"loosen, relax, unstring a bow"
+2893,789,3361,1813,手 64.7,10,捅,tǒng,3,jab
+2894,789,3362,2236,酉 164.4,11,酝,yùn,4,"liquor, spirits, wine; ferment"
+2895,789,3366,2663,金 167.7,12,锈,xiù,4,"rust, corrode"
+2896,789,3367,2949,禾 115.8,13,稠,chóu,2,"dense, crowded, packed; soupy"
+2897,789,3375,6017,女 38.12,15,嬉,xī,1,"enjoy; play, amuse oneself"
+2898,789,3379,3079,木 75.10,14,槛,kǎn,3,"threshold, door-sill"
+2899,789,3380,973,手 64.5,8,拎,līn,1,to haul; to lift; to take
+2900,789,3384,2531,手 64.9,12,搀,chān,1,give helping hand
+2901,789,3385,3407,日 72.14,17,曙,shǔ,3,"bright, light of rising sun"
+2902,789,3388,2684,竹 118.6,12,筛,shāi,1,"sieve, filter, screen; sift"
+2903,789,3391,2988,疒 104.8,13,痹,bì,4,"paralysis, numbness"
+2904,789,3392,2369,犬 94.8,11,猖,chāng,1,"mad, wild, reckless, unruly"
+2905,789,3397,3837,手 64.5,8,抨,pēng,1,"impeach, censure; attack"
+2906,789,3399,1891,口 30.7,10,唠,láo,2,"chat, jaw, gossip, talk"
+2907,789,3400,1417,艸 140.6,9,荧,yíng,2,"shine, shimmer; shining, dazzling"
+2908,789,3404,6421,手 64.17,20,攘,rǎng,3,"seize, take by force; repel"
+2909,789,3418,742,口 30.4,7,呛,qiāng,1,choke by smoke; irritates nose
+2910,789,3419,2680,竹 118.6,12,筐,kuāng,1,bamboo basket or chest
+2911,789,3423,3226,石 112.10,15,磊,lěi,3,pile of rocks or stones; great
+2912,789,3424,3562,馬 187.2,5,驭,yù,4,"drive, ride; manage, control"
+2913,789,3427,590,馬 187.3,6,驮,tuó,2,carry on back
+2914,789,3429,1233,火 86.5,8,炬,jù,4,torch
+2915,789,3431,3457,日 72.15,19,曝,pù,4,"sun, air in sun, expose or dry in the sun"
+2916,789,3436,2689,竹 118.6,12,筝,zhēng,1,stringed musical instrument; kite
+2917,789,3444,2847,艸 140.10,13,蒜,suàn,4,garlic
+2918,789,3447,456,丿 4.5,6,乒,pīng,1,used with pong for ping pong
+2919,789,3460,3074,艸 140.11,14,蔼,ǎi,3,"lush; affable, friendly"
+2920,789,3461,2377,火 86.7,11,烹,pēng,1,"boil, cook; quick fry, stir fry"
+2921,789,3464,856,水 85.4,7,沐,mù,4,"bathe, cleanse, wash, shampoo"
+2922,789,3469,1101,口 30.5,8,咏,yǒng,3,"sing song or poem, hum, chant"
+2923,789,3478,2171,手 64.8,11,捶,chuí,2,"strike with stick, lash, beat"
+2924,789,3492,1243,水 85.5,8,沽,gū,1,buy and sell; inferior in quality
+2925,789,3494,2181,手 64.8,11,掐,qiā,1,hold; gather with hand; choke
+2926,789,3502,457,丿 4.5,6,乓,pāng,1,used with ping for ping pong
+2927,789,3516,2586,酉 164.5,12,酥,sū,1,"butter; flaky, crispy, light, fluffy"
+2928,789,3522,1946,禾 115.5,10,秧,yāng,1,"rice seedlings, young rice plants"
+2929,789,3524,2769,水 85.9,12,溉,gài,4,"water, irrigate, flood; wash"
+2930,789,3528,3454,艸 140.16,19,蘑,mó,2,type of edible mushroom
+2931,789,3530,2865,木 75.9,13,楷,kǎi,3,model style of Chinese writing
+2932,789,3531,3086,酉 164.7,14,酵,jiào,4,"yeast, leaven"
+2933,789,3540,2507,手 64.9,12,揍,zòu,4,"hit, beat; smash, break"
+2934,789,3541,2114,言 149.8,10,诽,fěi,3,"slander, vilify, condemn"
+2935,789,3542,1974,人 9.8,10,倔,jué,2,"stubborn, obstinate, intransigent; firm"
+2936,789,3548,6368,手 64.16,19,攒,zǎn,3,"save, hoard"
+2937,789,3555,790,囗 31.4,7,囱,cōng,1,chimney
+2938,789,3562,1461,歹 78.5,9,殃,yāng,1,"misfortune, disaster, calamity"
+2939,789,3570,984,手 64.5,8,拌,bàn,4,mix
+2940,789,3571,3331,木 75.12,16,橙,chéng,2,orange
+2941,789,3582,2585,酉 164.5,12,酣,hān,1,enjoy intoxicants
+2942,789,3587,267,禾 115.0,5,禾,hé,2,grain still on stalk; rice plant
+2943,789,3592,2448,心 61.8,11,惋,wǎn,3,"regret, be sorry; alarmed"
+2944,789,3603,1791,手 64.7,10,捎,shāo,1,to select; to take; to carry
+2945,789,3613,3198,手 64.12,15,撬,qiào,4,"lift, raise; pry open"
+2946,789,3614,3332,木 75.12,16,橘,jú,2,"orange, tangerine"
+2947,789,3623,821,刀 18.5,7,刨,páo,2,"to dig, to excavate; carpenter's plane"
+2948,789,3635,16,刀 18.0,2,刁,diāo,1,"tricky, sly, crafty, cunning"
+2949,789,3641,2763,水 85.9,12,渝,yú,2,change; chongqing
+2950,789,3642,172,冖 14.2,4,冗,rǒng,3,excessive; superfluous
+2951,789,3645,6254,黍 202.5,17,黏,nián,2,"stick to; glutinous, sticky; glue"
+2952,789,3657,3082,木 75.10,14,榨,zhà,4,to press or extract juices; a press to extract juices; a vegetable
+2953,789,3664,3294,魚 195.7,15,鲨,shā,1,shark
+2954,789,3697,3166,水 85.11,14,漾,yàng,4,"overflow; swirl, ripple; to be tosssed by waves"
+2955,789,3703,252,口 30.2,5,叼,diāo,1,holding in mouth
+2956,789,3704,2736,立 117.7,12,竣,jùn,4,"terminate, end, finish; quit"
+2957,789,3707,3459,足 157.12,19,蹭,cèng,4,"to shuffle, procrastinate, dilly-dally"
+2958,789,3715,2919,足 157.6,13,跤,jiāo,1,"stumble, fall down; wrestle"
+2959,789,3737,1943,禾 115.5,10,秤,chèng,4,"balance, scale, steelyard"
+2960,789,3739,6000,水 85.12,15,潦,lǎo,3,to flood; a puddle; without care
+2961,789,3747,711,卜 25.5,7,卤,lǔ,3,salt
+2962,789,3752,2446,心 61.8,11,惦,diàn,4,"think of, remember, miss"
+2963,789,3759,539,水 85.3,6,汛,xùn,4,"high water, flood tides"
+2964,789,3765,2372,食 184.8,11,馅,xiàn,4,"filling, stuffing; secret"
+2965,789,3775,3461,山 46.16,19,巅,diān,1,"summit of mountain, mountain top"
+2966,789,3781,3424,魚 195.9,17,鳄,è,4,alligator
+2967,789,3782,555,言 149.4,6,讹,é,2,"swindle, cheat; erroneous, wrong"
+2968,789,3795,3047,糸 120.10,13,缤,bīn,1,"flourishing, thriving, abundant"
+2969,789,3844,2725,食 184.9,12,馋,chán,2,"gluttonous, greedy; lewd, lecherous"
+2970,789,3845,3383,穴 116.12,16,窿,lóng,2,"mine shaft; cavity, hole"
+2971,789,3851,435,山 46.3,6,屹,yì,4,to rise high; to stand erect
+2972,789,3857,4005,火 86.4,8,炖,dùn,4,heat with fire; stew
+2973,789,3862,5030,糸 120.8,11,绯,fēi,1,"scarlet, dark red, crimson; purpl"
+2974,789,3869,635,手 64.4,7,抡,lūn,1,"swing, brandish, flourish"
+2975,789,3884,3104,足 157.7,14,踊,yǒng,3,"leap, jump"
+2976,789,3902,3414,貝 154.13,17,赡,shàn,4,"support, aid; rich, elegant"
+2977,789,3911,5606,女 38.10,13,媲,pì,4,"marry off, pair, match; compare"
+2978,789,3932,2565,木 75.9,12,椰,yē,1,"palm tree, coconut palm"
+2979,789,3944,6466,艸 140.19,22,蘸,zhàn,4,dip (a brush); remarry
+2980,789,4004,4319,門 169.6,9,阂,hé,2,blocked or separated; to prevent
+2981,789,4005,1372,手 64.6,9,挎,kuà,4,carry
+2982,789,4024,819,火 86.3,7,灸,jiǔ,3,cauterize with moxa; moxibustion
+2983,789,4087,2408,火 86.7,11,焊,hàn,4,"weld, solder"
+2984,789,4091,6074,風 182.12,16,飙,biāo,1,"whirlwind, stormy gale"
+2985,789,4103,617,手 64.4,7,抠,kōu,1,"raise, lift up; tight-fisted"
+2986,789,4162,2013,食 184.7,10,馁,něi,3,"hungry, starving, famished"
+2987,789,4179,2067,水 85.7,10,涝,lào,4,"inundate, flood; torrent"
+2988,789,4193,2237,酉 164.4,11,酗,xù,4,"drunk, to become violent under the influence of alcohol"
+2989,789,4220,1478,目 109.4,9,盹,dǔn,3,to doze; to nap; to nod
+2990,789,4240,979,手 64.5,8,拄,zhǔ,3,lean on; post; prod; ridicule
+2991,789,4253,2668,手 64.8,12,掰,bāi,1,"(Cant.) to tear, to rip"
+2992,789,4292,4303,子 39.6,9,孪,luán,2,twins
+2993,789,4389,3423,肉 130.13,17,臊,sāo,1,"rank; rancid; frowzy, fetid; bashful"
+2994,789,4421,4305,廾 55.6,9,弈,yì,4,Chinese chess
+2995,789,4485,6092,足 157.9,16,踹,chuài,4,"trample, tread on, kick; to crush"
+2996,789,4487,3771,水 85.4,7,沏,qī,1,infuse
+2997,789,4527,2433,水 85.8,11,涮,shuàn,4,rinse; cook or boil in juice
+2998,789,4552,5536,辵 162.10,13,遛,liú,2,"take walk, stroll"
+2999,789,4865,5506,火 86.9,13,煲,bāo,1,to heat; to boil a saucepan
+3000,789,5076,5794,米 119.8,14,粽,zòng,4,dumpling made of glutinous rice
