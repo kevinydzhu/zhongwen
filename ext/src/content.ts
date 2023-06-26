@@ -1,4 +1,6 @@
 import pinyin from "pinyin";
+import ToJyutping from "to-jyutping";
+
 
 let active = false;
 
@@ -11,6 +13,9 @@ let containsChinese = (str: string | null) => {
 
 let traverseNodes = (node: Node, nodeList: Node[]) => {
     for (let i = 0; i < node.childNodes.length; i++) {
+        if ((node as HTMLElement)?.classList?.contains("pinyin_processed")) {
+            continue;
+        }
         let child = node.childNodes[i];
         if (child.nodeType === Node.TEXT_NODE) {
             if (containsChinese(child.textContent)) {
@@ -35,17 +40,42 @@ let traverseWebpage = () => {
 
 let addPinyin = (node: Node) => {
     let element = (node as HTMLElement);
-    if (!element || element.classList.contains("pinyin")) {
+    if (!element || element.classList.contains("pinyin_processed")) {
         return;
     }
-    element.classList.add("pinyin");
+    element.classList.add("pinyin_processed");
     let text = element.innerHTML;
     element.innerHTML = "";
     while(text.length > 0) {
-        
-        element.insertBefore(document.createTextNode(text), null);
-        element.insertBefore(document.createTextNode("asdf"), element.childNodes[0]);
-        text = "";
+        let idx = text.search(chineseRegex);
+        if (idx === -1) {
+            element.appendChild(document.createTextNode(text));
+            // element.appendChild(document.createTextNode(text));
+            text = "";
+        }
+        else if(idx != 0) {
+            element.appendChild(document.createTextNode(text.substring(0, idx)));
+            // console.log(`concatting ${text.substring(0, idx)}`)
+            // element.appendChild(document.createTextNode(text.substring(0, idx)));
+            text = text.substring(idx);
+        }
+        else {
+            let char = text[0];
+            let chineseCharElement = document.createElement("div");
+            chineseCharElement.className = "pinyin"
+            // chineseCharElement.appendChild(document.createTextNode(pinyin(char)));
+            console.log(pinyin(char));
+
+            let pinyinElement = document.createElement("div");
+            pinyinElement.appendChild(document.createTextNode(pinyin(char)[0][0]));
+            // pinyinElement.appendChild(document.createTextNode(ToJyutping.getJyutpingText(char)));
+
+            chineseCharElement.appendChild(pinyinElement);
+            chineseCharElement.appendChild(document.createTextNode(char));
+
+            element.appendChild(chineseCharElement)
+            text = text.substring(1);
+        }
         // if (idx == -1) {
         //     let textNode = document.createTextNode(text);
         //     element.insertBefore(textNode, element.childNodes[0]);
@@ -58,8 +88,6 @@ let addPinyin = (node: Node) => {
         // }
     }
 }
-
-console.log("hello from ext");
 
 // chrome.action.onClicked.addListener((tab) => {
 //     // traverseNodes(document.getRootNode());

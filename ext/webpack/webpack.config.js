@@ -1,7 +1,7 @@
 const path = require('path');
 const CopyPlugin = require('copy-webpack-plugin');
 module.exports = {
-    mode: "production",
+    mode: "development",
     entry: {
         content: path.resolve(__dirname, "..", "src", "content.ts"),
     },
@@ -26,4 +26,5 @@ module.exports = {
             patterns: [{ from: ".", to: ".", context: "public" }]
         }),
     ],
+    devtool: 'cheap-module-source-map',
 };
